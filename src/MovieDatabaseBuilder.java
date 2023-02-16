@@ -27,4 +27,21 @@ public class MovieDatabaseBuilder {
         return movies;
     }
 
+    public static ArrayList<String> getActorDB(String fileName) {
+        ArrayList<String> actors = new ArrayList<String>();
+        try {
+            File movieData = new File(fileName);
+            Scanner reader = new Scanner(movieData);
+            while (reader.hasNextLine()) {
+                String line = reader.nextLine();
+                actors.add(line);
+            }
+        }
+        catch (FileNotFoundException noFile) {
+            System.out.println("File not found!");
+            return null;
+        }
+        return actors;
+    }
+
 }

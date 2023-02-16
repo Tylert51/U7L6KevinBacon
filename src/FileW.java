@@ -12,7 +12,6 @@ public class FileW {
 
         for(SimpleMovie m : movies) {
             ArrayList<String> actors = m.getActors();
-
             for(String str : actors) {
                 if(!allActors.contains(str)) {
                     allActors.add(str);

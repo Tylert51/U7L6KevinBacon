@@ -20,6 +20,10 @@ public class SimpleMovie implements Comparable<SimpleMovie> {
         return actors;
     }
 
+    public String getTitle() {
+        return title;
+    }
+
     public String toString() {
         return "Title: " + title + "\n" + "Actors: " + actors + "\n";
     }
