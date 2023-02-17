@@ -8,18 +8,28 @@ import java.util.Collections;
 public class FileW {
     public static void main(String[] args) {
 
-        ArrayList<Actor> allActMov = MovieDatabaseBuilder.getActorMovieDB("src/all_actors_movies_sorted.txt");
 
+        ArrayList<Actor> allActorsSort= MovieDatabaseBuilder.getActorMovieDB("src/all_actors_movies_sorted.txt");
+        ArrayList<String> baconCastMates = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
+        ArrayList<Actor> bacon = new ArrayList<Actor>();
 
-
-        Collections.sort(allActMov);
+        for(Actor a : allActorsSort) {
+            String actor = a.getName();
+            for (int i = 0; i < baconCastMates.size(); i++) {
+                String castmate = baconCastMates.get(i);
+                if(actor.equals(castmate)) {
+                    bacon.add(a);
+                    i = baconCastMates.size();
+                }
+            }
+        }
 
 
         try {
-            File f = new File("src/all_actors_movies.txt");
+            File f = new File("src/bacon_cast_sort.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
-            for (Actor a : allActMov) {
+            for (Actor a : bacon) {
                 fw.write(a + "\n");
             }
             fw.close();
