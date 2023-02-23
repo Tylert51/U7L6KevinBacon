@@ -30,15 +30,18 @@ public class Actor implements Comparable<Actor> {
         return str;
     }
 
-    /*
+
     public int compareTo(Actor other) {
         return other.getMoviesStarred().size() - getMoviesStarred().size();
     }
 
-     */
 
 
+
+    /*
     public int compareTo(Actor other) {
         return name.compareTo(other.getName());
     }
+
+     */
 }

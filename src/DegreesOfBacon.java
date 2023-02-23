@@ -3,6 +3,16 @@ import java.util.Scanner;
 
 public class DegreesOfBacon {
     public static void main(String[] args) {
+
+
+
+
+
+
+
+    }
+
+    public static ArrayList calculate() {
         Scanner s = new Scanner(System.in);
         boolean bn2 = false;
 
@@ -20,6 +30,8 @@ public class DegreesOfBacon {
 
         String targActor = s.nextLine();
         ArrayList<String> path = new ArrayList<String>();
+
+        ArrayList<String> ac = new ArrayList<>();
 
         while (!targActor.equals("q")) {
             int degree = 0;
@@ -66,7 +78,7 @@ public class DegreesOfBacon {
                             String movieSearch = movies.get(j);
                             int indxOfMov = fullSearch2(allMoviesSort, movieSearch);
                             SimpleMovie mov = allMovies.get(indxOfMov);
-                            ArrayList<String> lastLvlActors = mov.getActors();
+                            ArrayList<String> lastLvlActors = (ArrayList<String>) mov.getActors().clone();
 
                             if(lastLvlActors.contains(searchAc)) {
                                 path.add(searchAc);
@@ -83,63 +95,17 @@ public class DegreesOfBacon {
 
                                 bn2 = true;
 
+
+
                             }
+
+                            ac.addAll(lastLvlActors);
                         }
                     }
 
                     System.out.println("Nope");
 
-                    if (!bn2) {// degree 3
-                        degree++;
 
-                        for (int i = 0; i < baconCmSort.size(); i++) {
-                            System.out.println("SMH");
-                            String bacActor = baconCmSort.get(i).split("---")[0];
-                            int indxOfA = binarySearch2(allActors, bacActor);
-                            ArrayList<String> movies = allActors.get(indxOfA).getMoviesStarred();
-
-                            for (int j = 0; j < movies.size(); j++) {
-                                //System.out.println("SMH");
-                                String movieSearch = movies.get(j);
-                                int indxOfMov = fullSearch2(allMoviesSort, movieSearch);
-                                SimpleMovie mov = allMovies.get(indxOfMov);
-                                ArrayList<String> lastLvlActors = mov.getActors();
-
-                                for (int q = 0; q < lastLvlActors.size(); q++) {
-
-                                    String actor = lastLvlActors.get(q);
-                                    int indOfActor = binarySearch2(allActors, actor);
-                                    if(indOfActor != -1) {
-                                        ArrayList<String> movies2 = allActors.get(indOfActor).getMoviesStarred();
-                                        for (int w = 0; w < movies2.size(); w++) {
-                                            String movieSearch2 = movies2.get(w);
-                                            int indxOfMov2 = fullSearch2(allMoviesSort, movieSearch2);
-                                            SimpleMovie mov2 = allMovies.get(indxOfMov2);
-                                            ArrayList<String> lastLvlActors2 = mov.getActors();
-                                            //System.out.println(lastLvlActors2.get(0));
-                                            //System.out.println("SMH");
-
-                                            if (lastLvlActors2.contains(searchAc)) {
-                                                path.add(searchAc);
-                                                path.add(mov2.getTitle());
-                                                path.add(actor);
-                                                path.add(mov.getTitle());
-                                                path.add(bacActor);
-
-                                                int indxOfBacAct = fullSearch(baconMovies, bacActor);
-                                                path.add(baconMovies.get(indxOfBacAct).getTitle());
-
-                                                printPath(path, degree);
-                                            }
-
-                                        }
-                                    }
-
-                                }
-
-                            }
-                        }
-                    }
                 }
             }
 
@@ -152,11 +118,7 @@ public class DegreesOfBacon {
 
         }
 
-
-
-
-
-
+        return ac;
     }
 
     public static int binarySearch1(ArrayList<String> list, String target) {
