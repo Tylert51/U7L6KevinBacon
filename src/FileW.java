@@ -8,16 +8,19 @@ import java.util.Collections;
 public class FileW {
     public static void main(String[] args) {
 
-        ArrayList<String> allD2Ac = MovieDatabaseBuilder.getActorDB("d2_actors.txt");
+        ArrayList<String> filler = new ArrayList<String>();
+
+
+
 
         try {
-            File f = new File("src/d2_actors_sort.txt");
+            File f = new File("src/d2Act.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
             int counter = 1;
-            for (String a : allD2Ac) {
+            for (String a : filler) {
                 fw.write(a + "\n");
-                System.out.println(counter + " / " + allD2Ac.size());
+                System.out.println(counter + " / " + filler.size());
                 counter++;
             }
             fw.close();

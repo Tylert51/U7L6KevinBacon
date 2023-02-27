@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class DegreesOfBacon {
     public static void main(String[] args) {
-
+        calculate();
 
 
 
