@@ -42,7 +42,7 @@ public class Bacon {
                 path.add(baconCastMov.get(indOfAc).getMoviesStarred().get(0));
 
                 printPath(path, degree);
-            } else  {    // degree 2
+            } else  {      // degree 2
                 degree = 2;
 
                 for(int i = 0; i < baconCastMov.size(); i++) {
