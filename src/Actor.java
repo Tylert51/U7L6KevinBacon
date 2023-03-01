@@ -24,7 +24,7 @@ public class Actor implements Comparable<Actor> {
     public String toString() {
         String str = name + "---";
         for(String m : moviesStarred) {
-            str += m + ":";
+            str += m + ":::";
         }
 
         return str;

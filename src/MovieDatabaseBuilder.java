@@ -53,7 +53,7 @@ public class MovieDatabaseBuilder {
             while (reader.hasNextLine()) {
                 String line = reader.nextLine();
                 String[] data = line.split("---");
-                String[] movies = data[1].split(":");
+                String[] movies = data[1].split(":::");
                 ArrayList<String> moviesStarred = new ArrayList<String>(List.of(movies));
                 Actor a = new Actor(data[0], moviesStarred);
                 actMov.add(a);

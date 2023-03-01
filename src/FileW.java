@@ -7,20 +7,41 @@ import java.util.Collections;
 
 public class FileW {
     public static void main(String[] args) {
+        int counter = 1;
 
-        ArrayList<String> filler = new ArrayList<String>();
+        ArrayList<String> allActors = MovieDatabaseBuilder.getActorDB("src/all_actors.txt");
+        ArrayList<Actor> actorToMov = new ArrayList<Actor>();
+        ArrayList<SimpleMovie> allMovies = MovieDatabaseBuilder.getMovieDB("src/movies_sorted_delimiter.txt");
+
+        for (String act : allActors) {
+            ArrayList<String> moviesStarred = new ArrayList<>();
+            for (int i = 0; i < allMovies.size(); i++) {
+                ArrayList<String> actors = allMovies.get(i).getActors();
+
+                if (actors.contains(act)) {
+                    moviesStarred.add(allMovies.get(i).getTitle());
+                }
+            }
+            actorToMov.add(new Actor(act, moviesStarred));
+
+            System.out.println(counter + " / " + allActors.size());
+            counter++;
+        }
+
+
+
 
 
 
 
         try {
-            File f = new File("src/d2Act.txt");
+            File f = new File("src/actor_to_mov.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
-            int counter = 1;
-            for (String a : filler) {
+            counter = 1;
+            for (Actor a : actorToMov) {
                 fw.write(a + "\n");
-                System.out.println(counter + " / " + filler.size());
+                System.out.println(counter + " / " + actorToMov.size());
                 counter++;
             }
             fw.close();
