@@ -3,10 +3,11 @@ import java.util.Scanner;
 
 public class Bacon {
     private Scanner s = new Scanner(System.in);
-    private static ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_move.txt");
+    private static ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov.txt");
     private static ArrayList<Actor> d2A = MovieDatabaseBuilder.getActorMovieDB("src/d2Act.txt");
+    private static ArrayList<SimpleMovie> baconMovies = MovieDatabaseBuilder.getMovieDB("src/bacon_movies_del.txt");
     private static ArrayList<String> baconCast = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
-    private static ArrayList<Actor> baconCastMov = MovieDatabaseBuilder.getActorMovieDB("src/bacon_cast_sort.txt");
+    private static ArrayList<Actor> baconCastMov = MovieDatabaseBuilder.getActorMovieDB("src/bacon_m_mov.txt");
     private static ArrayList<SimpleMovie> allMovies = MovieDatabaseBuilder.getMovieDB("src/movies_sorted_delimiter.txt");
     private static ArrayList<String> path = new ArrayList<String>();
 
@@ -42,18 +43,23 @@ public class Bacon {
 
                 printPath(path, degree);
             } else  {    // degree 2
+                degree = 2;
+
                 for(int i = 0; i < baconCastMov.size(); i++) {
                     String actor = baconCastMov.get(i).getName();
                     ArrayList<String> movies = baconCastMov.get(i).getMoviesStarred();
 
                     for(int x = 0; x < movies.size(); x++) {
                         int indOfM = fullSearch2(allMovies, movies.get(x));
-                        ArrayList<String> nextLvl = allMovies.get(i).getActors();
+                        ArrayList<String> nextLvl = allMovies.get(indOfM).getActors();
 
                         if(nextLvl.contains(searchAc)) {
                             path.add(searchAc);
-                            path.add(allMovies.get(x).getTitle());
+                            path.add(allMovies.get(indOfM).getTitle());
                             path.add(actor);
+
+                            int indOfBac = fullSearch(baconMovies, actor);
+                            path.add(baconMovies.get(indOfBac).getTitle());
 
                             x = movies.size();
                             i = baconCastMov.size();

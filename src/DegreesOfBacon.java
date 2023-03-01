@@ -6,12 +6,12 @@ public class DegreesOfBacon {
         Scanner s = new Scanner(System.in);
         boolean bn2 = false;
 
-        ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_move.txt");
+        ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov.txt");
         ArrayList<Actor> d2A = MovieDatabaseBuilder.getActorMovieDB("src/d2Act.txt");
 
         System.out.print("Welcome to the Degrees of Bacon Calculator\n\nEnter and actor's name or (q) to quit: ");
 
-        ArrayList<Actor> allActorsSort= MovieDatabaseBuilder.getActorMovieDB("src/all_actors_movies_sorted.txt");
+
 
         ArrayList<String> baconCastMates = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
         ArrayList<String> baconCmSort = MovieDatabaseBuilder.getActorDB("src/bacon_cast_sort.txt");
