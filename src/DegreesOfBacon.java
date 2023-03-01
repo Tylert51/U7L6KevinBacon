@@ -3,20 +3,11 @@ import java.util.Scanner;
 
 public class DegreesOfBacon {
     public static void main(String[] args) {
-        calculate();
-
-
-
-
-
-
-    }
-
-    public static ArrayList calculate() {
         Scanner s = new Scanner(System.in);
         boolean bn2 = false;
 
         ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/all_actors_movies.txt");
+        ArrayList<Actor> d2A = MovieDatabaseBuilder.getActorMovieDB("src/d2Act.txt");
 
         System.out.print("Welcome to the Degrees of Bacon Calculator\n\nEnter and actor's name or (q) to quit: ");
 
@@ -30,8 +21,6 @@ public class DegreesOfBacon {
 
         String targActor = s.nextLine();
         ArrayList<String> path = new ArrayList<String>();
-
-        ArrayList<String> ac = new ArrayList<>();
 
         while (!targActor.equals("q")) {
             int degree = 0;
@@ -95,30 +84,82 @@ public class DegreesOfBacon {
 
                                 bn2 = true;
 
-
-
                             }
-
-                            ac.addAll(lastLvlActors);
                         }
                     }
-
                     System.out.println("Nope");
+
+                    if(!bn2) {
+                        degree++;
+                        searchAc = results.get(numPick - 1);
+
+                        int counter = 1;
+
+
+                        for (int i = 0; i < d2A.size(); i++) {
+                            ArrayList<String> movies = d2A.get(i).getMoviesStarred();
+
+                            System.out.println(counter + " / " + d2A.size());
+                            counter++;
+
+                            for(String m : movies) {
+                                int indOfMov = fullSearch2(allMoviesSort, m);
+                                ArrayList<String> actors = allMovies.get(indOfMov).getActors();
+
+
+                                if (actors.contains(searchAc)) {
+                                    path.add(searchAc);
+                                    path.add(m);
+
+
+                                    searchAc = d2A.get(i).getName();
+
+                                    for(int x = 0 ; x < baconCmSort.size(); x++) {
+                                        String bacActor = baconCmSort.get(x).split("---")[0];
+                                        int indxOfA = binarySearch2(allActors, bacActor);
+                                        ArrayList<String> movies2 = allActors.get(indxOfA).getMoviesStarred();
+
+                                        for (int j = 0; j < movies2.size(); j++) {
+                                            String movieSearch = movies2.get(j);
+                                            int indxOfMov = fullSearch2(allMoviesSort, movieSearch);
+                                            SimpleMovie mov = allMovies.get(indxOfMov);
+                                            ArrayList<String> lastLvlActors = (ArrayList<String>) mov.getActors().clone();
+
+                                            if(lastLvlActors.contains(searchAc)) {
+                                                path.add(searchAc);
+                                                path.add(mov.getTitle());
+                                                path.add(bacActor);
+
+                                                int indxOfBacAct = fullSearch(baconMovies, bacActor);
+                                                path.add(baconMovies.get(indxOfBacAct).getTitle());
+
+                                                printPath(path, degree);
+
+                                                x = baconCmSort.size();
+                                                j = movies.size();
+
+                                            }
+                                        }
+                                    }
+                                    i = d2A.size();
+
+                                }
+                            }
+                        }
+                    }
 
 
                 }
             }
+
+            bn2 = false;
 
             System.out.print("Enter and actor's name or (q) to quit: ");
             targActor = s.nextLine();
             targActor = s.nextLine();
             path.clear();
 
-
-
         }
-
-        return ac;
     }
 
     public static int binarySearch1(ArrayList<String> list, String target) {
