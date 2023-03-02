@@ -14,15 +14,12 @@ public class Bacon {
     private static String searchAc;
 
     public static void calculate() {
-
-
         Scanner s = new Scanner(System.in);
         boolean bn2 = false;
 
         System.out.print("Welcome to the Degrees of Bacon Calculator\n\nEnter and actor's name or (q) to quit: ");
 
         String targActor = s.nextLine();
-
 
         while (!targActor.equals("q")) {
             int degree = 0;
@@ -35,7 +32,6 @@ public class Bacon {
 
             if (searchAc.equals("Kevin Bacon")) {   // degree 0
                 path.add("Kevin Bacon");
-
 
             } else if (baconCast.contains(searchAc)) {   // degree 1
                 degree++;
@@ -146,8 +142,6 @@ public class Bacon {
 
     }
 
-
-
     public static int fullSearchMA(ArrayList<SimpleMovie> list , String target) {
         for(int i = 0; i < list.size(); i++) {
             if (list.get(i).getActors().contains(target)) {
@@ -200,7 +194,7 @@ public class Bacon {
         for (int i = 0; i < p.size(); i++) {
             str += p.get(i) + " -> ";
         }
-        str += " Kevin Bacon";
+        str += "Kevin Bacon";
 
         System.out.println(str);
         System.out.println("Bacon Number: " + baconN);
