@@ -1,25 +1,28 @@
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Scanner;
 
 public class Bacon {
     private Scanner s = new Scanner(System.in);
     private static ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov.txt");
-    private static ArrayList<Actor> d2A = MovieDatabaseBuilder.getActorMovieDB("src/d2Act.txt");
+    private static ArrayList<String> d2A = MovieDatabaseBuilder.getActorDB("src/d2Act.txt");
     private static ArrayList<SimpleMovie> baconMovies = MovieDatabaseBuilder.getMovieDB("src/bacon_movies_del.txt");
     private static ArrayList<String> baconCast = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
-    private static ArrayList<Actor> baconCastMov = MovieDatabaseBuilder.getActorMovieDB("src/bacon_m_mov.txt");
     private static ArrayList<SimpleMovie> allMovies = MovieDatabaseBuilder.getMovieDB("src/movies_sorted_delimiter.txt");
     private static ArrayList<String> path = new ArrayList<String>();
 
     private static String searchAc;
 
     public static void calculate() {
+
+
         Scanner s = new Scanner(System.in);
         boolean bn2 = false;
 
         System.out.print("Welcome to the Degrees of Bacon Calculator\n\nEnter and actor's name or (q) to quit: ");
 
         String targActor = s.nextLine();
+
 
         while (!targActor.equals("q")) {
             int degree = 0;
@@ -32,57 +35,122 @@ public class Bacon {
 
             if (searchAc.equals("Kevin Bacon")) {   // degree 0
                 path.add("Kevin Bacon");
-                printPath(path, degree);
+
 
             } else if (baconCast.contains(searchAc)) {   // degree 1
                 degree++;
 
-                int indOfAc = fullSearch1(baconCastMov, searchAc);
+                int indOfAc = fullSearchMA(baconMovies, searchAc);
                 path.add(searchAc);
-                path.add(baconCastMov.get(indOfAc).getMoviesStarred().get(0));
+                path.add(baconMovies.get(indOfAc).getTitle());
 
-                printPath(path, degree);
-            } else  {      // degree 2
+            } else if (d2A.contains(searchAc)) {      // degree 2
                 degree = 2;
 
-                for(int i = 0; i < baconCastMov.size(); i++) {
-                    String actor = baconCastMov.get(i).getName();
-                    ArrayList<String> movies = baconCastMov.get(i).getMoviesStarred();
+                int indOfAc = fullSearchA(allActors, searchAc);
+                ArrayList<String> moviesStarred = allActors.get(indOfAc).getMoviesStarred();
 
-                    for(int x = 0; x < movies.size(); x++) {
-                        int indOfM = fullSearch2(allMovies, movies.get(x));
-                        ArrayList<String> nextLvl = allMovies.get(indOfM).getActors();
+                for(int i = 0; i < moviesStarred.size(); i++) {
+                    int indOfMov = fullSearchMT(allMovies, moviesStarred.get(i));
+                    ArrayList<String> actors = allMovies.get(indOfMov).getActors();
 
-                        if(nextLvl.contains(searchAc)) {
+                    for(int x = 0; x < actors.size(); x++) {
+                        String currAct = actors.get(x);
+                        if (baconCast.contains(currAct)) {
+                            int indOfLast = baconCast.indexOf(currAct);
+
                             path.add(searchAc);
-                            path.add(allMovies.get(indOfM).getTitle());
-                            path.add(actor);
+                            path.add(allMovies.get(indOfMov).getTitle());
 
-                            int indOfBac = fullSearch(baconMovies, actor);
-                            path.add(baconMovies.get(indOfBac).getTitle());
-
-                            x = movies.size();
-                            i = baconCastMov.size();
+                            searchAc = baconCast.get(indOfLast);
+                            x = actors.size();
+                            i = moviesStarred.size();
                         }
                     }
                 }
 
+                indOfAc = fullSearchMA(baconMovies, searchAc);
+                path.add(searchAc);
+                path.add(baconMovies.get(indOfAc).getTitle());
+
+            } else {  // degree 3
+                degree = 3;
+
+                int indOfAc = fullSearchA(allActors, searchAc);
+                ArrayList<String> moviesStarred = allActors.get(indOfAc).getMoviesStarred();
+
+                for(int i = 0; i < moviesStarred.size(); i++) {
+                    int indOfMov = fullSearchMT(allMovies, moviesStarred.get(i));
+                    ArrayList<String> actors = allMovies.get(indOfMov).getActors();
+
+                    for(int x = 0; x < actors.size(); x++) {
+                        String currAct = actors.get(x);
+
+                        if (d2A.contains(currAct)) {
+                            int indOfSec = d2A.indexOf(currAct);
+
+                            path.add(searchAc);
+                            path.add(allMovies.get(indOfMov).getTitle());
+
+                            searchAc = d2A.get(indOfSec);
+
+                            x = actors.size();
+                            i = moviesStarred.size();
+                        }
+                    }
+                }
+                indOfAc = fullSearchA(allActors, searchAc);
+                ArrayList<String> mStarred = allActors.get(indOfAc).getMoviesStarred();
+
+                for(int i = 0; i < mStarred.size(); i++) {
+                    int indOfMov = fullSearchMT(allMovies, mStarred.get(i));
+                    ArrayList<String> actors = allMovies.get(indOfMov).getActors();
+
+                    for(int x = 0; x < actors.size(); x++) {
+                        String currAct = actors.get(x);
+                        if (baconCast.contains(currAct)) {
+                            int indOfLast = baconCast.indexOf(currAct);
+
+                            path.add(searchAc);
+                            path.add(allMovies.get(indOfMov).getTitle());
+
+                            searchAc = baconCast.get(indOfLast);
+
+                            x = actors.size();
+                            i = mStarred.size();
+                        }
+                    }
+                }
+
+                indOfAc = fullSearchMA(baconMovies, searchAc);
+
+                if (indOfAc != -1) {
+                    path.add(searchAc);
+                    path.add(baconMovies.get(indOfAc).getTitle());
+                }
+            }
+
+            if (path.size() != degree * 2) {
+                System.out.println("Sorry, the actor you have entered is greater than degree 3");
+            } else {
+                System.out.println();
                 printPath(path, degree);
             }
 
-
+            System.out.println();
             System.out.print("Enter and actor's name or (q) to quit: ");
             s.nextLine();
             targActor = s.nextLine();
             path.clear();
         }
+
     }
 
 
 
-    public static int fullSearch(ArrayList<SimpleMovie> list , String target) {
+    public static int fullSearchMA(ArrayList<SimpleMovie> list , String target) {
         for(int i = 0; i < list.size(); i++) {
-            if (list.get(i).getActors().equals(target)) {
+            if (list.get(i).getActors().contains(target)) {
                 return i;
             }
         }
@@ -90,7 +158,7 @@ public class Bacon {
         return -1;
     }
 
-    public static int fullSearch1(ArrayList<Actor> list , String target) {
+    public static int fullSearchA(ArrayList<Actor> list , String target) {
         for(int i = 0; i < list.size(); i++) {
             if (list.get(i).getName().equals(target)) {
                 return i;
@@ -100,7 +168,7 @@ public class Bacon {
         return -1;
     }
 
-    public static int fullSearch2(ArrayList<SimpleMovie> list , String target) {
+    public static int fullSearchMT(ArrayList<SimpleMovie> list , String target) {
         for(int i = 0; i < list.size(); i++) {
             if (list.get(i).getTitle().equals(target)) {
                 return i;
@@ -136,8 +204,5 @@ public class Bacon {
 
         System.out.println(str);
         System.out.println("Bacon Number: " + baconN);
-
-
     }
-
 }

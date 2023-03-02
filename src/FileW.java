@@ -9,34 +9,15 @@ public class FileW {
     public static void main(String[] args) {
         int counter = 1;
 
-        ArrayList<String> bMates = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
-        ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov_sort.txt");
-        ArrayList<Actor> bMatesMov = new ArrayList<>();
+        ArrayList<String> filler = new ArrayList<String>();
 
-        for (String mate : bMates) {
-            ArrayList<String> moviesStarred = new ArrayList<>();
-
-            for(int i = 0; i < allActors.size(); i++) {
-                String actor = allActors.get(i).getName();
-
-                if(actor.contains(mate)) {
-                    moviesStarred = (ArrayList<String>) allActors.get(i).getMoviesStarred().clone();
-                    i = allActors.size();
-                }
-            }
-
-            System.out.println(counter + " / " + bMates.size());
-            counter++;
-
-            bMatesMov.add(new Actor(mate, moviesStarred));
-        }
 
         try {
-            File f = new File("src/bacon_m_mov.txt");
+            File f = new File("src/filler.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
 
-            for (Actor a : bMatesMov) {
+            for (String a : filler) {
                 fw.write(a + "\n");
 
             }
@@ -46,7 +27,5 @@ public class FileW {
             System.out.println("Writing file failed");
             System.out.println(ioe);
         }
-
-
     }
 }
