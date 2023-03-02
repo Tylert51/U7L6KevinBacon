@@ -126,11 +126,11 @@ public class Bacon {
                 }
             }
 
-            if (path.size() != degree * 2) {
-                System.out.println("Sorry, the actor you have entered is greater than degree 3");
-            } else {
+            if (path.size() == degree * 2 || degree == 0) {
                 System.out.println();
                 printPath(path, degree);
+            } else {
+                System.out.println("Sorry, the actor you have entered is greater than degree 3");
             }
 
             System.out.println();
