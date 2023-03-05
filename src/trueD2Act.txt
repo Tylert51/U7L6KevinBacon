@@ -211,7 +211,6 @@ A.C. Lyles
 A.C. Petersen
 A.C. Peterson
 A.D. Miles
-A.H. Frahlich
 A.J. Bakunas
 A.J. Benza
 A.J. Buckley
@@ -335,12 +334,10 @@ Aaron Vaughn
 Aaron Vexler
 Aaron Vodovoz
 Aaron White
-Aaron Wilcox
 Aaron Wolff
 Aaron Yoo
 Aasif Mandvi
 Abbe Meryl Feder
-Abbey Brooks
 Abbey Clancy
 Abbey Lee
 Abbey Lee Kershaw|Abbey Lee
@@ -374,7 +371,6 @@ Abdullah Gaith
 Abdullah Lamrani
 Abdurahman Shalja
 Abe Laboriel Jr.
-Abe Lyman
 Abe Sapien
 Abe Temba
 Abe Vigoda
@@ -807,13 +803,11 @@ Adrien Cayla-Legrand
 Adrien Dixon
 Adrien Dorval
 Adrien de Van
-Adrienne Ames
 Adrienne Arsenault
 Adrienne Bailon|Adrienne Eliza Bailon
 Adrienne Barbeau
 Adrienne C. Moore
 Adrienne Corri
-Adrienne D'Ambricourt
 Adrienne Howard
 Adrienne La Russa
 Adrienne Lovette
@@ -862,13 +856,11 @@ Agda Antonio
 Age
 Agenore Incrocci
 Agga Olsen
-Aggie Herring
 Aggie Peterson
 Agi Gyenes
 Aglaia Szyszkowitz
 Agnes Albright
 Agnes Bruckner
-Agnes Marc
 Agnes Moorehead
 Agnessa Yudintseva
 Agneta Eckemyr
@@ -882,6 +874,7 @@ Agnès Spaak
 Agnès Varda
 Agostina Belli
 Agumeuay Nakanakis
+Agustin Mayor
 Agustin Rodriguez
 Agustín Almodóvar
 Agustín Pereyra Lucena
@@ -945,11 +938,9 @@ Aidy Bryant
 Aiko Horiuchi
 Aila
 Aileaha Jones
-Aileen Allen
 Aileen Burdock
 Aileen Campbell
 Aileen Marson
-Aileen Pringle
 Aileen Quinn
 Ailish McCarthy
 Ailsa Berk
@@ -1068,8 +1059,6 @@ Al Green
 Al Guarino
 Al Guther
 Al Hart
-Al Hart (actor)|Al Hart
-Al Hill (actor)|Al Hill
 Al Hodek
 Al Hoffman
 Al Hopson
@@ -1117,10 +1106,8 @@ Al Septien
 Al Shannon
 Al Sharpton
 Al Snow
-Al St. John
 Al Strobel
 Al Tantay
-Al Taylor (actor)|Al Taylor
 Al Thompson
 Al Thompson (actor)|Al Thompson
 Al Tipay
@@ -1191,7 +1178,6 @@ Alan DeWitt
 Alan Devine
 Alan Devlin (actor)|Alan Devlin
 Alan Dexter
-Alan Dinehart
 Alan Dobie
 Alan Doyle
 Alan Dukes
@@ -1259,7 +1245,6 @@ Alan Rachins
 Alan Reed
 Alan Rickman
 Alan Ritchson
-Alan Roscoe
 Alan Rosenberg
 Alan Rothwell
 Alan Rowe Kelly
@@ -1335,13 +1320,11 @@ Albert Carrier
 Albert Chung
 Albert Cole
 Albert Collins
-Albert Conti
 Albert Daniels
 Albert Delpy
 Albert Finney
 Albert Florath
 Albert Garcia
-Albert Gran
 Albert Hague
 Albert Hall
 Albert Hall (actor)|Albert Hall
@@ -1349,7 +1332,6 @@ Albert Hammond Jr.
 Albert Henderson (actor)|Albert Henderson
 Albert Howell
 Albert Insinnia
-Albert J. Smith (actor)|Albert J. Smith
 Albert Jones
 Albert Kimaliakyuk
 Albert Kuo
@@ -1358,7 +1340,6 @@ Albert Lieven
 Albert Macklin
 Albert Malafronte
 Albert Maritz
-Albert Michel
 Albert Morin
 Albert Nelson (actor)|Albert Nelson
 Albert Nerenberg
@@ -1407,7 +1388,6 @@ Albie Hecht
 Albie Marber
 Albie Whitaker
 Aldaniti
-Alden Chase
 Alden Ehrenreich
 Aldis Hodge
 Aldo Barberito
@@ -1434,7 +1414,6 @@ Aldous Davidson
 Aldrich Bowker
 Aleah Lennon
 Aleandra Newcomb
-Alec B. Francis
 Alec Berg
 Alec Burden
 Alec Clunes
@@ -1538,7 +1517,6 @@ Alessandro Babalola
 Alessandro Bergonzoni
 Alessandro Campagna
 Alessandro Cocco
-Alessandro Colla
 Alessandro Costantini
 Alessandro Fabrizi
 Alessandro Gassman
@@ -1770,7 +1748,6 @@ Alexa Hamilton
 Alexa Jago
 Alexa Kenin
 Alexa Mareka
-Alexa Nicole
 Alexa Nikolas
 Alexa PenaVega
 Alexa PenaVega|Alexa Vega
@@ -1818,7 +1795,6 @@ Alexander Fraser
 Alexander Godunov
 Alexander Goodwin
 Alexander Gould
-Alexander Gray
 Alexander Grech III
 Alexander Gregory
 Alexander Hoy
@@ -2024,7 +2000,6 @@ Alfonso Ribeiro
 Alfonso Rodríguez (director)|Alfonso Rodríguez
 Alfonzo Rachel
 Alfre Woodard and Geoffrey Jones
-Alfred Allen (actor)|Alfred Allen
 Alfred Avila
 Alfred Barker Jr.
 Alfred Briere
@@ -2062,7 +2037,6 @@ Alfredo Rodríguez
 Alfredo Varelli
 Alfredo Álvarez
 Algee Smith
-Algernon West
 Ali Ahmed Salem
 Ali Astin
 Ali Burch
@@ -2104,12 +2078,10 @@ Alice Beardsley
 Alice Braga
 Alice Callahan
 Alice Carter
-Alice Carter (actress)|Alice Carter
 Alice Colombo Oxman
 Alice Cooper (band)|The Alice Cooper Band
 Alice Cutter
 Alice Dardenne
-Alice Day
 Alice Dinnean
 Alice Douglas
 Alice Drummond
@@ -2132,6 +2104,7 @@ Alice Kushida
 Alice Lee (actress)|Alice Lee
 Alice Lo
 Alice Lowe
+Alice Lyon
 Alice Macdonald
 Alice Marie Crowe
 Alice McDermott
@@ -2151,7 +2124,6 @@ Alice Tissot
 Alice Treff
 Alice Tweedie
 Alice Walker
-Alice Ward
 Alice Wen
 Alice West
 Alice de Buhr
@@ -2201,10 +2173,8 @@ Alina Arenal
 Alina Cho
 Alina Foley
 Alina Kovalenko
-Alina Lee
 Alina Lia
 Aline Küppenheim
-Aline Levasseur
 Aline MacMahon
 Aline Mowat
 Aline Towne
@@ -2273,7 +2243,6 @@ Alissa Kramer
 Alissa Torvinen
 Alistair Abell
 Alistair Begg
-Alistair MacDonald (actor)|Alistair MacDonald
 Alistair McGowan
 Alistair McKenzie
 Alistair Moulton Black
@@ -2324,6 +2293,7 @@ Allan Jeayes
 Allan Katz
 Allan Kayser
 Allan Kolman
+Allan Laurel
 Allan Love
 Allan Lurie
 Allan Lysell
@@ -2368,6 +2338,7 @@ Allen Johnson
 Allen Joseph
 Allen Jung
 Allen K. Berstein
+Allen Laurel
 Allen Leaf
 Allen Leech
 Allen Lewis Rickman
@@ -2391,7 +2362,6 @@ Allie DiMeco
 Allie Esiri|Allie Byrne
 Allie Gallerani
 Allie Gonino
-Allie Haze
 Allie MacDonald
 Allie McCulloch
 Allie Mickelson
@@ -2447,13 +2417,11 @@ Allyn Joslyn
 Allyn Rachel
 Allyson Sereboff
 Alma Beltran
-Alma Bennett
 Alma Concepcion
 Alma Cuervo
 Alma Martinez
 Alma Martínez
 Alma Prica
-Alma Rubens
 Alma Sisneros
 Alma Terzić
 Almamegretta|Raiz
@@ -2480,7 +2448,6 @@ Alphonse Mouzone
 Alphonso McAuley
 Also
 Alston Brown
-Alta Allen
 Altagracia Guzman
 Althea Cassidy
 Althea Sam
@@ -2694,7 +2661,6 @@ Amber Midthunder
 Amber Montana
 Amber Nash
 Amber O'Shea
-Amber Rayne
 Amber Riley
 Amber Rose
 Amber Rose Revah
@@ -2960,6 +2926,7 @@ Anand Desai-Barochia
 Anand Tiwari
 Anang Desai
 Ananya Berg
+Ananya LO
 Anastasia Baboussouras
 Anastasia Bampos
 Anastasia Fielding
@@ -2996,7 +2963,6 @@ Andersen Gabrych
 Anderson
 Anderson .Paak
 Anderson Folsom
-Anderson Lawler
 Anderson Martin
 Anderson Silva
 Anderson Wong
@@ -3017,7 +2983,6 @@ Andre Arruda
 Andre B. Blake
 Andre Belgrader
 Andre Benita
-Andre Beranger
 Andre Braugher
 Andre Charisse
 Andre De Shields
@@ -3031,6 +2996,7 @@ Andre Holland
 Andre Hyland
 Andre Khabbazi
 Andre Kinney
+Andre Mayers
 Andre Noble
 Andre Patton
 Andre Philippe
@@ -3257,7 +3223,6 @@ Andrew Kreisberg
 Andrew Kötting
 Andrew Largen
 Andrew Lauer
-Andrew Lauer|Andy Lauer
 Andrew Lauren
 Andrew Lawrence (actor)|Andrew Lawrence
 Andrew Lee
@@ -3333,7 +3298,6 @@ Andrew Shue
 Andrew Simms
 Andrew Simpson
 Andrew Simpson (actor)|Andrew Simpson
-Andrew Snider
 Andrew Sommerich
 Andrew Stahl|Andy Stahl
 Andrew Steel
@@ -3380,12 +3344,10 @@ András Bálint
 András Gönczöl
 András Stohl
 André 3000|André Benjamin
-André Alerme
 André Beinö
 André Benjamin
 André Bishop
 André Champeau
-André Cheron (actor)|André Cheron
 André De Shields
 André Dussollier
 André Gille
@@ -3401,7 +3363,6 @@ André Maranne
 André Morell
 André Oumansky
 André Penvern
-André Philip
 André Previn
 André Robitaille
 André Sogliuzzo
@@ -3729,7 +3690,6 @@ Anie Stanley
 Anika Baumgartlinger
 Anika McFall
 Anika Noni Rose
-Anikka Albrite
 Anikó Vincze
 Anil Bhagwat
 Anil Kapoor
@@ -3798,7 +3758,6 @@ Ann Bell
 Ann Brisk
 Ann Bronston
 Ann Carey
-Ann Carter
 Ann Collin
 Ann Cooper
 Ann Crawford Dreher
@@ -3830,7 +3789,6 @@ Ann Magnuson
 Ann Mahoney
 Ann Marshall
 Ann McDonough
-Ann McKay
 Ann McKenzie
 Ann Mckenzie
 Ann Miles
@@ -3840,8 +3798,6 @@ Ann Morgan Guilbert|Ann Guilbert
 Ann Muffly
 Ann Nelson
 Ann Nesby
-Ann Pennington (Ziegfeld star)|Ann Pennington
-Ann Pennington (actress)|Ann Pennington
 Ann Pennington (model)|Ann Pennington
 Ann Prentiss
 Ann Queensberry
@@ -3850,7 +3806,6 @@ Ann Richards
 Ann Richardson Howland
 Ann Risley
 Ann Robinson
-Ann Rork Light|Ann Rork
 Ann Ruffols
 Ann Rutherford
 Ann Ryerson
@@ -3878,7 +3833,6 @@ Ann Wood
 Ann Yen
 Ann-Christin Lobråten
 Ann-Margret
-Ann-Marie MacDonald
 AnnJewel Lee Dixon
 Anna
 Anna A. White
@@ -3911,10 +3865,8 @@ Anna Cifuentes
 Anna Clark
 Anna Colwell
 Anna Deavere Smith
-Anna Demetrio
 Anna Di Lorenzo
 Anna Diop
-Anna Dodge
 Anna Enger
 Anna Faris
 Anna Farnworth
@@ -3952,12 +3904,10 @@ Anna Lise Phillips
 Anna Lise Phillips|Anna-Lise Phillips
 Anna Livia Ryan
 Anna Louise Daniels
-Anna Lovato
 Anna Madeley
 Anna Mae Routledge
 Anna Maestri
 Anna Maguire
-Anna Mancini
 Anna Margaret
 Anna Margaret Collins
 Anna Margaret Hollyman
@@ -4066,7 +4016,6 @@ Anne Chancellor
 Anne Chappuis
 Anne Clarke
 Anne Coesens
-Anne Cornwall
 Anne Crawford
 Anne Day-Jones
 Anne De Salvo
@@ -4183,7 +4132,6 @@ Annette Dasch
 Annette Ekblom
 Annette Funicello
 Annette Gorman
-Annette Hatten
 Annette Helde
 Annette McCarthy
 Annette Miller
@@ -4377,7 +4325,6 @@ Anthony Hickox
 Anthony Hickox|Tony Hickox
 Anthony Higgins (actor)|Anthony Higgins
 Anthony Holland (actor)|Anthony Holland
-Anthony Holles (actor)|Anthony Holles
 Anthony Hopkins
 Anthony Howell (actor)|Anthony Howell
 Anthony Ippolito
@@ -4589,7 +4536,6 @@ Antonio Molino Rojo
 Antonio Molino Rojo|Molino Rojo
 Antonio Monda
 Antonio Monsell
-Antonio Moreno
 Antonio Muñoz (actor)|Antonio Muñoz
 Antonio Nicotra
 Antonio Piovanelli
@@ -4621,7 +4567,6 @@ Antony Ponzini
 Antony Sher
 Antony Starr
 Antoñito Ruiz
-Antrim Short
 Antti Luusuaniemi
 Antun Vrdoljak
 Antwoine Steele
@@ -4707,9 +4652,7 @@ Archie Yates
 Arden Cho
 Arden Myrin
 Ardeshir Radpour
-Ardita Mellinina
 Ardon Bess
-Ardulus Bixby
 Ardyth Kaiser
 Arell Blanton
 Aren Buchholz
@@ -4809,7 +4752,6 @@ Arlene Martell
 Arlene McIntyre
 Arlene Meadows
 Arlene Tur
-Arlette Poirier
 Arletty
 Arlin Alcala
 Arlo Guthrie
@@ -4822,7 +4764,6 @@ Armand Assante
 Armand Cerami
 Armand Dahan
 Armand Grossman Chucky's Hood
-Armand Kaliz
 Armand Mestral
 Armand Ozory
 Armand Schultz
@@ -4868,14 +4809,10 @@ Arno Frey
 Arno Selco
 Arnold C. Waterman
 Arnold Chon
-Arnold Dallas
 Arnold Diamond
 Arnold Drummond
 Arnold F. Turner
-Arnold Gray
 Arnold Johnson (actor)|Arnold Johnson
-Arnold Kent
-Arnold Lucy
 Arnold Marlé
 Arnold McCuller
 Arnold Oceng
@@ -4957,8 +4894,6 @@ Arthur Dale
 Arthur Darvill
 Arthur Denberg
 Arthur Dignam
-Arthur Edmund Carew
-Arthur Edmund Carewe
 Arthur Franz
 Arthur French (actor)|Arthur French
 Arthur Gardner (producer)|Arthur Gardner
@@ -4972,7 +4907,6 @@ Arthur Hill (Canadian actor)|Arthur Hill
 Arthur Hiller
 Arthur Hohl
 Arthur Holden
-Arthur Housman
 Arthur Howard
 Arthur Hoyt
 Arthur Hughes
@@ -4987,7 +4921,6 @@ Arthur Kelly (actor)|Arthur Kelly
 Arthur Kennedy
 Arthur Kennedy (actor)|Arthur Kennedy
 Arthur Kopit
-Arthur L. Jarrett
 Arthur Lake (actor)|Arthur Lake
 Arthur Laupus
 Arthur Lee Williams
@@ -4995,12 +4928,10 @@ Arthur Leipzig
 Arthur Loft
 Arthur Lovegrove
 Arthur Lowe
-Arthur Mackley
 Arthur Malet
 Arthur McBain
 Arthur Mendoza
 Arthur Miller
-Arthur Millett
 Arthur Mitchell (dancer)|Arthur Mitchell
 Arthur Mullard
 Arthur Napiontek
@@ -5012,8 +4943,6 @@ Arthur Petersen
 Arthur Peterson, Jr.
 Arthur Pugh
 Arthur Q. Bryan
-Arthur Rankin
-Arthur Rankin (actor)|Arthur Rankin
 Arthur Redcloud
 Arthur Rhyris
 Arthur Roberts
@@ -5022,9 +4951,7 @@ Arthur Schröder
 Arthur Shields
 Arthur Smith
 Arthur Space
-Arthur Stone (actor)|Arthur Stone
 Arthur Taxier
-Arthur Thalasso
 Arthur Tovey
 Arthur Treacher
 Arthur Walge
@@ -5038,7 +4965,6 @@ Artie Baxter
 Artie Lange
 Artie Lewis
 Artie Malesci
-Artie Ortego
 Artin John
 Artin Kishani
 Artine Brown
@@ -5360,7 +5286,6 @@ Augusto Di Giovanni
 Augusto Mastrantoni Giuseppe
 Augusto Pesarini
 Augusto Victa
-Augustus Carney
 Augustus Du Guy
 Augustus Prew
 Aukrawut Rojaunawat
@@ -5427,7 +5352,6 @@ Austin Wolff
 Austin Zajur
 Australia's Thunder from Down Under|Thunder From Down Under
 Austyn Lind Myers
-Austyn Moore
 Author
 Autry Pinson
 Autumn Dial
@@ -5771,7 +5695,6 @@ Barbara Sukowa
 Barbara Tarbuck
 Barbara Thompson
 Barbara Tyson
-Barbara Weeks (film actress)|Barbara Weeks
 Barbara Werle
 Barbara Werz
 Barbara Whinnery
@@ -5812,12 +5735,10 @@ Barnaby Kay
 Barnard Hughes
 Barney Burman
 Barney Cheng
-Barney Furey
 Barney Harris
 Barney Johnston
 Barney Martin
 Barney McCosky
-Barney O'Sullivan... Mr. Edwards
 Barney Phillips
 Barney Ross
 Baron Davis
@@ -5960,7 +5881,6 @@ Basil Henson
 Basil Hoffman
 Basil McGrail
 Basil Radford
-Basil Rathbone
 Basil Ruysdael
 Basil Sydney
 Basil Wallace
@@ -5972,6 +5892,7 @@ Bata Živojinović
 Bates Wilder
 Bathsheba Garnett
 Batsile Ramasodi
+Bawriboon Chanreuang
 Baxter Harris
 Bayne Gibby
 Baynes Barron
@@ -6039,7 +5960,6 @@ Beautiful Day Monster
 Beba Lončar
 Bebe Allen
 Bebe Cave
-Bebe Daniels
 Bebe Neuwirth
 Bebe Wood
 Becca Battoe
@@ -6113,7 +6033,6 @@ Bella King
 Bella Murphy
 Bella Ramsey
 Bella Thorne
-Belladonna (actress)|Belladonna
 Belladonna (actress)|Michelle Sinclair
 Bellamy Young
 Belle Chrystall
@@ -6123,7 +6042,6 @@ Belén Rueda
 Ben Affan
 Ben Affleck
 Ben Aldridge (actor)|Ben Aldridge
-Ben Alexander (actor)|Ben Alexander
 Ben Allison
 Ben Archibek
 Ben Aris
@@ -6167,8 +6085,6 @@ Ben Coello
 Ben Cook
 Ben Cook (actor)|Ben Cook
 Ben Cooper
-Ben Corbett
-Ben Corday
 Ben Cotton
 Ben Crompton
 Ben Cross
@@ -6176,7 +6092,6 @@ Ben Crowley
 Ben Daniels
 Ben Davidson
 Ben Davis (actor, born 1975)|Ben Davis
-Ben Deeley
 Ben Derrick
 Ben Dickey
 Ben Diskin
@@ -6187,14 +6102,12 @@ Ben Duncan
 Ben E. King
 Ben Ekland
 Ben Elton
-Ben English
 Ben Esler
 Ben Falcone
 Ben Farrow
 Ben Faulkner
 Ben Feldman
 Ben Feldman (actor)|Ben Feldman
-Ben Field
 Ben Foster
 Ben Fox
 Ben Frank
@@ -6206,14 +6119,11 @@ Ben Gould
 Ben Greaves-Neil
 Ben Guillory|Bennet Guillory
 Ben Hall
-Ben Hall (actor)|Ben Hall
 Ben Hammer
 Ben Hardy (actor)|Ben Hardy
 Ben Harper
 Ben Hartigan
 Ben Hecht
-Ben Hendricks Jr.
-Ben Hewlett
 Ben Hollingsworth (actor)|Ben Hollingsworth
 Ben Hollingsworth (actor)|Benjamin Hollingsworth
 Ben Howard
@@ -6424,7 +6334,6 @@ Benny Hernandez
 Benny Hill
 Benny Morinishi
 Benny Nieves
-Benny Rubin
 Benny Safdie
 Benny Salerno
 Benny Thomas
@@ -6492,7 +6401,6 @@ Bernard Nedell
 Bernard Palanca
 Bernard Pike
 Bernard Pivot
-Bernard Randall
 Bernard Rhodes|Bernie Rhodes
 Bernard Rose (director)|Bernard Rose
 Bernard Spear
@@ -6505,7 +6413,6 @@ Bernardo de Paula
 Berndt Stein
 Bernhard Forcher
 Bernhard Wicki
-Bernice Claire
 Bernice Smith
 Bernie Bernstein
 Bernie Casey
@@ -6538,7 +6445,6 @@ Bert Kinyon
 Bert Kittel
 Bert Kramer
 Bert Lahr
-Bert Lytell
 Bert Michaels
 Bert Palmer
 Bert Parks
@@ -6549,11 +6455,10 @@ Bert Roach
 Bert Rosario
 Bert Santos
 Bert Simms
-Bert Sprotte
 Bert Stevens
 Bert Weineberg
 Bert Williams
-Bert Woodruff
+Bert...Bert Palmer
 Berta Waagfjord
 Bertha Belmore
 Bertice Reading
@@ -6565,11 +6470,9 @@ Bertil Unger
 Bertila Damas
 Bertina Macauley
 Berton Churchill
-Bertram Johns
 Bertrand A. Henri
 Bertrand Bonvoisin
 Bertrand Burgalat
-Beryl Mercer
 Beryl Reid
 Beryl Te Wiata
 Bess Armstrong
@@ -6588,7 +6491,6 @@ Beth Blankenship
 Beth Brickell
 Beth Broderick
 Beth Colt
-Beth Darwin
 Beth Ditto
 Beth Dixon
 Beth Domann
@@ -6628,7 +6530,6 @@ Beto Calvillo
 Beto Cuevas
 Betsey Aidem
 Betsy Aidem
-Betsy Ann Hisle
 Betsy Baker
 Betsy Beutler
 Betsy Blair
@@ -6658,14 +6559,10 @@ Bettina Devin
 Betty Aberlin
 Betty Amann
 Betty Ann Carr
-Betty Baker
 Betty Baskcomb
-Betty Boyd
 Betty Bronson
 Betty Bruce
 Betty Buckley
-Betty Carpenter
-Betty Compson
 Betty Field
 Betty Gabriel
 Betty Garrett
@@ -6685,7 +6582,6 @@ Betty Lou Gerson
 Betty Lou Groover
 Betty Lou Murray
 Betty Lucas
-Betty Mack
 Betty Marsden
 Betty McDowall
 Betty Miller
@@ -6978,7 +6874,6 @@ Bill Murphy (actor)|Bill Murphy
 Bill Nagel
 Bill Nagy (actor)|Bill Nagy
 Bill Nelson
-Bill Nestell
 Bill Nighy
 Bill Nunn
 Bill Nye
@@ -7039,7 +6934,6 @@ Bill Walker
 Bill Walker (actor)|Bill Walker
 Bill Wallis
 Bill Walton
-Bill Warren (film historian and critic)|Bill Warren
 Bill Watkins
 Bill Wattenburg
 Bill Weber
@@ -7056,14 +6950,12 @@ Bill Zuckert
 Bille Brown
 Billie Bird
 Billie Burke
-Billie Dove
 Billie Gadsdon
 Billie Gibson
 Billie Joe Armstrong
 Billie Kaman
 Billie Lourd
 Billie Neal
-Billie Seward
 Billie Sim
 Billie Whitelaw
 Billie Worley
@@ -7111,8 +7003,6 @@ Billy Dee Williams
 Billy Drago
 Billy Eichner
 Billy Evans
-Billy Fay
-Billy Franey
 Billy Frank (actor)|Billy Frank
 Billy Frick
 Billy Gardell
@@ -7148,6 +7038,8 @@ Billy Joel
 Billy Kay
 Billy Kay (actor)|Billy Kay
 Billy Kearns
+Billy Kennedy
+Billy Khoury
 Billy Kidman
 Billy L. Sullivan
 Billy Lombardo
@@ -7190,7 +7082,6 @@ Billy Russell (comedian)|Billy Russell
 Billy Sands
 Billy Scafuri
 Billy Schneider
-Billy Seay
 Billy Slaughter
 Billy Smith
 Billy Streater
@@ -7316,7 +7207,6 @@ Blake Nelson Boyd
 Blake Perlman
 Blake Ritson
 Blake Robbins
-Blake Rose
 Blake Sennett
 Blake Shelton
 Blake Shields
@@ -7328,9 +7218,7 @@ Blanca Marsillach
 Blanca Soto
 Blanchard Ryan
 Blanche Baker
-Blanche Friderici
 Blanche Gladstone
-Blanche Mehaffey
 Blanka Kleinova
 Blaque Fowler
 Blayne Weaver
@@ -7398,9 +7286,6 @@ Bob Bouchard
 Bob Bragg
 Bob Brogan
 Bob Burnquist
-Bob Burns
-Bob Burns (actor)|Bob Burns
-Bob Burns III
 Bob Burrus
 Bob Canush
 Bob Carraway
@@ -7416,7 +7301,6 @@ Bob Crane
 Bob Cratchit
 Bob Cummings
 Bob Cunningham
-Bob Custer
 Bob D'Andrea
 Bob Dawson (actor)|Bob Dawson
 Bob Del Torre
@@ -7484,7 +7368,6 @@ Bob Keeshan
 Bob King
 Bob Knight
 Bob Koherr
-Bob Kortman
 Bob Kurcz
 Bob Lanoue
 Bob Lazar
@@ -7546,7 +7429,6 @@ Bob Schieffer
 Bob Schott
 Bob Sheppard
 Bob Sherman (actor)|Bob Sherman
-Bob Sinclair
 Bob Steele (actor)|Bob Steele
 Bob Stephenson (actor)|Bob Stephenson
 Bob Stephenson (actor)|Robert J. Stephenson
@@ -7572,12 +7454,10 @@ Bob Zany
 Bob Zmuda
 Boban Marjanović
 Bobb'e J. Thompson
-Bobbe Arnst
 Bobbi Baker
 Bobbi Lindstrom
 Bobbi Menuez
 Bobbi Page
-Bobbi Starr
 Bobbi Sue Luther
 Bobbie Blanque
 Bobbie Brat
@@ -7585,7 +7465,6 @@ Bobbie Brown
 Bobbie Chase
 Bobbie Hefley
 Bobbie Jordan
-Bobbie Mack
 Bobbie Phillips
 Bobbie Tyler
 Bobbie's
@@ -7625,7 +7504,6 @@ Bobby Hosea
 Bobby Huber
 Bobby Hurley
 Bobby Johnson
-Bobby Kelso
 Bobby Kennedy III
 Bobby Keys
 Bobby Kirby
@@ -7664,7 +7542,6 @@ Bobby Trendy
 Bobby Troup
 Bobby Unser
 Bobby Walberg
-Bobby Watson (actor)|Bobby Watson
 Bobcat Goldthwait
 Bobcat Goldthwait|Bob "Bobcat" Goldthwait
 Bobcat Goldthwait|Bob Goldthwait
@@ -7675,7 +7552,6 @@ Bobo the Bear
 Bodhi Elfman
 Bodhi Elfman|Bodhi Pine Elfman
 Bodil Jørgensen
-Bodil Rosing
 Bogdan Diklić
 Bogdan E. Stanoevitch
 Bogdan Farkas
@@ -7744,6 +7620,7 @@ Boots Anson-Roa
 Boots Riley
 Boots Southerland
 Borah Silver
+Boribroon Junrieng
 Boris Bakal
 Boris Brkic
 Boris Bruncko
@@ -7769,6 +7646,7 @@ Bosco Hogan
 Bostin Christopher
 Boubker Ait El Caid
 Bouli Lanners
+Bouncer
 Bourvil
 Bourvil|André Bourvil
 Bow Wow (rapper)|Bow Wow
@@ -7801,7 +7679,6 @@ Bracken Burns
 Brad Abrell
 Brad Abrell, Thom Fountain, Carl J. Johnson
 Brad Allan
-Brad Armstrong (director)|Brad Armstrong
 Brad Ashcraft
 Brad Beyer
 Brad Boesen
@@ -7887,7 +7764,6 @@ Bradley Johnson
 Bradley Laise
 Bradley Lavelle
 Bradley Mott
-Bradley Page
 Bradley Pierce
 Bradley Sawatzky
 Bradley Steven Perry
@@ -7902,7 +7778,6 @@ Brady Bluhm
 Brady Bryson
 Brady Coleman
 Brady Corbet
-Brady Hicks
 Brady Jenness
 Brady Noon
 Brady Permenter
@@ -8046,7 +7921,6 @@ Brayden Austin
 Bre Blair
 Brea Bee
 Brea Grant
-Brea Lynn
 Breanna Aleigh Grimes
 Breanne Racano
 Brecken Palmer
@@ -8163,7 +8037,6 @@ Brendan Ward
 Brenden Sunderland
 Brenden Wedner
 Brendon Boone
-Brendon Miller
 Brendon Ryan Barrett
 Brendon Walsh
 Brenna O'Brien
@@ -8567,7 +8440,6 @@ Brianna
 Brianna Brown
 Brianna Denski
 Brianna Hildebrand
-Brianna Love
 Brianna McCoy
 Brianne Berkson
 Brianne Davis
@@ -8630,7 +8502,6 @@ Brigitta
 Brigitta Dau
 Brigitte Bako
 Brigitte Bardot
-Brigitte Bargès
 Brigitte Burdine
 Brigitte Catillon
 Brigitte Christensen
@@ -8654,7 +8525,6 @@ Brina Palencia
 Brinke Stevens
 Brinlee Grace
 Brinsley Schwarz (musician)|Brinsley Schwarz
-Brinsley Shaw
 Brion James
 Brionne Davis
 Briony Glassco
@@ -8738,7 +8608,6 @@ Brogan Hall
 Brogan Roche
 Bronagh Gallagher
 Bronagh Waugh
-Broncho Billy Anderson
 Bronisław Pawlik
 Bronson Pelletier
 Bronson Webb
@@ -8755,7 +8624,6 @@ Brooke Adams (actress)|Brooke Adams
 Brooke Alderson
 Brooke Anderson
 Brooke Ashley
-Brooke Banner
 Brooke Bell
 Brooke Bloom
 Brooke Bundy
@@ -8769,10 +8637,8 @@ Brooke Elise Bushman
 Brooke Engen
 Brooke Garrett
 Brooke Hamlin
-Brooke Haven
 Brooke Hoover
 Brooke Jaye Taylor
-Brooke Johns
 Brooke Johnson
 Brooke Langton
 Brooke Lewis
@@ -8795,6 +8661,7 @@ Brooklyn Sudano
 Brooklyn Wittmer
 Brooklynn Prince
 Brooklynn Proulx
+Brooks
 Brooks Braselman
 Brooks Douglass
 Brooks Gardner
@@ -8859,12 +8726,10 @@ Bruce French (actor)|Bruce French
 Bruce Glover
 Bruce Gooch
 Bruce Gordon (actor)|Bruce Gordon
-Bruce Gordon (actor/director)|Bruce Gordon
 Bruce Graham
 Bruce Gray
 Bruce Green
 Bruce Greenwood
-Bruce Guerin
 Bruce Halperin
 Bruce Harwood
 Bruce Hopkins (actor)|Bruce Hopkins
@@ -9046,7 +8911,6 @@ Bryanna Adames
 Bryant Bentley
 Bryant Gumbel
 Bryant Prince
-Bryant Washburn
 Bryant Young
 Bryce
 Bryce Bedsworth
@@ -9069,7 +8933,6 @@ Bryn Vale
 Bryna Weiss
 Brynn Baron
 Brynn Thayer
-Brynn Tyler
 Brynne Norquist
 Bryon Mumford
 Bryony Hannah
@@ -9092,10 +8955,8 @@ Buck Flower
 Buck Ford
 Buck Henry
 Buck Jones
-Buck Jones|Charles "Buck" Jones
 Buck Kartalian
 Buck McDancer
-Buck Moulton
 Buck Taylor
 Buck Young
 Buckethead
@@ -9105,20 +8966,17 @@ Bucky Lasek
 Bucky Walters
 Bud Bostwick
 Bud Cort
+Bud Geary
 Bud Haley
 Bud Hoey
-Bud Jamison
 Bud Jones
 Bud Luckey
-Bud Osborne
-Bud Ross
 Bud Spencer
 Bud Stout
 Bud Tingwell|Charles 'Bud' Tingwell
 Bud Walls
 Budd Boetticher
 Budd Bryan
-Budd Fine
 Budd Jackson
 Buddy
 Buddy Baker
@@ -9132,10 +8990,8 @@ Buddy Joe Hooker
 Buddy Lester
 Buddy Lewis
 Buddy Lewis (comedian)|Buddy Lewis
-Buddy Phillips
 Buddy Quaid
 Buddy Rogers (actor)|Buddy Rogers
-Buddy Roosevelt
 Buddy Thompson
 Buddy Van Horn
 Buddy the Dog
@@ -9149,7 +9005,6 @@ Bug Hall
 Bugsy
 Bugzy Malone
 Bull
-Bull Montana
 Bulle Ogier
 Bullets Durgom
 Bumblebee (Transformers)|Bumblebee
@@ -9176,7 +9031,6 @@ Burn Gorman
 Burnal Smith
 Burnell Tucker
 Burr DeBenning
-Burr McIntosh
 Burr Steers
 Burt Bacharach
 Burt Brinckerhoff
@@ -9226,7 +9080,6 @@ Byron Berline
 Byron Bishop
 Byron Bowers
 Byron Browne
-Byron Douglas
 Byron Foulger
 Byron Gibson
 Byron Herlong
@@ -9280,7 +9133,6 @@ C. S. Lee
 C. Thomas Cunliffe
 C. Thomas Howell
 C. Winston Damon
-C.A. Self
 C.C. Sheffield
 C.C.H. Pounder
 C.E. Grimes
@@ -9460,7 +9312,6 @@ Camellia Rahbary
 Camen
 Cameo
 Cameo Kneuer
-Cameo the Dog
 Cameron Adams
 Cameron Ali Sims
 Cameron Ansell
@@ -9594,7 +9445,6 @@ Candace Kita
 Candace Kroslak
 Candace Lee
 Candace O'Connor
-Candace Ratcliffe... Casey Sutherland
 Candace Smith
 Candance Savalas
 Candi Brooks
@@ -9612,7 +9462,6 @@ Candice Patton|Candice K. Patton
 Candice Smith
 Candice Storey
 Candida Royalle
-Candido Velasco
 Candis Cayne
 Candy All
 Candy Ann Brown
@@ -9628,6 +9477,7 @@ Candy Trabucco
 Candyce
 Candyce Mason
 Canibus
+Caninap Sirisawut
 Canopy
 Cantinflas
 Cap Somers
@@ -9707,7 +9557,6 @@ Carl Espy
 Carl Franklin
 Carl Frischer
 Carl Gabriel Yorke|Gabriel Yorke
-Carl Gerard
 Carl Gordon (actor)|Carl Gordon
 Carl Gottlieb
 Carl Harbord
@@ -9727,7 +9576,6 @@ Carl Marotte
 Carl McDonald
 Carl McDowell
 Carl Michael Lindner
-Carl Miller (actor)|Carl Miller
 Carl Mueller
 Carl Ng
 Carl Paoli
@@ -9849,8 +9697,6 @@ Carlos Cervantes
 Carlos Corona
 Carlos Da Silva
 Carlos De Leon
-Carlos De Valdez
-Carlos Durand
 Carlos East
 Carlos Espejel
 Carlos Estrada
@@ -9915,7 +9761,6 @@ Carlton J. Smith
 Carlton Lee Russell
 Carlton Miller
 Carlton Power
-Carlton S. King
 Carlton Watson
 Carlton Wilborn
 Carlton Williams
@@ -9945,7 +9790,6 @@ Carmel Myers
 Carmela McNeal
 Carmela Rappazo
 Carmela Zumbado
-Carmelita Geraghty
 Carmella (wrestler)|Carmella
 Carmella Gioio
 Carmelo Bene
@@ -9968,7 +9812,6 @@ Carmen Hart
 Carmen Lavigne
 Carmen LoPorto
 Carmen Lopez
-Carmen Luvana
 Carmen Lynch
 Carmen Matthews
 Carmen Maura
@@ -10034,6 +9877,7 @@ Carol Gillies
 Carol Goodheart
 Carol Grace
 Carol Grace Anderson
+Carol Grubman
 Carol Gwynn Thompson
 Carol Harvey
 Carol Holmes
@@ -10047,7 +9891,6 @@ Carol Lippin
 Carol Locatell
 Carol Lynley
 Carol Mansell
-Carol Marshall
 Carol McEvoy
 Carol O'Neil
 Carol Ohmart
@@ -10196,7 +10039,6 @@ Carolyn Mitchell
 Carolyn Murphy
 Carolyn Pickles
 Carolyn Purdy-Gordon
-Carolyn Reese
 Carolyn Seymour
 Carolyn Stotesbery
 Carolyn Wickwire
@@ -10220,7 +10062,6 @@ Carrie Christmann
 Carrie Clifford
 Carrie Colak
 Carrie Coon
-Carrie Daumery
 Carrie Fee
 Carrie Finklea
 Carrie Fisher
@@ -10244,7 +10085,6 @@ Carrie Nye
 Carrie Nygren
 Carrie Ruscheinsky
 Carrie Schiffler
-Carrie Scott
 Carrie Snodgrass
 Carrie Stevens
 Carrie Underwood
@@ -10255,7 +10095,6 @@ Carrie-Anne Moss
 Carrington Meyer
 Carroll Baker
 Carroll Brooks
-Carroll Nye
 Carroll O'Connor
 Carrot Top
 Carrot Top|Scott Thompson
@@ -10374,7 +10213,6 @@ Cassidy Balkcom
 Cassidy Freeman
 Cassidy Gard
 Cassidy Hinkle
-Cassidy Klein
 Cassidy Mack
 Cassidy Rae
 Cassidy Thornton
@@ -10388,7 +10226,6 @@ Cassie Silva
 Cassie Stuart
 Cassie Yates
 Cassie's
-Casson Ferguson
 Cassy Friel
 Castanha
 Castille Landon
@@ -10516,7 +10353,6 @@ Cathryn de Prume
 Cathy Ang
 Cathy Berberian
 Cathy Cahill
-Cathy Cahn
 Cathy Cavadini
 Cathy Crowfoot
 Cathy Downs
@@ -10562,7 +10398,6 @@ Cecelia Antoinette
 Cecelia Monk
 Cecep Arif Rahman
 Cecil B. DeMille
-Cecil Cunningham
 Cecil Elliott
 Cecil Garson
 Cecil Kellaway
@@ -10578,9 +10413,7 @@ Cecilia Peck
 Cecilia Pillado
 Cecilia Roth
 Cecilie Thomsen
-Cecille Evans
 Cecilley Carroll
-Cecily Byrne
 Cecily Gambrell
 Cecily Strong
 Cedella Marley
@@ -10654,7 +10487,6 @@ Cengiz Bozkurt
 Cenk Uygur
 Cerina Vincent
 Ceris Jones
-Certain
 Cesar Bayona Pinto
 Cesar Evora
 Cesar Flores
@@ -10769,7 +10601,6 @@ Chanel Cresswell
 Chanel Gaines
 Chanel Iman
 Chanel Marriott
-Chanel Preston
 Chanel Ryan
 Chanelle Peloso
 Chaney Kley
@@ -10799,9 +10630,9 @@ Chantal Strand
 Chantel Valdivieso
 Chantelle Chung
 Chantelle Jewkes
+Chantelle Severin
 Chao Li Chi
 Chao-Li Chi
-Chapelle Jaffe
 Chapman
 Chapman Way
 Char Fontane
@@ -10822,7 +10653,6 @@ Charlene Blaine-Schulenburg
 Charlene Brooks
 Charlene Dallas
 Charlene Fernetz
-Charlene Henryson
 Charlene Holt
 Charlene Incarnate
 Charlene McKenna
@@ -10832,13 +10662,11 @@ Charlene Swankie
 Charlene Tilton
 Charles "Buddy" Rogers
 Charles A. Gargano
-Charles A. Stevenson
 Charles A. Tamburro
 Charles Agron
 Charles Aidman
 Charles Andre
 Charles André
-Charles Arling
 Charles Arthur Berg
 Charles Austin Moore II
 Charles Aznavour
@@ -10864,7 +10692,6 @@ Charles Bowleg
 Charles Boyer
 Charles Brame
 Charles Brauer
-Charles Brinley
 Charles Bronson
 Charles Bukowski
 Charles Busch
@@ -10877,7 +10704,6 @@ Charles Childerstone
 Charles Chu
 Charles Chun
 Charles Cioffi
-Charles Clary
 Charles Closshey
 Charles Coburn
 Charles Coleman (actor)|Charles Coleman
@@ -10894,9 +10720,7 @@ Charles David
 Charles De Temple
 Charles De'Ath
 Charles DelGatto
-Charles Delaney
 Charles Dennis
-Charles Dera
 Charles Dierkop
 Charles Dougherty
 Charles Drake (actor)|Charles Drake
@@ -10938,7 +10762,6 @@ Charles Hallahan
 Charles Halton
 Charles Harwood
 Charles Henry Wyson
-Charles Hill Mailes
 Charles Homet
 Charles Houston (actor)|Charles Houston
 Charles Howerton
@@ -10951,15 +10774,12 @@ Charles Irwin—Timmy
 Charles J. Bailey
 Charles Johnson
 Charles Johnston
-Charles K. French
-Charles K. Gerrard
 Charles Kahlenberg
 Charles Kay
 Charles Keating (actor)|Charles Keating
 Charles Kerr
 Charles Kim
 Charles Kimbrough
-Charles King (character actor)|Charles King
 Charles King Jr.
 Charles Knapp
 Charles Knode
@@ -11027,13 +10847,10 @@ Charles Picerni
 Charles Pierce (female impersonator)|Charles Pierce
 Charles Powell
 Charles Purcell
-Charles R. Moore (actor)|Charles R. Moore
 Charles R. Rooney
 Charles Rahi Chun
 Charles Raino
-Charles Ray (actor)|Charles Ray
 Charles Regnier
-Charles Reisner
 Charles Robert Jenkins
 Charles Rocket
 Charles Roskilly
@@ -11050,15 +10867,12 @@ Charles S. Haas
 Charles Sanders
 Charles Scorsese
 Charles Seixas
-Charles Sellon
 Charles Shaughnessy
 Charles Shufford
 Charles Siebert
 Charles Singh
 Charles Smith
 Charles Solomon Jr.
-Charles Stanton Ogle
-Charles Stevenson (actor)|Charles Stevenson
 Charles Stransky
 Charles Talley
 Charles Taylor (actor)|Charles Taylor
@@ -11069,15 +10883,12 @@ Charles Trowbridge
 Charles Tucker
 Charles Vandervaart
 Charles Vanel
-Charles Velasco
 Charles Victor
 Charles Wagenheim
 Charles Wahlheim
 Charles Walker
 Charles Washburn
 Charles Weldon
-Charles Wellesley
-Charles West (actor)|Charles West
 Charles White
 Charles White-Eagle
 Charles Williams
@@ -11247,7 +11058,6 @@ Charlotte Sullivan
 Charlotte Valandrey
 Charlotte Vega
 Charlotte Véry
-Charlotte Walker (actress)|Charlotte Walker
 Charlotte Zucker
 Charlotte d'Amboise
 Charlotte de Turckheim
@@ -11260,6 +11070,7 @@ Charmin Lee
 Charmion King
 Charneh Demir
 Charo
+Charter Oaks M.C.
 Charu Bala Chokshi
 Chas Lawther
 Chase A.A. Jackson
@@ -11383,6 +11194,7 @@ Cherif Ezzeldin
 Cherilyn Hayres
 Cherilyn Wilson
 Cherina Schaer
+Cherion Drakes
 Cherise Bate
 Cherith Mellor
 Cherry Gillespie
@@ -11474,6 +11286,7 @@ Chief Dan George
 Chief Irvin Brink
 Chief Mad Bear
 Chief Of Mphendu
+Chiemi Matsutera
 Chika Sakamoto
 Chikao Ōtsuka
 Chike Chan
@@ -11710,7 +11523,6 @@ Chris Jai Alex
 Chris Jarvis (actor)|Chris Jarvis
 Chris Jay Becker
 Chris Jericho
-Chris Johnson
 Chris Jovick
 Chris Jury
 Chris Kalhoon
@@ -11856,6 +11668,7 @@ Chris Warren Jr.
 Chris Warren, Jr.
 Chris Webber
 Chris Wedge
+Chris Wegoda
 Chris Weitz
 Chris Whetstone
 Chris Whitemyer
@@ -11979,7 +11792,6 @@ Christian Thuri
 Christian Vadim
 Christiana Montoya
 Christiane Amanpour
-Christiane Barry
 Christiane Krüger
 Christiane Seidel
 Christianne Oliveira
@@ -12136,7 +11948,6 @@ Christopher Aydon
 Christopher B. Duncan
 Christopher Backus
 Christopher Barden
-Christopher Barrington-Leigh
 Christopher Beck
 Christopher Bello
 Christopher Benjamin (actor)|Christopher Benjamin
@@ -12486,7 +12297,6 @@ Cindra Feuer
 Cindy Ambuehl
 Cindy Baer
 Cindy Beal
-Cindy Behr
 Cindy Better
 Cindy Blackman Santana|Cindy Blackman
 Cindy Bridges
@@ -12533,7 +12343,6 @@ Ciro Berardi
 Cisco Pike
 Cisco Reyes
 Cisse Cameron
-Cissy Fitzgerald
 Cissy Houston
 Claes Bang
 Claes Esphagen
@@ -12554,7 +12363,6 @@ Claire Crawford
 Claire Cundiff
 Claire Danes
 Claire Davenport
-Claire Dodd
 Claire Duburcq
 Claire Forlani
 Claire Foy
@@ -12567,7 +12375,6 @@ Claire Kelly
 Claire Kirk
 Claire Magnin
 Claire Malis
-Claire McDowell
 Claire Nono
 Claire Pimparé
 Claire Price
@@ -12629,7 +12436,6 @@ Clare-Hope Ashitey
 Clarence Clemons
 Clarence Crow
 Clarence Felder
-Clarence Geldart
 Clarence Gilyard
 Clarence Harris
 Clarence Lung
@@ -12649,7 +12455,6 @@ Clark Backo
 Clark Brandon
 Clark Brolly
 Clark Coleman
-Clark Comstock
 Clark Duke
 Clark Dunbar
 Clark Gable
@@ -12663,12 +12468,12 @@ Clark Niederjohn
 Clark Warren
 Clarke Coleman
 Clarke Gordon
-Clarke Irvine
 Clarke Peters
 Clarkson Guy Williams
 Clash
 Classified (rapper)|Classified
 Claud Allister
+Claude	...Kerry Jewel
 Claude Akins
 Claude Aviram
 Claude Berri
@@ -12690,7 +12495,6 @@ Claude Johnson
 Claude Le Saché
 Claude Lelouch
 Claude Maki
-Claude Payton
 Claude Philippe
 Claude Rae
 Claude Rains
@@ -12798,7 +12602,6 @@ Clayton Day
 Clayton Fox
 Clayton Hoff
 Clayton Jacobson (director)|Clayton Jacobson
-Clayton Julian
 Clayton Keller
 Clayton Landey
 Clayton Rohner
@@ -12838,7 +12641,6 @@ Cleo King
 Cleopatra Coleman
 Cleopatra Koheirwe
 Cletus Anderson
-Cleve Moore
 Cleveland Amory
 Cleveland Brown
 Clif Wells
@@ -12928,7 +12730,6 @@ Clive Anderson
 Clive Arrindell
 Clive Ashborn
 Clive Barker
-Clive Brook
 Clive Carlin
 Clive Dunn
 Clive Francis
@@ -12955,6 +12756,7 @@ Clotilde Mollet
 Cloud Guy,
 Cloyce Morrow
 Clu Gulager
+Club Hostess
 Clyde Alves
 Clyde Drexler
 Clyde Edgerton
@@ -13031,7 +12833,6 @@ Colby Kline
 Colby Minifie
 Colby Parsons
 Cole Bernstein
-Cole Coker
 Cole Doman
 Cole Dragone
 Cole Escola
@@ -13129,13 +12930,11 @@ Colleen Brennan
 Colleen Camp|Colleen Camp Wilson
 Colleen Clifford
 Colleen Clinkenbeard
-Colleen Coffey
 Colleen Dengel
 Colleen Dewhurst
 Colleen Flynn
 Colleen Karney
 Colleen Miller
-Colleen Moore
 Colleen Morris
 Colleen O'Shaughnessey
 Colleen Quinn
@@ -13247,6 +13046,7 @@ Connor Long
 Connor Mackay
 Connor Matheus
 Connor Muhl
+Connor O'Mara
 Connor Panzner
 Connor Price
 Connor Ross
@@ -13307,7 +13107,6 @@ Constantin Symsiris
 Constantine Gregory
 Constantino Romero
 Consuela (Family Guy)|Consuela
-Conway Tearle
 Conway Twitty
 Cookie Mueller
 Cooley Jackson/Jaxson
@@ -13407,7 +13206,6 @@ Corinne Cole
 Corinne Conley
 Corinne Douglas
 Corinne Galloway
-Corinne Griffith
 Corinne Jaber
 Corinne Langston
 Corinne Orr
@@ -13489,6 +13287,7 @@ Count Olaf|Captain Julio Sham
 Count Olaf|Stephano
 Count Smokula
 Countrified Wedman
+Court
 Court Benson
 Court-martial of Howard Levy|Dr. Howard Levy
 Courtenay Semel
@@ -13592,7 +13391,6 @@ Craig Russell (Canadian actor)|Craig Russell
 Craig Schaefer
 Craig Sheffer
 Craig Skistimas
-Craig Spivek
 Craig Stanghetta
 Craig Stark
 Craig Stecyk
@@ -13704,7 +13502,6 @@ Crystal the Monkey|Crystal
 Crystle Lightning
 Csaba Pindroch
 Cullen Douglas
-Cullen Landis
 Cullen Moss
 Cullen O. Johnson
 Cum Town|Nick Mullen
@@ -13712,7 +13509,6 @@ Cumberbatch
 Cummings
 Cung Le
 Curd Jürgens
-Curley Riviere
 Curran Walters
 Currie Graham
 Curt Ayers
@@ -13832,7 +13628,6 @@ Cyril O'Reilly
 Cyril O'Reilly (actor)|Cyril O'Reilly
 Cyril Raffaelli
 Cyril Raymond
-Cyril Ring
 Cyril Shaps
 Cyril Takayama
 Cyrina Fiallo
@@ -13963,7 +13758,6 @@ Daisy Fuentes
 Daisy Haggard
 Daisy Hall
 Daisy Head
-Daisy Jefferson
 Daisy McCrackin
 Daisy Ridley
 Daisy Tahan
@@ -14005,7 +13799,6 @@ Dale Stratton
 Dale Swann
 Dale Wade Davis
 Dale Whibley
-Dale Willier
 Dale Wilson
 Dale Wolfe
 Dale Young
@@ -14075,6 +13868,7 @@ Damien Wayans
 Damienne Oliver
 Damion Portier
 Damion Scheller
+Damion Spencer
 Damion Stevens
 Damir Andrei
 Damir Šaban
@@ -14095,6 +13889,7 @@ Damon Herriman
 Damon Hines
 Damon Johnson
 Damon Jones
+Damon Kebroyd
 Damon Kirsche
 Damon Lipari
 Damon Martin
@@ -14220,6 +14015,7 @@ Dan Muldoon
 Dan Naturman
 Dan Nicklay
 Dan O'Connor (actor)|Dan O'Connor
+Dan O'Day-McClellan
 Dan O'Herlihy
 Dan Olmstead
 Dan O’Day McClellan
@@ -14344,7 +14140,6 @@ Danelle Hand
 Danette McMahon
 Dani "Haystack" Manning
 Dani Dare
-Dani Jensen
 Dani Levy
 Dani Michaeli
 Dani Popescu
@@ -14495,7 +14290,6 @@ Daniel MacIvor
 Daniel MacPherson
 Daniel Magder
 Daniel Magill
-Daniel Makarenko
 Daniel Markel
 Daniel Martínez
 Daniel Maslany
@@ -14725,7 +14519,6 @@ Danny Alexander
 Danny Arnold
 Danny Arroyo
 Danny Barker
-Danny Berwick
 Danny Blanco Hall
 Danny Blanco-Hall
 Danny Bolero
@@ -14814,7 +14607,6 @@ Danny Midwinter
 Danny Mills
 Danny Mora
 Danny Morgan
-Danny Mountain
 Danny Murphy
 Danny Nelson
 Danny Nucci
@@ -14854,7 +14646,6 @@ Danny Weissfeld
 Danny Wells
 Danny Winn
 Danny Woodburn
-Danny Wylde
 Danny Zapien
 Danny Zorn
 Danso Gordon
@@ -15323,7 +15114,6 @@ David Burns (actor)|David Burns
 David Burtka
 David Butler
 David Butler (actor)|David Butler
-David Butler (director)|David Butler
 David Byrd
 David Byrd (actor)|David Byrd
 David Byrne
@@ -15640,7 +15430,6 @@ David Kernan
 David Kersey
 David Kim
 David King
-David Kirby
 David Kloehr
 David Knell
 David Knight
@@ -15799,7 +15588,6 @@ David Nellist
 David Nelson
 David Nelson (actor)|David Nelson
 David Nerman
-David Newell (actor, born 1905)|David Newell
 David Newman (composer)|David Newman
 David Newsom
 David Ngoombujarra
@@ -15847,7 +15635,6 @@ David Peacock (actor)|David Peacock
 David Pearson (NASCAR driver)|David Pearson
 David Pendleton
 David Permenter
-David Perry
 David Petersen
 David Phillips (actor)|David J. Phillips
 David Phillips (actor)|David Phillips
@@ -15993,7 +15780,6 @@ David Todosovski
 David Tom
 David Tomlinson
 David Torok
-David Torrence
 David Tree
 David Tress
 David Trim
@@ -16012,7 +15798,6 @@ David Verrey
 David Vertesi,
 David Villalpando
 David Vlok
-David Voorhees
 David W. Thompson
 David Wagner
 David Wain
@@ -16167,7 +15952,6 @@ DeVon Franklin
 DeVone Lawson Jr.
 DeWanda Wise
 DeWayne Warren
-DeWitt Jennings
 Deacon Dawson
 Deacon John Moore
 Deacon Randle
@@ -16214,6 +15998,7 @@ Dean Marshall
 Dean Marsico
 Dean Martin
 Dean McDermott
+Dean McKenzie
 Dean Nolen
 Dean Norris
 Dean O'Gorman
@@ -16270,7 +16055,6 @@ Debbi Burns
 Debbi Morgan
 Debbi Peterson
 Debbie Allen
-Debbie Carr
 Debbie Carrington
 Debbie DeLisi
 Debbie Gibson
@@ -16292,7 +16076,6 @@ Debbie Rothstein
 Debbie Schock
 Debbie Sherman
 Debbie Van Den Houten
-Debbie Watson
 Debbie Watson (actor)|Debbie Watson
 Debbie Watson (actress)|Debbie Watson
 Debbie Wong
@@ -16438,7 +16221,6 @@ Dee Gardner
 Dee Hepburn
 Dee Jay Daniels
 Dee Jay Jackson
-Dee Lampton
 Dee Maaske
 Dee McCafferty
 Dee Pollock
@@ -16484,7 +16266,6 @@ Dejan Loyola
 Del Baker
 Del Close
 Del Henney
-Del Howison
 Del Marting
 Del Monroe
 Del Moore
@@ -16506,12 +16287,10 @@ Delia Salvi
 Delia Scala
 Delilah Cotto
 Delilah Van Eyck
-Dell Henderson
 Dell Yount
 Della Cole
 Della's
 Delle Bolton
-Delores Etienne
 Delores Hall
 Delores Taylor
 Delores Wells
@@ -16524,12 +16303,10 @@ Delphine Forest
 Delphine Seyrig
 Delroy Lindo
 Delta Burke
-Delta White
 Demene Hall
 Demesio Lusardi
 Demeter Bitenc
 Demetra Plakas
-Demetri
 Demetri Goritsas
 Demetri Martin
 Demetrios Pappageorge
@@ -16634,7 +16411,6 @@ Denisea Wilson
 Deniz Abdula
 Deniz Akdeniz
 Deniz Gamze Ergüven
-Denman Maley
 Denney Pierce
 Dennice Cisneros
 Dennis Aaberg
@@ -16851,7 +16627,6 @@ Derrick Brooks
 Derrick Janis
 Derrick Kemp
 Derrick O'Connor
-Derrick Pierce
 Derrick Simmons
 Derrick Vopelka
 Derrick Williams
@@ -16927,7 +16702,6 @@ Devin Kelley
 Devin Michael Lowe
 Devin Taylor Freeman
 Devo
-Devon (actress)|Devon
 Devon Aoki
 Devon Arielle Cahill
 Devon Bostick
@@ -17035,7 +16809,6 @@ Diana Salcedo
 Diana Sands
 Diana Sayers
 Diana Scarwid
-Diana Serra Cary|Peggy Montgomery
 Diana Silvers
 Diana Taurasi
 Diana Van der Vlis
@@ -17053,12 +16826,10 @@ Diane Chambers (actress)|Diane Chambers
 Diane Cheng
 Diane Cilento
 Diane D'Aquila
-Diane Debassige
 Diane Deckard
 Diane Deininger
 Diane DiLascio
 Diane Dye
-Diane Ellis
 Diane Erickson
 Diane Farr
 Diane Foster
@@ -17088,6 +16859,7 @@ Diane Neal
 Diane Nignan
 Diane Parish
 Diane Podlewski
+Diane Prizio
 Diane Robin
 Diane Salinger
 Diane Sawyer
@@ -17129,22 +16901,18 @@ Dick Anthony Williams
 Dick Balduzzi
 Dick Berggren
 Dick Boccelli
-Dick Botiller
 Dick Butkus
 Dick Callahan
 Dick Carballo
 Dick Cavett
-Dick Chibbles
 Dick Clark
 Dick Crockett
 Dick Curtis
 Dick Cusack
 Dick Dale
-Dick Dickinson
 Dick Durock
 Dick Emery
 Dick Enberg
-Dick Folkens
 Dick Foran
 Dick Gautier
 Dick Gautier|Richard Gautier
@@ -17178,7 +16946,6 @@ Dick Shawn
 Dick Shoemaker
 Dick Smothers
 Dick Spangler
-Dick Stewart
 Dick Stout
 Dick Tufeld
 Dick Van Dyke
@@ -17194,6 +16961,7 @@ Dick Winslow
 Dick Yarmy
 Dick York
 Dick Ziker
+Dick and Dom
 Dick the Bruiser|Dick Afflis
 Dicken Ashworth
 Dickey Beer
@@ -17282,6 +17050,7 @@ Dimitris Poulikakos
 Dimos Starenios
 Dina Dayrit
 Dina Eastwood
+Dina Harris
 Dina Korzun
 Dina Merrill
 Dina Meyer
@@ -17387,7 +17156,6 @@ Dolly Wells
 Dolores Aguirre
 Dolores Albin
 Dolores Clark
-Dolores Costello
 Dolores Drake
 Dolores Dwyer|Delores Duffy
 Dolores Fonzi
@@ -17437,6 +17205,7 @@ Dominic Colon
 Dominic Colón
 Dominic Cooper
 Dominic Cuskern
+Dominic Cuzzocrea
 Dominic Daniel
 Dominic Dierkas
 Dominic Dierkes
@@ -17619,7 +17388,6 @@ Don Lemon
 Don Leslie
 Don Letts
 Don Lynch
-Don MacKay
 Don Mancini
 Don Manor
 Don Mantooth
@@ -17750,20 +17518,17 @@ Donald Hotton ''as'' Edward Eisner
 Donald Houston
 Donald J Newfield
 Donald James Moore
-Donald Keith (actor)|Donald Keith
 Donald Kendrick
 Donald Koanegay
 Donald Li
 Donald Losby
 Donald MacDonald
-Donald MacDonald (actor)|Donald MacDonald
 Donald MacLean Jr.
 Donald Madden
 Donald May
 Donald Moffat
 Donald Murphy
 Donald Nithsdale
-Donald Novis
 Donald O'Brien (actor)|Donal O'Brian
 Donald O'Brien (actor)|Donal O'Brien
 Donald O'Brien (actor)|Donald O'Brien
@@ -17775,12 +17540,10 @@ Donald Pilon (actor)|Donald Pilon
 Donald Pleasence
 Donald R. Frost
 Donald Randolph
-Donald Reed (actor)|Donald Reed
 Donald Reynolds
 Donald Rosenfeld
 Donald Rubinstein
 Donald Sellers
-Donald Smith
 Donald Sollars
 Donald Standen
 Donald Stuart
@@ -17909,7 +17672,6 @@ Doreen Lang
 Doreen Lipson
 Doreen Mantle
 Doreen Ramus
-Doreen Turner
 Doren Fein
 Dorene Nielsen
 Dori Brenner
@@ -17927,16 +17689,13 @@ Doris Belack
 Doris Burke
 Doris Day
 Doris Dowling
-Doris Duane
 Doris Grau
 Doris Hess
 Doris Hick
-Doris Hill
 Doris Kemper
 Doris Leader Charge
 Doris Lloyd
 Doris Morgado
-Doris Petrie
 Doris Roberts
 Doris Wenzel
 Dorit Sauer
@@ -17949,7 +17708,6 @@ Dorothea Alexander
 Dorothea Golden
 Dorothea Neumann|Dorothy Neumann
 Dorothea Phillips
-Dorothea Wolbert
 Dorothi Fox
 Dorothy A. Haug
 Dorothy Abbott
@@ -17962,25 +17720,20 @@ Dorothy Bridges|Dorothy Dean
 Dorothy Carroll
 Dorothy Conrad
 Dorothy Constantine
-Dorothy Cumming
 Dorothy Cunningham
 Dorothy Dandridge
 Dorothy Dare
 Dorothy Dean
 Dorothy Dells
-Dorothy Devore
 Dorothy Drury
-Dorothy Dwan
 Dorothy Dwyer
 Dorothy Fielding
 Dorothy Frere
 Dorothy Gordon (British actress)|Dorothy Gordon
-Dorothy Granger
 Dorothy Gulliver
 Dorothy Hyson
 Dorothy Konrad
 Dorothy Lamour
-Dorothy Lee
 Dorothy Loudon
 Dorothy Love Coates
 Dorothy Lyman
@@ -17989,8 +17742,6 @@ Dorothy McGuire
 Dorothy Meyer
 Dorothy Peterson
 Dorothy Provine
-Dorothy Revier
-Dorothy Seastrom
 Dorothy Sinclair
 Dorothy Stratten
 Dorothy Tristan
@@ -18004,7 +17755,6 @@ Dort Clark
 Dortha Duckworth
 Dorthe Tate
 Dory Funk Jr.
-Dot Farley
 Dot-Marie Jones
 Dots Johnson
 Dottie Archibald
@@ -18093,14 +17843,12 @@ Douglas Emerson
 Douglas Evans (actor)|Douglas Evans
 Douglas Fairbanks
 Douglas Fairbanks Jr.
-Douglas Fairbanks, Jr.
 Douglas Fisher
 Douglas Forrest
 Douglas Forsythe Rye
 Douglas Fowley
 Douglas G. Soul
 Douglas Gillison
-Douglas Gilmore
 Douglas Gresham
 Douglas H. Arthurs
 Douglas Harter
@@ -18272,7 +18020,6 @@ Duane McLaughlin
 Duane Morris
 Duane Murray
 Duane Stephens
-Duane Thompson
 Duane Tucker
 Duane Whitaker
 Duarte d'Almeida
@@ -18305,7 +18052,6 @@ Duke Ellington
 Duke Kahanamoku
 Duke Lafoon
 Duke Nicholson
-Duke R. Lee
 Duke Redbird
 Duke Snider
 Duke Stroud
@@ -18336,7 +18082,6 @@ Dustin Allen
 Dustin Day
 Dustin Demri-Burns
 Dustin Diamond
-Dustin Farnum
 Dustin Fitzsimons
 Dustin Guy Defa
 Dustin Harnish
@@ -18443,7 +18188,6 @@ Dylan Penn
 Dylan Provencher
 Dylan Ratigan
 Dylan Riley Snyder
-Dylan Ryder
 Dylan Sandifer
 Dylan Schmid
 Dylan Schombing
@@ -18480,7 +18224,6 @@ E. Hampton Beagle
 E. J. Bonilla
 E. J. Morris
 E. J. Peaker
-E. J. Ratcliffe
 E. Katherine Kerr
 E. L. Doctorow
 E. Lamont Johnson
@@ -18529,18 +18272,13 @@ Earl Houston Bullock
 Earl Jarrett
 Earl Maddox
 Earl Maynard
-Earl Metcalfe
-Earl Mohan
 Earl Montgomery
 Earl Ortiz
-Earl Oxford
 Earl Pastko
 Earl Pennington
 Earl Poole Ball
 Earl W. Smith
 Earle E. Partridge|General Earle E. Partridge
-Earle Foxe
-Earle Williams
 Earleen Bergeron
 Early Whitesides
 Earnest Poole, Jr.
@@ -18588,7 +18326,6 @@ Ed Bernard
 Ed Binns
 Ed Bishop
 Ed Boon
-Ed Brady (actor)|Ed Brady
 Ed Brandenburg
 Ed Brodow
 Ed Bruce
@@ -18643,7 +18380,6 @@ Ed Mona
 Ed Monaghan
 Ed Mosher
 Ed Nelson
-Ed Nettle
 Ed O'Keefe
 Ed O'Neil
 Ed O'Neill
@@ -18683,7 +18419,6 @@ Ed Wasser
 Ed Westwick
 Ed Wheeler
 Ed Williams (actor)|Ed Williams
-Ed Wilson
 Ed Wood
 Ed Wright
 Ed Wynn
@@ -18716,7 +18451,6 @@ Eddie Cahill
 Eddie Cairis
 Eddie Castrodad
 Eddie Cibrian
-Eddie Cobb
 Eddie Constantine
 Eddie Daniels
 Eddie Deezen
@@ -18732,7 +18466,6 @@ Eddie Frias
 Eddie Frierson
 Eddie George
 Eddie Graham
-Eddie Gribbon
 Eddie Griffin
 Eddie Guerra
 Eddie Hassell
@@ -18746,7 +18479,6 @@ Eddie Jackson
 Eddie Jemison
 Eddie Jones (actor)|Eddie Jones
 Eddie Kafafian
-Eddie Kane
 Eddie Kaye Thomas
 Eddie Khalil
 Eddie King
@@ -18756,7 +18488,6 @@ Eddie Levert
 Eddie Lineberry
 Eddie Little
 Eddie Little Sky
-Eddie Lyons
 Eddie Marrero
 Eddie Marsan
 Eddie Marsden
@@ -18798,7 +18529,6 @@ Eddie Vedder
 Eddie Velez
 Eddie Wong
 Eddra Gale
-Eddy Chandler
 Eddy Grant
 Eddy Kiihnl
 Eddy Ko
@@ -18855,14 +18585,11 @@ Edith Ivey
 Edith Jefferson
 Edith Massey (actress)|Edith Massey
 Edmon Ryan
-Edmond Cobb
 Edmond Collins
 Edmond Jonquères d'Oriola
 Edmond O'Brien
 Edmond Scott Ratliff
-Edmund Breese
 Edmund Breon
-Edmund Burns
 Edmund Cambridge
 Edmund Cobb
 Edmund Druilhet
@@ -18872,7 +18599,6 @@ Edmund Glover
 Edmund Gwenn
 Edmund Kingsley
 Edmund L. Shaff
-Edmund Lowe
 Edmund Lyndeck
 Edmund Moriarty
 Edmund Pegge
@@ -18885,7 +18611,6 @@ Edna Holland
 Edna MacAfee
 Edna Moreno
 Edna Richardson
-Edna Wheaton
 Edoardo Ballerini
 Edoardo Costa
 Edoardo Pesceas|Edoardo Pesceas
@@ -18943,7 +18668,6 @@ Edward Colmans
 Edward Colver
 Edward DeBruce III
 Edward DeRuiter
-Edward Dillon (actor)|Edward Dillon
 Edward Donno
 Edward Evans (actor)|Edward Evans
 Edward F. Carey
@@ -18963,7 +18687,6 @@ Edward Glen|Eddie Glen
 Edward Greenberg
 Edward Grover
 Edward Hardwicke
-Edward Hearn (actor)|Edward Hearn
 Edward Herrmann
 Edward Herrmann|Ed Herrmann
 Edward Hibbert
@@ -18973,7 +18696,6 @@ Edward Holcroft
 Edward Holmes
 Edward I. Koch
 Edward J. Clare
-Edward J. Nugent
 Edward James Hyland
 Edward James Olmos
 Edward Jenkins
@@ -18981,14 +18703,10 @@ Edward Keane (actor)|Edward Keane
 Edward Kelsey
 Edward Kerr
 Edward Kewin
-Edward Kimball
 Edward L. Masry
 Edward Le Veque
-Edward LeSaint
-Edward LeSaint|Edward La Saint
 Edward Malin
 Edward Mannix
-Edward Martindel
 Edward McDonald
 Edward McNally
 Edward McWade
@@ -19002,7 +18720,6 @@ Edward Norton
 Edward O'Blenis
 Edward O'Keefe
 Edward Peel
-Edward Peil Sr.
 Edward Penn
 Edward Petherbridge
 Edward Platt
@@ -19033,18 +18750,15 @@ Edward Zo
 Edwige Fenech
 Edwin "Hayna" Brown
 Edwin (musician)|Edwin
-Edwin B. Tilton|Edwin Booth Tilton
 Edwin Collier
 Edwin Cooper
 Edwin Craig
 Edwin Hodge
-Edwin J. Brady
 Edwin Jay
 Edwin Luke
 Edwin Magat
 Edwin Malave|Edwin "Chu Chu" Malave
 Edwin Max
-Edwin Maxwell (actor)|Edwin Maxwell
 Edwin McCain
 Edwin Neal
 Edwin Newman
@@ -19060,10 +18774,7 @@ Edwina Moore
 Edy Arellano
 Edy Ganem
 Edy Williams
-Edythe Chapman
 Edythe Davis
-Effie Conley
-Effie Shannon
 Efrain Figueroa
 Efrat Dor
 Efrem Zimbalist Jr.
@@ -19129,6 +18840,7 @@ Eku Edewor
 El Duce
 El Housseine Dejjiti
 Ela Sanko
+Ela Warburton
 Elaina Doucet
 Elaine
 Elaine Aiken
@@ -19254,6 +18966,7 @@ Eli Goree
 Eli Ham
 Eli Marienthal
 Eli Mintz
+Eli Pledge
 Eli Roth
 Eli Russel Linnetz
 Eli Russell Linnetz
@@ -19477,7 +19190,6 @@ Elizabeth Oas
 Elizabeth Olin
 Elizabeth Olsen
 Elizabeth Omilami
-Elizabeth Patterson (actress)|Elizabeth Patterson
 Elizabeth Perry
 Elizabeth Peña
 Elizabeth Peña|Elizabeth Pena
@@ -19514,6 +19226,7 @@ Elizabeth Tulloch|Bitsie Tulloch
 Elizabeth Ureneck
 Elizabeth Ward
 Elizabeth Warner
+Elizabeth Waterworth-Santo
 Elizabeth Webster
 Elizabeth Whitcraft
 Elizabeth Whitmere
@@ -19660,7 +19373,6 @@ Elly Silberstein
 Ellyn O'Connell
 Elmarie Wendel
 Elmer
-Elmer Ballard
 Elmer Kline
 Elmer,
 Elodie Yung
@@ -19711,7 +19423,6 @@ Elvira Deatcu
 Elvira Mínguez
 Elvira Stevens
 Elvira Tonelli
-Elvire Popesco
 Elvis Costello
 Elvis Dino Esquivel
 Elvis Nolasco
@@ -19776,7 +19487,6 @@ Emil Ruben
 Emil Tholstrup
 Emil Wolk
 Emile Abossolo M'Bo
-Emile Chautard
 Emile Meyer
 Emile O. Schmidt
 Emilia Avarza
@@ -19820,7 +19530,6 @@ Emily Bach
 Emily Baldoni
 Emily Baldoni|Emily Foxler
 Emily Barclay
-Emily Barrye
 Emily Bauer
 Emily Beecham
 Emily Bergl
@@ -19865,6 +19574,7 @@ Emily Kinney
 Emily Knapp
 Emily Kranking
 Emily Kuroda
+Emily Laurel
 Emily Leider
 Emily Lineham
 Emily Lloyd
@@ -19903,6 +19613,7 @@ Emily Watson
 Emily Wickersham
 Emily Wilson (actress)|Emily Wilson
 Emily Woof
+Emily Yanc
 Emily-Grace Murray
 Eminem
 Emir Kusturica
@@ -20013,7 +19724,6 @@ Emmet O'Brien
 Emmett Bejano
 Emmett Hughes
 Emmett J. Scanlan
-Emmett King
 Emmett Lynn
 Emmett Shepard
 Emmi Chen
@@ -20023,7 +19733,6 @@ Emmy Dougall
 Emmy Elliott
 Emmy Percy-Wüstenhagen
 Emmy Raver-Lampman
-Emmy Wehlen
 Emmylou Harris
 Emo Philips
 Emory Bass
@@ -20041,7 +19750,6 @@ Ena Begovic
 Enayat Delawary
 Enda Oates
 Endre Hules
-Enid Bennett
 Enid Graham
 Enid Kent
 Enid Rose
@@ -20064,6 +19772,7 @@ Enrico Montesano
 Enrico Papa
 Enrico Silvestrin
 Enrico Viarisio
+Enright Busse
 Enrique Almeida
 Enrique Arce
 Enrique Arreola
@@ -20236,7 +19945,6 @@ Eric Mabius
 Eric Marable Jr.
 Eric Martinez
 Eric Mason
-Eric Masterson (actor)|Eric Masterson
 Eric Matheny
 Eric Mendenhall
 Eric Menyuk
@@ -20514,7 +20222,6 @@ Erminio Macario
 Erminio Macario|Macario
 Ernest Abuba
 Ernest Borgnine
-Ernest Butterworth Jr.
 Ernest Clark
 Ernest Dickerson Jr.
 Ernest Dixon
@@ -20523,7 +20230,6 @@ Ernest Graves (actor)|Ernest Graves
 Ernest Harada
 Ernest Harden Jr.
 Ernest Harden, Jr.
-Ernest Hilliard
 Ernest Jay
 Ernest Lee Thomas
 Ernest Lee Thomas|Ernest Thomas
@@ -20554,7 +20260,6 @@ Ernesto Pagano
 Ernesto Yáñez
 Erni Mangold
 Ernie Adams
-Ernie Adams (actor)|Ernie Adams
 Ernie Anastos
 Ernie Banks
 Ernie Barnes
@@ -20581,7 +20286,6 @@ Ernie Reyes, Jr.
 Ernie Sabella
 Ernie Vincent
 Ernie Wheelwright (running back)|Ernie Wheelwright
-Ernie Wood
 Ernie the Giant Chicken
 Ernst Schröder (actor)|Ernst Schröder
 Ernst Stötzner
@@ -20626,27 +20330,22 @@ Essex Smith
 Essie Davis
 Estad Tewfik Yusuf Mohamed
 Esteban Cueto
-Esteban Fuentes
 Esteban Powell
 Estella Warren
 Estelle (musician)|Estelle Swaray
 Estelle Evans
 Estelle Getty
 Estelle Harris
-Estelle Harrison
 Estelle Omens
 Estelle Parsons
 Estelle Reiner
-Estelle Short
 Estelle Skornik
-Estelle Taylor
 Estelle Winwood
 Ester Carloni
 Ester Dean
 Ester Spitz
 Estevan Oriol
 Esther Benson
-Esther Muir
 Esther Parnass
 Esther Perel
 Esther Povitsky
@@ -20692,14 +20391,11 @@ Ethan Tavares
 Ethel Ayler
 Ethel Griffies
 Ethel Merman
-Ethel Shannon
 Ethel Smith (organist)|Ethel Smith
-Ethel Wales
 Etienne Kellici
 Etsushi Toyokawa
 Etta Cox
 Etta James
-Etta Lee
 Etta McDaniel
 Ettore D'Alessandro
 Ettore Manni
@@ -20728,7 +20424,6 @@ Eugene Lipinski
 Eugene M. Davis
 Eugene M. Davis|Gene Davis
 Eugene Martin (actor)|Eugene Martin
-Eugene Pallette
 Eugene Prokofiev
 Eugene Robert Glazer|Eugene Glazer
 Eugene Roch
@@ -20740,14 +20435,13 @@ Eugene Walter
 Eugene Williams
 Eugenia Caruso
 Eugenia Dolores
-Eugenia Gilbert
 Eugenia Kuzmina
 Eugenia McLin
 Eugenia Yuan
-Eugenie Besserer
 Eugenie Bondurant
 Eugenio Cobo
 Eugenio Derbez
+Eulabelle Moore
 Eulala Scheel
 Eunice Anderson
 Eunice Cho
@@ -20796,7 +20490,6 @@ Eva Robin's
 Eva Schiffman
 Eva Stellby
 Eva Tep
-Eva Thatcher
 Eva Traynor
 Eva Wilma
 Eva van der Gucht
@@ -20895,21 +20588,15 @@ Evelina Meghangi
 Evelina Meghnagi
 Evelina Rodriguez
 Evelyn Ankers
-Evelyn Brent
 Evelyn Cormand
 Evelyn Guerrero
 Evelyn Iocolano
 Evelyn Keyes
 Evelyn Krape
 Evelyn Kussmann
-Evelyn Laye
 Evelyn Lear
 Evelyn Lennon
-Evelyn McCoy
 Evelyn McGee
-Evelyn Oakie
-Evelyn Page
-Evelyn Selbie
 Evelyn Varden
 Evelyna Rodriguez
 Evelyne Brochu
@@ -20972,7 +20659,6 @@ Ezra Menas
 Ezra Miller
 Ezra Pound
 Eóin Geoghegan
-F. A. Turner
 F. Charles Lutkus III
 F. J. Flynn
 F. Murray Abraham
@@ -21053,7 +20739,6 @@ Fannie Flagg
 Fanny Ardant
 Fanny Bastien
 Fanny Brice
-Fanny Midgley
 Fanny Risberg
 Fanny Schiller
 Fantasia Barrino
@@ -21078,6 +20763,7 @@ Faster Pussycat
 Fat Bastard
 Fat Joe
 Fat Thomas
+Father
 Fatiha Quatili
 Fatima Robinson
 Fatma Mohamed
@@ -21200,7 +20886,6 @@ Fergus O'Donnell
 Ferike Boros
 Fermí Reixach
 Fermín Martínez
-Fern Emmett
 Fern Henry
 Fern Persons
 Fernand Gravey
@@ -21238,6 +20923,7 @@ Fernando Vargas
 Fernardo Tejero
 Fernold Degand
 Ferrell
+Ferris Taylor
 Ferruccio Amendola
 Fess Parker
 Fetchin' Bones
@@ -21256,7 +20942,6 @@ Fidelma Murphy
 Fides Krucker
 Fiend (rapper)|Fiend
 Fiesta Mei Ling
-Fifi D'Orsay
 Fifi Hart
 Fifi,
 Fikile Nyandeni
@@ -21359,13 +21044,9 @@ Flora Montgomery
 Flora Newbigin
 Flora Nicholson
 Flora Robson
-Florence Allen
 Florence Anglin
 Florence Banda
 Florence Clery
-Florence Dudley
-Florence Eldridge
-Florence Flinn
 Florence Gill
 Florence Hall
 Florence Henderson
@@ -21376,18 +21057,14 @@ Florence Miller
 Florence Paterson
 Florence Pernel
 Florence Pugh
-Florence Rose
 Florence Schauffer
 Florence Schauffler
 Florence Shirley
 Florence Situ
 Florence Stanley
 Florence Tarlow
-Florence Turner
-Florence Vidor
 Florence Warner
 Florence Welch
-Florence Wix
 Florencia Lozano
 Florentine Lahme
 Florian Boesch
@@ -21439,7 +21116,6 @@ Forrest J Ackerman
 Forrest Landis
 Forrest Murray
 Forrest Silvers
-Forrest Stanley
 Forrest Taylor
 Forrest Tucker
 Forrest Wood
@@ -21483,7 +21159,6 @@ France Castel
 France Nuyen
 France Perras
 Frances Barber
-Frances Bavier
 Frances Bay
 Frances Bergen
 Frances Brady-Stewart
@@ -21502,7 +21177,6 @@ Frances McDormand
 Frances Morri
 Frances O’Connor
 Frances Reid
-Frances Scott
 Frances Sholto-Douglas
 Frances Taylor Davis|Frances Davis
 Frances Tomelty
@@ -21574,7 +21248,6 @@ Francis Christina
 Francis De Sales (actor)|Francis De Sales
 Francis Drake
 Francis Fallon
-Francis Ford (actor)|Francis Ford
 Francis Ford Coppola
 Francis Ford Coppola filmography|Marya Zimmet
 Francis Guinan
@@ -21590,7 +21263,6 @@ Francis Pierlot
 Francis Radovanovic
 Francis Tonkala Tamouya
 Francis Wright (actor)|Francis Wright
-Francis X. Bushman
 Francis X. McCarthy
 Francis X. McCarthy|Francis-Xavier McCarthy
 Francis X. McCarthy|Frank McCarthy
@@ -21663,7 +21335,6 @@ Frank
 Frank Adamson
 Frank Adonis
 Frank Aletter
-Frank Allworth
 Frank Ammirati
 Frank Aquilina
 Frank Aquilino
@@ -21671,7 +21342,6 @@ Frank Ashmore
 Frank Avianca
 Frank Babich
 Frank Baker
-Frank Beal
 Frank Beddor
 Frank Birney
 Frank Blanch
@@ -21698,13 +21368,11 @@ Frank Chase
 Frank Chiesurin
 Frank Chin
 Frank Clem
-Frank Coghlan, Jr.|Junior Coghlan
 Frank Collison
 Frank Conlan
 Frank Conroy (actor)|Frank Conroy
 Frank Converse
 Frank Coraci
-Frank Crudele
 Frank D'Amico
 Frank D'Angelo
 Frank Darien
@@ -21722,11 +21390,8 @@ Frank Dillane
 Frank Dolan
 Frank Doubleday (actor)|Frank Doubleday
 Frank E. Ford
-Frank Ellis (actor)|Frank Ellis
-Frank Evans (actor)|Frank Evans
 Frank Eyman
 Frank Farmer
-Frank Fay (American actor)|Frank Fay
 Frank Faylen
 Frank Fenton (actor)|Frank Fenton
 Frank Ferguson
@@ -21766,19 +21431,17 @@ Frank Jenks
 Frank John Hughes
 Frank Jourdano
 Frank Kaquitts
+Frank Kauer
 Frank Kelly
 Frank Knapp Jr.
 Frank Kreuger
 Frank Krueger
 Frank L. Ridley
-Frank LaRue
 Frank Lackteen
 Frank Lampard
-Frank Lanning
 Frank Latimore
 Frank Lawton
 Frank Lee Sprague|Frank Sprague
-Frank Leigh
 Frank Lentini
 Frank Licari
 Frank Lieberman
@@ -21795,7 +21458,6 @@ Frank Marshall (film producer)|Frank Marshall
 Frank Marth
 Frank Martorana
 Frank Mayo (actor)|Frank Mayo
-Frank McCormack
 Frank McCusker
 Frank McDonald
 Frank McGrath (actor)|Frank McGrath
@@ -21816,7 +21478,6 @@ Frank Morgan
 Frank Mottek
 Frank Nakashima
 Frank Nelson (actor)|Frank Nelson
-Frank Newburg
 Frank Noel
 Frank Noon
 Frank Notaro
@@ -21843,7 +21504,6 @@ Frank Puglia
 Frank Ramirez
 Frank Ray Perilli
 Frank Renzulli
-Frank Rice (actor)|Frank Rice
 Frank Rich
 Frank Roman
 Frank Roman (actor)|Frank Roman
@@ -21859,7 +21519,6 @@ Frank Schorpion
 Frank Schuller
 Frank Scozzari
 Frank Sharp
-Frank Sheridan
 Frank Shorter
 Frank Sieman
 Frank Silva
@@ -21885,6 +21544,7 @@ Frank Vincent
 Frank Webb
 Frank Whiteman
 Frank Wilcox
+Frank Wilder
 Frank Williams (actor)|Frank Williams
 Frank Wills (security guard)|Frank Wills
 Frank Wilson (Australian actor)|Frank Wilson
@@ -21935,7 +21595,6 @@ Franklin Delano Roosevelt
 Franklin Dennis Jones
 Franklin Djeda Smith
 Franklin Ojeda Smith
-Franklin Parker
 Franklin Pipp
 Franklyn Ajaye
 Franklyn Farnum
@@ -22012,13 +21671,10 @@ Fred Berry
 Fred Brookfield
 Fred Buch
 Fred Burrell
-Fred C. Newmeyer
-Fred Church (actor)|Fred Church
 Fred Clark
 Fred Coffin
 Fred Cross
 Fred Dalton Thompson
-Fred DeSilva
 Fred Dennis
 Fred Draper
 Fred Dryer
@@ -22039,7 +21695,6 @@ Fred Gratton
 Fred Griffith (actor)|Fred Griffith
 Fred Griffiths (actor)|Fred Griffiths
 Fred Gwynne
-Fred Hadley
 Fred Hamilton
 Fred Hammond
 Fred Hazelton
@@ -22048,13 +21703,10 @@ Fred Henderson
 Fred Hennings
 Fred Herrick
 Fred Holliday (actor)|Fred Holliday
-Fred Humes
 Fred Inkley
-Fred J. Butler
 Fred J. Scollay
 Fred Keating (actor)|Fred Keating
 Fred Kelemen
-Fred Kelsey
 Fred Kohler
 Fred Krone
 Fred Lerner
@@ -22078,7 +21730,6 @@ Fred Ridgeway
 Fred Rogers
 Fred S. Ronnow
 Fred Sadoff
-Fred Santley
 Fred Savage
 Fred Scheiwiller
 Fred Schneider
@@ -22098,7 +21749,6 @@ Fred Tungulsten
 Fred Van Kuyk
 Fred W.S. Newton
 Fred Walburn
-Fred Warren
 Fred Weller
 Fred Whalen
 Fred Willard
@@ -22108,6 +21758,7 @@ Fred Wolf (writer)|Fred Wolf
 Freda Dowie
 Freda Foh Shen
 Freda Payne
+Freda...Pat Ashton
 Freddi Rogers
 Freddie Boath
 Freddie Childress
@@ -22150,7 +21801,6 @@ Frederick Bailey (screemwriter)|Frederick Bailey
 Frederick Buford
 Frederick Burtwell
 Frederick Coffin
-Frederick Cole
 Frederick De Cordova
 Frederick E. Dann
 Frederick E. Wodin
@@ -22204,6 +21854,7 @@ Freestyle Fellowship
 Freez Luv
 Freida Pinto
 Frelin	as Peaches
+French Construction Worker
 French Stewart
 French Tickner
 Frenchie Davis
@@ -22236,10 +21887,8 @@ Fritz Sperberg
 Fritz Tillmann
 Fritz Weaver
 Fritz Wepper
-Fritzi Brunette
 Fritzi Burr
 Fritzi Jane Courtney
-Fritzi Ridgeway
 Frodo Baggins|Frodo
 Frost (rapper)|Kid Frost
 Frédéric Andrau
@@ -22285,7 +21934,6 @@ G. Hannelius
 G. J. Echternkamp
 G. Larry Butler
 G. Michael Gray
-G. Raymond Nye
 G. Scott Paterson
 G. Smokey Campbell
 G. Stanley Jones|Stanley Jones
@@ -22355,6 +22003,7 @@ Gabriel Spahiu
 Gabriel Strong
 Gabriel Sunday
 Gabriel Villar
+Gabriel Werb
 Gabriel-Kane Day-Lewis
 Gabriela Bertante
 Gabriela Goldsmith
@@ -22367,7 +22016,6 @@ Gabriele Lopes
 Gabriele Tabacco
 Gabriele Tinti (actor)|Gabriele Tinti
 Gabriele Torrei
-Gabriella Fox
 Gabriella Giorgelli
 Gabriella Lamb
 Gabriella Lepori
@@ -22461,7 +22109,6 @@ Galaxy Craze
 Gale Garnett
 Gale Gordon
 Gale Harold
-Gale Henry
 Gale Mayron
 Gale Page
 Gale Robbins
@@ -22728,7 +22375,6 @@ Gary-7
 Garz Chan
 Gaspard Augé
 Gasper Gray
-Gaston Garchery
 Gaston Poon
 Gaston Richer
 Gastone Moschin
@@ -23013,7 +22659,6 @@ George Back
 George Back (actor)|George Back
 George Baker (actor)|George Baker
 George Ball
-George Barbier (actor)|George Barbier
 George Barrow
 George Bartenieff
 George Basil
@@ -23021,7 +22666,6 @@ George Bass
 George Baxter (actor)|George Baxter
 George Belbin
 George Benson (actor)|George Benson
-George Beranger
 George Birt
 George Blagden
 George Bloomfield
@@ -23077,13 +22721,9 @@ George E. Stone
 George E. Zeeman
 George Eads
 George Engelson
-George Ernest
-George F. Marion
 George F. Miller
 George Fargo
 George Faughnan
-George Fawcett
-George Fenneman
 George Finn
 George Finn (ice hockey)|George Finn
 George Fisher
@@ -23159,7 +22799,6 @@ George Lynch (basketball)|George Lynch
 George M. Kostuch
 George MacKay (actor)|George MacKay
 George Macready
-George Magrill
 George Maguire
 George Maharis
 George Mann (vaudeville performer)|George Mann
@@ -23190,7 +22829,6 @@ George Murcell
 George Murdock
 George Murdock (actor)|George Murdock
 George Murray
-George N. Martin
 George N. Neise
 George Nakata
 George Newbern
@@ -23283,7 +22921,6 @@ George Voskovec
 George Vricos
 George W. Bush
 George W. Smith
-George Waggner
 George Wallace (American comedian)|George Wallace
 George Wang (actor)|George Wang
 George Webster
@@ -23316,7 +22953,6 @@ Georgia Craig
 Georgia Creighton
 Georgia Emelin
 Georgia Engel
-Georgia Hale
 Georgia Harrell
 Georgia Hubley
 Georgia Keithley
@@ -23332,8 +22968,6 @@ Georgiana Sîrbu
 Georgianna Carter
 Georgianna Robertson
 Georgie Auld
-Georgie Collins
-Georgie Collins... Ms. Chapman
 Georgie Flores
 Georgie Glen
 Georgie Grieve
@@ -23456,7 +23090,6 @@ Geri Miller
 Gerik Schjelderup
 Germain Arroyo
 Germaine Brooks
-Germaine Damar
 Germano Giglioli
 Germar Terrell Gardner
 Germán Palacios
@@ -23491,14 +23124,11 @@ Gert Niemitz
 Gerta Grunen
 Gertan Klauber
 Gertrud Bald
-Gertrude Astor
 Gertrude Flynn
 Gertrude Lawrence
 Gertrude Musgrove
-Gertrude Olmstead
 Gertrude Rook
 Gertrude Saunders
-Gertrude Short
 Gertrude Thoma
 Gethin Anthony
 Geza Kovacs
@@ -23613,7 +23243,6 @@ Gil Birmingham
 Gil Brenton
 Gil Cantanzaro Jr.
 Gil Cantanzaro Sr.
-Gil Delamare
 Gil Filar
 Gil Gerard
 Gil Gex
@@ -23638,12 +23267,10 @@ Gilbert Emery
 Gilbert Glenn Brown
 Gilbert Gottfried
 Gilbert Green
-Gilbert Holmes (actor)|Pee Wee Holmes
 Gilbert Lewis (actor)|Gilbert Lewis
 Gilbert Martin
 Gilbert McCauley
 Gilbert Owuor
-Gilbert Pratt
 Gilbert Renkens
 Gilbert Roland
 Gilbert Rosales
@@ -23704,6 +23331,8 @@ Gina Athans
 Gina Battist
 Gina Belafonte
 Gina Bramhill
+Gina Briganti
+Gina Brillon
 Gina Carano
 Gina Chare
 Gina Chiarelli
@@ -23889,7 +23518,6 @@ Giuseppe Rinaldi
 Giuseppe Rotunno
 Giuseppe Sanfelice
 Giuseppe Sanfelice di Monteforte|Giuseppe Sanfelice
-Giuseppe Tancredi
 Giuseppe Terranova
 Giuseppina Cervizzi
 Giusi Cataldo
@@ -23899,13 +23527,10 @@ Gizelle D'Cole
 Gizmo
 Gladise Jiminez
 Gladys Boot
-Gladys Brockwell
 Gladys Cooper
-Gladys Field
 Gladys Henson
 Gladys Hill
 Gladys Holland
-Gladys Hulette
 Gladys Knight
 Gladys Mathon
 Gladys O'Connor
@@ -24020,7 +23645,6 @@ Gloria Slade
 Gloria Steinem
 Gloria Stroock
 Gloria Stuart
-Gloria Swanson
 Gloria Talbott
 Gloria Talbott|Gloiria Talbot
 Gloria Votsis
@@ -24054,7 +23678,6 @@ Godfrey Quigley
 Godsmack
 Goeffrey Ross
 Gokor Chivichyan
-Golda Madden
 Goldie
 Goldie Hawn
 Goldie Loc
@@ -24105,7 +23728,6 @@ Gordon Brown
 Gordon Clapp
 Gordon Clark
 Gordon Currie (actor)|Gordon Currie
-Gordon De Main
 Gordon Gano
 Gordon Gostelow
 Gordon Grant (actor)|Gordon Grant
@@ -24141,7 +23763,6 @@ Gordon Rigsby
 Gordon Robertson
 Gordon Scott
 Gordon Signer
-Gordon Standing
 Gordon Tanner
 Gordon Tipple
 Gordon Tootoosis
@@ -24166,7 +23787,6 @@ Gower Champion
 Goyo Lebrero
 Gołda Tencer
 Grace Aronds
-Grace Bradley
 Grace Brannigan
 Grace Capeless
 Grace Doughty
@@ -24238,7 +23858,6 @@ Graham Jarvis
 Graham Kennedy
 Graham Lawson
 Graham Lines
-Graham McPherson... Mr. Zaharchuk
 Graham McTavish
 Graham Moffatt
 Graham Norris
@@ -24283,6 +23902,7 @@ Grant Heslov
 Grant Hoover
 Grant James
 Grant L. Roberts
+Grant Logan
 Grant Marvin
 Grant Mathis
 Grant McFarland
@@ -24579,7 +24199,6 @@ Griffin O'Neal
 Griffin Reilly Evans
 Griffin Robert Faulkner
 Griffith Brewer
-Griffith Humphreys
 Griffith Jones (actor)|Griffith Jones
 Grifon Aldren
 Grigoris Stefanides
@@ -24600,6 +24219,7 @@ Gu Lan
 Guadalupe A. Garcia
 Gualtiero Tumiati
 Guang Li
+Guard
 Guastavo Salmerón
 Gudrun Ritter
 Gudrun Ure
@@ -24646,7 +24266,6 @@ Guillermo Vilas
 Guillermo del Toro
 Guillermo del Toro|Guiellermo Del Toro
 Guinevere Turner
-Guinn 'Big Boy' Williams
 Guiteau Nestant
 Gulcin Gilbert
 Gulliver McGrath
@@ -24681,7 +24300,6 @@ Gus Birney
 Gus Crim
 Gus Halper
 Gus Hoffman
-Gus Leonard
 Gus Lewis
 Gus Lynch
 Gus Mattox
@@ -24690,7 +24308,6 @@ Gus Rogerson
 Gus Salud
 Gus Trikonis
 Gus Van Sant
-Gusta Berg
 Gusta Gerritsen
 Gustaf Hammarsten
 Gustaf Skarsgård
@@ -24726,14 +24343,12 @@ Guy Flanagan
 Guy Hadley
 Guy Henry (actor)|Guy Henry
 Guy Heron
-Guy Kibbee
 Guy Killum
 Guy L'Écuyer
 Guy Lombardo
 Guy Madison
 Guy Middleton
 Guy Nadon
-Guy Oliver
 Guy Pearce
 Guy Perry
 Guy Raymond
@@ -24756,7 +24371,6 @@ Guy Wilkerson
 Guy Wilson (actor)|Guy Wilson
 Guy Witcher
 Guy van Swearingen
-Gwen Lee
 Gwen Lewis
 Gwen McGee
 Gwen Stefani
@@ -24828,7 +24442,6 @@ Günter von Wyhl
 Günther Maria Halmer
 Gō Ayano
 H. B. Haggerty
-H. B. Warner
 H. Charles Parrish
 H. E. West
 H. John Benjamin
@@ -24837,7 +24450,6 @@ H. Jon Benjamin|Jon Benjamin
 H. M. Wynant
 H. Tom Cain
 H. W. Gim
-H.B. Warner
 H.M. Wynant
 H.T. Hsiang
 H.W. Gim
@@ -24852,7 +24464,6 @@ Hadar Ratzon
 Hadi Armani
 Hadi Subiyanto
 Hadiya Eshé
-Hadji Ali
 Hadley Fraser
 Hadley Kay
 Hadley Robinson
@@ -24870,6 +24481,7 @@ Hailey Gates
 Hailey Kilgore
 Hailey McCann
 Hailey Noelle Johnson
+Hailey Rodee
 Hailey Stolinski
 Hailey Wist
 Haili Page
@@ -24907,13 +24519,10 @@ Hal Scardino
 Hal Smith (actor)|Hal Smith
 Hal Sparks
 Hal Taggart
-Hal Taliaferro
 Hal Williams
 Hal Willner
-Hal Wilson
 Hala Finley
 Halbert W. Jalikeakek
-Hale Hamilton
 Haleigh Hekking
 Haley Aull
 Haley Beauchamp
@@ -24942,7 +24551,6 @@ Halina Zalewska
 Halina Łabonarska
 Hall
 Halla Thordardottir
-Hallam Cooley
 Halldor Kenneth Bjarnason
 Halle Bailey
 Halle Berry
@@ -25001,7 +24609,6 @@ Hank Henry
 Hank Horner
 Hank Johnston
 Hank Jones
-Hank Mann
 Hank Patterson
 Hank Robinson
 Hank Rogerson
@@ -25118,6 +24725,7 @@ Hansel Pacheco
 Hansford Prince
 Hansford Rowe
 Hansi Roll
+Hanuman
 Hao Jianmin
 Hap Lawrence
 Hap Oslund
@@ -25137,7 +24745,6 @@ Harbour
 Harcourt Williams
 Hard Boiled Haggerty
 Hard Boiled Haggerty|H.B. Haggerty
-Hardee Kirkland|Hardy Kirkland
 Hardeep Singh Kohli
 Hardie Lineham
 Hardy Awadjie
@@ -25189,7 +24796,6 @@ Harold De Becker
 Harold Dyrenforth
 Harold Gary
 Harold Goldblatt
-Harold Goodwin (American actor)|Harold Goodwin
 Harold Goodwin (English actor)|Harold Goodwin
 Harold Gould
 Harold Hendricks
@@ -25201,7 +24807,6 @@ Harold J. Stone
 Harold Jamieson
 Harold Kasket
 Harold Landon
-Harold Lloyd
 Harold Miller
 Harold N. Cooledge Jr.
 Harold Nicholas
@@ -25307,9 +24912,7 @@ Harry Gold
 Harry Goodman, Tim's
 Harry Gorsuch
 Harry Goz
-Harry Green
 Harry Gregson-Williams
-Harry Gripp
 Harry Groener
 Harry Grubb
 Harry Guardino
@@ -25323,7 +24926,6 @@ Harry Hill
 Harry Holcombe
 Harry Holland
 Harry Hutchinson
-Harry J. Lane
 Harry J. Lennix
 Harry Jackson
 Harry James
@@ -25362,15 +24964,12 @@ Harry Ray
 Harry Raybould
 Harry Reems
 Harry Richardson (actor)|Harry Richardson
-Harry Richman
 Harry Riebauer
 Harry Ritz
 Harry Roskolenko
 Harry S. Murphy
-Harry Schultz
 Harry Seddon
 Harry Selby
-Harry Semels
 Harry Shannon (actor)|Harry Shannon
 Harry Shearer
 Harry Shum Jr.
@@ -25380,15 +24979,12 @@ Harry Sinclair
 Harry Standjofski
 Harry Stewart
 Harry Stockwell
-Harry Stubbs (actor)|Harry Stubbs
 Harry Styles
 Harry Sutton Jr
-Harry T. Morey
 Harry Tardios
 Harry Teinowitz
 Harry Tenbrook
 Harry Thomas
-Harry Todd
 Harry Towb
 Harry Townes
 Harry Treadaway
@@ -25399,7 +24995,6 @@ Harry Waters, Jr.
 Harry Weiss
 Harry Wilcox
 Harry Wilson (actor)|Harry Wilson
-Harry Woods (actor)|Harry Woods
 Harry Yorku
 Harry Zimmerman
 Harry Zinn
@@ -25425,7 +25020,6 @@ Harvey Brumfield
 Harvey Chao
 Harvey Christiansen
 Harvey Churchill
-Harvey Clark (actor)|Harvey Clark
 Harvey Diez
 Harvey Evans
 Harvey Fierstein
@@ -25438,7 +25032,6 @@ Harvey Jason
 Harvey Keitel
 Harvey Korman
 Harvey Krauss
-Harvey L. Kinney
 Harvey Lembeck
 Harvey Levin
 Harvey Lewis
@@ -25498,7 +25091,6 @@ Hayden McFarland
 Hayden Mcfarland
 Hayden Panettiere
 Hayden Rorke
-Hayden Stevenson
 Hayden Szeto
 Hayden Tank
 Hayden Zaller
@@ -25539,7 +25131,6 @@ Hazel Armenante
 Hazel Court
 Hazel Dickens
 Hazel Ellerby
-Hazel Keener
 Hazel Phillips
 Hazel Sandery
 Hazel Scott
@@ -25578,7 +25169,6 @@ Heather Hanson
 Heather Headley
 Heather Hendrixson
 Heather Henson
-Heather Hess
 Heather Hiscox
 Heather Hogan
 Heather Jocelyn Blair
@@ -25714,12 +25304,9 @@ Helen Dallimore
 Helen Daniels
 Helen Day
 Helen Desbiez
-Helen Ferguson
 Helen Fitzgerald
-Helen Foster (actress)|Helen Foster
 Helen Fraser (actress)|Helen Fraser
 Helen Gallagher
-Helen Greene
 Helen Griffin
 Helen Gurley Brown
 Helen Hanft
@@ -25729,11 +25316,11 @@ Helen Horton
 Helen Hughes
 Helen Hughes (actress)|Helen Hughes
 Helen Hunt
-Helen Jerome Eddy
 Helen Joseph
 Helen Kleeb
 Helen Kluger
 Helen Latham
+Helen Lederer
 Helen Lloyd Breed
 Helen MacKellar
 Helen Madden
@@ -25744,13 +25331,11 @@ Helen Mendes
 Helen Miles Singers Helen Miles, Arlene Martell, Emily Bindiger, Cindy Cobitt, Al Dana, Kevin DeSimone, Paul Evans, Chrissy Faith, Jeff Lyons, Michael Mark, Jenna Miles, Robert Ragaini, Lenny Roberts, Annette Sanders, Terry Textor, Vaneese Thomas
 Helen Miller
 Helen Mirren
-Helen Morgan
 Helen Morse
 Helen Moulder
 Helen Nasilski
 Helen O'Connor
 Helen Page Camp
-Helen Ray
 Helen Reddy
 Helen Ryan
 Helen Schneider
@@ -25763,7 +25348,6 @@ Helen Stenborg
 Helen Thomas
 Helen Thomson (actress)|Helen Thomson
 Helen Travolta
-Helen Twelvetrees
 Helen Weir
 Helen Westcott
 Helen Westley
@@ -25775,7 +25359,6 @@ Helena Browne
 Helena Buljan
 Helena Carroll
 Helena Carter
-Helena D'Algy
 Helena Dalli
 Helena Evangeliou
 Helena Kallianiotes
@@ -25786,7 +25369,6 @@ Helena Pickard
 Helena Ronée
 Helena Zengel
 Helene Cara
-Helene Chadwick
 Helene Moore
 Helene Reingaard Neumann
 Helene Stanley
@@ -25817,8 +25399,6 @@ Henning Moritzen
 Henny Backus
 Henny Russell
 Henny Youngman
-Henri Arius
-Henri Cote
 Henri Garcin
 Henri Letondal
 Henri Pardo
@@ -25831,8 +25411,6 @@ Henrik Dorsin
 Henrik Ej Hermiz
 Henrik Larsen (actor)|Henrik Larsen
 Henry Alan Miller
-Henry Armetta
-Henry B. Walthall
 Henry Bal
 Henry Bean
 Henry Beaver
@@ -25855,7 +25433,6 @@ Henry Duval
 Henry Ferrentino
 Henry Fonda
 Henry Ford
-Henry Fortson
 Henry Frost
 Henry G. Sanders
 Henry Garrett
@@ -25866,8 +25443,6 @@ Henry Goodman
 Henry Grace
 Henry H. Daniels Jr.
 Henry Hayashi
-Henry Hebert
-Henry Herbert (actor)|Henry Hebert
 Henry Hodges
 Henry Holmes
 Henry Hopper
@@ -25888,8 +25463,6 @@ Henry King and His Orchestra
 Henry Kingi
 Henry Kingi Jr.
 Henry Knotts
-Henry Kolker
-Henry Kope
 Henry Lau
 Henry Lawfull
 Henry Leff
@@ -25915,7 +25488,6 @@ Henry Rollins
 Henry Rowland (actor)|Henry Rowland
 Henry S. Quan
 Henry Saari
-Henry Sedley
 Henry Sharp
 Henry Shotwell
 Henry Silva
@@ -25923,7 +25495,6 @@ Henry Simmons
 Henry Slate
 Henry Steckman
 Henry Stephenson
-Henry Stockbridge
 Henry Stolow
 Henry Stram
 Henry Strozier
@@ -25931,7 +25502,6 @@ Henry Strzalkowski
 Henry Sutton (actor)|Henry Sutton
 Henry Thomas
 Henry Travers
-Henry Victor
 Henry Wilcoxon
 Henry Wills
 Henry Winkler
@@ -25972,7 +25542,6 @@ Herbert Hartig
 Herbert Heyes
 Herbert Hirschman
 Herbert Jefferson, Jr.
-Herbert Johnson
 Herbert Kerr
 Herbert King (actor)|Herbert King
 Herbert Kirkpatrick
@@ -25992,7 +25561,6 @@ Herbert Weissbach
 Herbert Zeichner
 Herbie Braha
 Herbie Hancock
-Herman Hack
 Herman Meckler
 Herman Reynoso
 Herman Sinitzyn
@@ -26063,7 +25631,6 @@ Hilda Barry
 Hilda Fay
 Hilda Fenemore
 Hilda Haynes
-Hilda Limbeck
 Hilda Van Der Meulen
 Hilde Krahl
 Hildegard Behrens-Kühn
@@ -26107,6 +25674,7 @@ Hiroshi Ikeuchi
 Hiroshi Koizumi
 Hiroshi Shimizu
 Hirotaka Suzuoki
+Hirotarō Honda
 Hiroyuki Sanada
 Hisashi Igawa
 Hisham Tawfiq
@@ -26164,6 +25732,7 @@ Holly Jones
 Holly Joy Gaines
 Holly Kaneko
 Holly L Watson
+Holly Lewis
 Holly Madison
 Holly Marie Combs
 Holly Near
@@ -26194,7 +25763,6 @@ Honor Society (band)|Honor Society
 Honor Titus
 Honorato Magaloni
 Hoon Lee
-Hooper Atchley
 Hoot Gibson
 Hoot Robinson
 Hope (dolphin)|Hope
@@ -26241,7 +25809,6 @@ Hossein Karimbeik
 Hot Waluigi
 Hou Minghao
 House Jameson|House B. Jameson
-House Peters
 Houseley Stevenson
 Houshang Touzie
 Housseine Dejjiti
@@ -26306,7 +25873,6 @@ Howard St. John
 Howard Starr
 Howard Stern
 Howard Storey
-Howard Truesdale
 Howard Tubman
 Howard Vernon
 Howard Webb
@@ -26355,7 +25921,6 @@ Hugh Beaumont
 Hugh Bickett
 Hugh Bonneville
 Hugh Burden
-Hugh Cameron (actor)|Hugh Cameron
 Hugh Dancy
 Hugh Dane
 Hugh Dillon
@@ -26364,11 +25929,11 @@ Hugh Downs
 Hugh Eastwood
 Hugh Farr
 Hugh Farrington
-Hugh Fay
 Hugh Feagin
 Hugh Fink
 Hugh Fraser (actor)|Hugh Fraser
 Hugh Futcher
+Hugh Gallagher
 Hugh Gillin
 Hugh Grant
 Hugh Griffith
@@ -26467,7 +26032,6 @@ Hunter Tremayne
 Hunter Wenzel
 Hunter von Leer
 Huntley Campbell
-Huntley Gordon
 Huntley Ritter
 Huntz Hall
 Hurd Hatfield
@@ -26482,6 +26046,7 @@ Hwan Chin Kim
 Hy Anzell
 Hy Hazell
 Hy Pyke
+Hylda Baker
 Hynden Walch
 Hyon Cho
 Hyubs Azarcon
@@ -26588,7 +26153,6 @@ Ian Hunter (actor)|Ian Hunter
 Ian Hyland
 Ian James Corlett
 Ian Kahn
-Ian Keith
 Ian Kelly (actor)|Ian Kelly
 Ian Lake
 Ian Laperriere
@@ -26640,7 +26204,6 @@ Ian Scott
 Ian Shaw (actor)|Ian Shaw
 Ian Somerhalder
 Ian Somerhalder|Ian Somerholder
-Ian Tate
 Ian Tench
 Ian Thornley
 Ian Toner
@@ -26793,7 +26356,6 @@ Imogene Wolodarsky
 Imp Queen
 Imperatore Luigi
 Imre Józsa
-Ina Anson
 Ina Balin
 Ina Barron
 Ina Barrón
@@ -26920,7 +26482,6 @@ Irene Grazioli
 Irene Handl
 Irene Hervey
 Irene Hogan
-Irene Howley
 Irene Jacob
 Irene Keng
 Irene Kessler
@@ -26930,7 +26491,6 @@ Irene Ng
 Irene Ng (actress)|Irene Ng
 Irene Olga López
 Irene Papas
-Irene Rich
 Irene Roseen
 Irene Ryan
 Irene Sanders
@@ -26940,7 +26500,6 @@ Irene Tedrow
 Irene Tsu
 Irene Worth
 Irene Yah-Ling Sun
-Irene Yeager
 Irene Zeigler
 Ireneusz Bogajewicz
 Irfan Mensur
@@ -27138,7 +26697,6 @@ Isidra Vega
 Isild Le Besco
 Isis Carmen Jones
 Isis Davis
-Isis Love
 Isla Blair
 Isla Fisher
 Isley Reust
@@ -27315,12 +26873,10 @@ J. Edward Bromberg
 J. Edward McKinley
 J. Evan Bonifant
 J. Evan Bonifant|Evan Bonifant
-J. Frank Glendon
 J. G. Devlin
 J. G. Hertzler
 J. G. Quintel
 J. Gaven Wilde
-J. Gordon Russell
 J. J. Abrams
 J. J. Abrams|J.J. Abrams
 J. J. Barry
@@ -27347,7 +26903,6 @@ J. Moki Cho
 J. Nathan Simmons
 J. P. Bumstead
 J. P. Manoux
-J. P. McGowan
 J. Pat O'Malley
 J. Patrick McCormack
 J. Patrick McNamara
@@ -27373,7 +26928,6 @@ J.B. Guhman Jr.
 J.B. Smoove
 J.B. Tuttle
 J.C. Evans
-J.C. Fowler
 J.C. Quinn
 J.C. Sealy
 J.D. Cannon
@@ -27411,7 +26965,6 @@ J.P. Bumstead
 J.P. Ferreri
 J.P. Goldsmith
 J.P. Guimont
-J.P. Leckray
 J.P. Manoux
 J.P. O'Neill
 J.P. O'Shaughnessy
@@ -27425,7 +26978,6 @@ J.T. Walsh
 J.V. Bradley
 J.W. 'Corkey' Fornof
 J.W. Crawford
-J.W. Johnston
 J.W. Smith.....Red
 JB Blanc
 JC Chasez
@@ -27468,7 +27020,6 @@ Jacinta Mulcahy
 Jacinto San Emeterio
 Jack
 Jack "Wildman" Armstrong
-Jack A. Goodrich
 Jack Aaron
 Jack Albertson
 Jack Andreozzi
@@ -27495,7 +27046,6 @@ Jack Briggs (actor)|Jack Briggs
 Jack Bruce
 Jack Buchanan
 Jack Burns
-Jack Byron
 Jack Cafferty
 Jack Carpenter (actor)|Jack Carpenter
 Jack Carr
@@ -27517,7 +27067,6 @@ Jack Cortes
 Jack Cowley
 Jack Creley
 Jack Curtis
-Jack Curtis (actor)|Jack Curtis
 Jack Cutmore-Scott
 Jack Daley
 Jack Davenport
@@ -27540,7 +27089,6 @@ Jack Dodson
 Jack Donnelly
 Jack Donner
 Jack Doolan (actor)|Jack Doolan
-Jack Dougherty (actor)|Jack Dougherty
 Jack Duffy
 Jack Dullnig
 Jack Dylan Grazer
@@ -27590,13 +27138,11 @@ Jack Hausman
 Jack Hawkins
 Jack Hedley
 Jack Heller
-Jack Hendricks
 Jack Hoar
 Jack Holden (actor)|Jack Holden
 Jack Hollington
 Jack Houser
 Jack Howard
-Jack Hoxie
 Jack Huston
 Jack Isbell
 Jack James Ryan
@@ -27617,9 +27163,7 @@ Jack Kenny
 Jack Kesy
 Jack Kilmer
 Jack Kimball
-Jack Kirk
 Jack Klugman
-Jack Knapp
 Jack Knight
 Jack Koenig
 Jack Kosslyn
@@ -27642,7 +27186,6 @@ Jack Lomas
 Jack Lord
 Jack Lowden
 Jack Lucarelli	as Joe Case
-Jack Luden
 Jack MacGowran
 Jack Mandaville
 Jack Manning (actor)|Jack Manning
@@ -27651,20 +27194,16 @@ Jack Mather
 Jack Maxwell
 Jack May
 Jack McBrayer
-Jack McCredie
 Jack McDermott
-Jack McDonald (actor)|Jack McDonald
 Jack McGee
 Jack McKenzie
 Jack McMullen
 Jack Melford
 Jack Mercer
-Jack Miller
 Jack Milo
 Jack Moore
 Jack Mower
 Jack Mulcahy (actor)|Jack Mulcahy
-Jack Mulhall
 Jack Mullaney
 Jack Murakami
 Jack Murdock (actor)|Jack Murdock
@@ -27676,14 +27215,12 @@ Jack Nation
 Jack Neary
 Jack Neubeck
 Jack Newfield
-Jack Newman
 Jack Noseworthy
 Jack O'Brien (director)|Jack O'Brien
 Jack O'Connell
 Jack O'Connell (actor)|Jack O'Connell
 Jack O'Halloran
 Jack O'Leary
-Jack Oakie
 Jack Orend
 Jack Osbourne
 Jack Overman
@@ -27709,7 +27246,7 @@ Jack Roth
 Jack Rourke
 Jack Rovello
 Jack Salvatore Jr.
-Jack Santoro
+Jack Sanders
 Jack Scalia
 Jack Scanlon
 Jack Schneider
@@ -27816,7 +27353,6 @@ Jackie Russell
 Jackie S. Garcia
 Jackie Sandler
 Jackie Stewart
-Jackie Taylor
 Jackie Tohn
 Jackie Vernon (comedian)|Jackie Vernon
 Jackie Washington
@@ -27927,7 +27463,6 @@ Jacqueline Byers
 Jacqueline Cassell
 Jacqueline Duval
 Jacqueline Emerson
-Jacqueline Georges
 Jacqueline Giroux
 Jacqueline Hellman
 Jacqueline Hennessy
@@ -27935,7 +27470,6 @@ Jacqueline Honulik
 Jacqueline Jones
 Jacqueline Kim
 Jacqueline Klein
-Jacqueline Logan
 Jacqueline Lord
 Jacqueline MacInnes Wood
 Jacqueline McKenzie
@@ -28213,7 +27747,6 @@ James 'Kimo' Wills
 James A. Baffico
 James A. Beattle
 James A. Janisse
-James A. Marcus
 James A. Stephens
 James A. Watson Jr.
 James Aaron Oliver
@@ -28237,7 +27770,6 @@ James Aubrey (actor)|James Aubrey
 James Austin Kerr
 James Avery
 James Avery (actor)|James Avery
-James B. 'Pop' Kenton
 James B. Douglas
 James B. Holderman
 James B. Sikking
@@ -28249,7 +27781,6 @@ James Barnes
 James Barton
 James Barton (vaudevillian)|James Barton
 James Beard
-James Bearden
 James Belchamber
 James Bell (actor)|James Bell
 James Belushi
@@ -28270,7 +27801,6 @@ James Bolam
 James Bond III
 James Booth
 James Borders
-James Bradbury Sr.
 James Bradford
 James Bradford (actor)|James Bradford
 James Brandon
@@ -28322,7 +27852,6 @@ James Congdon
 James Connolly
 James Copeland (actor)|James Copeland
 James Corden
-James Corrigan
 James Cosmo
 James Cossins
 James Costa
@@ -28330,7 +27859,6 @@ James Craig (actor)|James Craig
 James Cranna
 James Cummings
 James Cunningham
-James Curtis
 James D'Arcy
 James D. Hardy
 James D. Watts
@@ -28379,9 +27907,6 @@ James Edwards (actor)|James Edwards
 James Ellis (actor)|James Ellis
 James F. Kelly
 James Farentino
-James Farley
-James Farley (actor)|James Farley
-James Farley (actor)|Jim Farley
 James Faulkner
 James Faulkner (actor)|James Faulkner
 James Ferguson
@@ -28427,7 +27952,6 @@ James Gleason
 James Godwin
 James Goodwin
 James Goodwin (actor)|James Goodwin
-James Gordon (actor)|James Gordon
 James Gordon J.P./TV Preacher
 James Gosa
 James Grant
@@ -28441,7 +27965,6 @@ James Haake
 James Hagan
 James Haley
 James Hall
-James Hall (actor)|James Hall
 James Hamilton
 James Hampton (actor)|James Hampton
 James Hamrick
@@ -28588,6 +28111,7 @@ James Michael McDougal
 James Miller
 James Millhollin
 James Millican
+James Millington
 James Milner
 James Mitchell
 James Mitchell (actor)|James Mitchell
@@ -28676,8 +28200,6 @@ James Saxon (actor)|James Saxon
 James Seay
 James Selby
 James Shaw (musician)|Jimmy Shaw
-James Sheridan
-James Sheridan (actor)|James Sheridan
 James Shigeta
 James Short
 James Sie
@@ -28771,7 +28293,6 @@ James_Wainwright_(actor)|James Wainwright
 Jameson Clark
 Jameson Moss
 Jameson Parker
-Jamey Janes
 Jamey Sheridan
 Jamia Simone Nash
 Jamian Briar
@@ -29013,7 +28534,6 @@ Jane Jenkins
 Jane Jensen (musician)|Jane Jensen
 Jane Kaczmarek
 Jane Kean
-Jane Keckley
 Jane Kelly
 Jane Kim
 Jane Krakowski
@@ -29028,7 +28548,6 @@ Jane MacKinnon
 Jane Magnusson|Jane Magnusson
 Jane Mallett
 Jane March
-Jane Marken
 Jane Marla Robbins
 Jane McGregor
 Jane McLean
@@ -29109,7 +28628,6 @@ Janet League
 Janet Lee
 Janet Leigh
 Janet MacLachlan
-Janet MacLeod
 Janet Margolin
 Janet McTeer
 Janet Montgomery
@@ -29169,8 +28687,6 @@ Janine Eser
 Janine Habeck
 Janine LaManna
 Janine Lindemulder
-Janine Lindemulder|Janine
-Janine Marsay
 Janine Theriault
 Janine Turner
 Janine Venable
@@ -29273,10 +28789,10 @@ Jasmin Gerat
 Jasmin Savoy Brown
 Jasmin Wagner
 Jasmine Akakpo
-Jasmine Black
 Jasmine Cephas Jones
 Jasmine Di Angelo
 Jasmine Guy
+Jasmine Harris
 Jasmine Masters
 Jasmine Mathews
 Jasmine Sendar
@@ -29454,7 +28970,6 @@ Jason Ritter
 Jason Robards
 Jason Robards III
 Jason Robards Jr.
-Jason Robards Sr.
 Jason Robards, Jr.
 Jason Rogel
 Jason Ronard
@@ -29471,7 +28986,6 @@ Jason Schwartzman
 Jason Scott Campbell
 Jason Scott Jenkins
 Jason Scott Lee
-Jason Sechrest
 Jason Segel
 Jason Shaffette
 Jason Shane Scott
@@ -29503,7 +29017,6 @@ Jason Wingreen
 Jason Winn 'J.B. Destiny' Bareford
 Jason Winston George
 Jason Winston George|Jason George
-Jason Wolff... Pete
 Jason Woliner
 Jason Wong
 Jason Woods
@@ -29567,7 +29080,6 @@ Jay Caputo
 Jay Chandrasekhar
 Jay Chou
 Jay Conder
-Jay Crew
 Jay David (actor)|Jay David
 Jay Duplass
 Jay Ellis
@@ -29585,7 +29097,6 @@ Jay Harrington
 Jay Hayden
 Jay Hernandez
 Jay Huguley
-Jay Hunt (director)|Jay Hunt
 Jay Hyon
 Jay Irwin
 Jay Jablonski
@@ -29649,7 +29160,6 @@ Jay Villiers
 Jay W. Baker
 Jay Walker (actor)|Jay Walker
 Jay Washington
-Jay Wilsey
 Jay Wolpert
 Jay-R
 Jay-Z
@@ -29697,7 +29207,6 @@ Jaz Sinclair
 Jazmine Jimenez
 Jazmyn C. Richardson
 Jazsmin Lewis
-Jazy Berlin
 Jazz Raycole
 Jazz Securo
 Jazze Pha
@@ -29764,7 +29273,6 @@ Jean Pettigrew
 Jean Piat
 Jean Pigozzi
 Jean Prescott
-Jean Pâqui
 Jean Rasey
 Jean Reno
 Jean Reno|Ulrich Clement
@@ -29781,10 +29289,8 @@ Jean Sorel
 Jean St. James
 Jean Stapleton
 Jean Taylor Smith
-Jean Tissier
 Jean Tétreault|Jean Rosario Tetreault
 Jean Vander Pyl
-Jean Villet
 Jean Vinci
 Jean Willard
 Jean Willes
@@ -29812,7 +29318,6 @@ Jean-Francois Lachapelle
 Jean-Francois Stevenin
 Jean-François Balmer
 Jean-François Lénogue
-Jean-François Martial
 Jean-François Perrier
 Jean-François Stévenin
 Jean-François Vlerick
@@ -29881,7 +29386,6 @@ Jeanne Austin
 Jeanne Balibar
 Jeanne Bates
 Jeanne Brissac
-Jeanne Carmen
 Jeanne Chin
 Jeanne Cooper
 Jeanne Crain
@@ -29941,7 +29445,6 @@ Jedidiah Goodacre
 Jee Young Han
 Jeezy
 Jef Mallory
-Jeff
 Jeff "Swampy" Marsh
 Jeff "Tain" Watts
 Jeff Alan-Lee
@@ -30111,7 +29614,6 @@ Jeff Ross
 Jeff Ross|Jeffrey Ross
 Jeff Schafer
 Jeff Schaffer
-Jeff Schultz
 Jeff Schweickert
 Jeff Seaberg
 Jeff Seymour
@@ -30215,7 +29717,6 @@ Jeffrey Ross
 Jeffrey Samai
 Jeffrey Sayre
 Jeffrey Scaperrotta
-Jeffrey Smith (actor)|Jeffrey Smith
 Jeffrey Stephan
 Jeffrey Sudzin
 Jeffrey Tambor
@@ -30267,7 +29768,6 @@ Jena Friedman
 Jena Malone
 Jena Sims
 Jena Wynn
-Jenaveve Jolie
 Jenet Le Lacheur
 Jenette Goldstein
 Jeni Chua
@@ -30296,7 +29796,6 @@ Jenna Gavigan
 Jenna Gianas
 Jenna Harrison
 Jenna Harvey
-Jenna Haze
 Jenna Hildebrand
 Jenna Jameson
 Jenna Kanell
@@ -30341,7 +29840,6 @@ Jennifer Aspen
 Jennifer Babtist
 Jennifer Balgobin
 Jennifer Banko
-Jennifer Barbour
 Jennifer Bassey
 Jennifer Baxter
 Jennifer Beals
@@ -30545,7 +30043,6 @@ Jenny Gregg Stewart
 Jenny Gulley
 Jenny Guy
 Jenny Hecht
-Jenny Hendrix
 Jenny Jay
 Jenny Jules
 Jenny Kravat
@@ -30927,7 +30424,6 @@ Jesse Corti
 Jesse D. Goins
 Jesse D. Goins|Jesse Goins
 Jesse Dabson
-Jesse De Vorska
 Jesse Denyer
 Jesse Doran
 Jesse Draper
@@ -30948,7 +30444,6 @@ Jesse Jackson
 Jesse James (actor)|Jesse James
 Jesse James Keitel
 Jesse James Rutherford
-Jesse Jane
 Jesse Janzen
 Jesse Johnson (actor)|Jesse Johnson
 Jesse L. Martin
@@ -31027,7 +30522,6 @@ Jessica Devlin
 Jessica DiCicco
 Jessica DiGiovanni
 Jessica Dowdeswell
-Jessica Drake
 Jessica Ecklund
 Jessica Elliot
 Jessica Ezzell
@@ -31187,7 +30681,6 @@ Jewel (singer)|Jewel
 Jewel De'Nyle
 Jewel Donohue
 Jewel Kilcher|Jewel
-Jewel Mason
 Jewel Shepard
 Jewel Staite
 Jewel and Blaire Restaneo|Blaire Restaneo
@@ -31347,7 +30840,6 @@ Jim Chu
 Jim Cody Williams
 Jim Conrad
 Jim Cooke
-Jim Corey
 Jim Corr
 Jim Crabbe
 Jim Cramer
@@ -31570,6 +31062,7 @@ Jimmy Hill
 Jimmy Howell
 Jimmy Hynd
 Jimmy Jean-Louis
+Jimmy Jewel
 Jimmy Johnson (American football coach)|Jimmy Johnson
 Jimmy Justice (actor)|Jimmy Justice
 Jimmy Karz
@@ -31617,7 +31110,6 @@ Jimmy Walker Jr.
 Jimmy Walsh
 Jimmy Walsh (actor)|Jimmy Walsh
 Jimmy Wiggins
-Jimmy Williams
 Jimmy Witherspoon
 Jimmy Wolk
 Jimmy Wong
@@ -31648,6 +31140,7 @@ Jo Ann Campbell
 Jo Ann Farabee
 Jo Ann Harris
 Jo Ann Havrilla|Joann Havrilla
+Jo Ann Marlowe
 Jo Ann Pflug
 Jo Anne Loren
 Jo Anne Meredith
@@ -31764,13 +31257,11 @@ Joan Sheehy
 Joan Sims
 Joan Staley
 Joan Staley Danielle De Metz
-Joan Standing
 Joan Sterndale-Bennett
 Joan Tarika Lewis
 Joan Tompkins
 Joan Van Ark
 Joan Woodbury
-Joan Wyndham (actress)|Joan Wyndham
 Joana Ribeiro
 Joanelle Romero
 Joann McIntyre
@@ -31878,7 +31369,6 @@ Jocelyn Cruz
 Jocelyn DeBoer
 Jocelyn Jones
 Jocelyn Lane
-Jocelyn Lee (actress)|Jocelyn Lee
 Jocelyn Leroux
 Jocelyn Osorio
 Jocelyne Kelly
@@ -31903,7 +31393,6 @@ Jodi Lynn Thomas
 Jodi Moon
 Jodi Russell
 Jodi Stevens
-Jodi Taylor
 Jodi Wexler
 Jodie Comer
 Jodie Davis
@@ -31954,7 +31443,6 @@ Joe Billings
 Joe Bob Briggs
 Joe Bob Briggs|John Bloom
 Joe Bone
-Joe Bonomo (strongman)|Joe Bonomo
 Joe Bostick
 Joe Brooks (actor)|Joe Brooks
 Joe Brown (singer)|Joe Brown
@@ -31991,7 +31479,6 @@ Joe De Fish
 Joe De La Rosa
 Joe De Santis
 Joe DeRita
-Joe Delacruz
 Joe Demar
 Joe Dempsie
 Joe Di Reda
@@ -32108,7 +31595,6 @@ Joe Mateo
 Joe Mazza
 Joe McCutcheon
 Joe McEachern
-Joe McGray
 Joe McKinney
 Joe Melia
 Joe Mell
@@ -32152,7 +31638,6 @@ Joe Raposo
 Joe Reegan
 Joe Regalbuto
 Joe Renteria
-Joe Rickson
 Joe Rigano
 Joe Roberts
 Joe Robinson (actor)|Joe Robinson
@@ -32163,7 +31648,6 @@ Joe Ruffo
 Joe Sabatino
 Joe Santos
 Joe Savino
-Joe Sawyer
 Joe Sawyers
 Joe Sawyer|Joseph Sawyer
 Joe Scarborough
@@ -32176,7 +31660,6 @@ Joe Silver
 Joe Simmons, Madea's
 Joe Simmons, the
 Joe Sison
-Joe Smith Marba
 Joe Sofranko
 Joe Son
 Joe Sowerbutts
@@ -32198,7 +31681,6 @@ Joe Torre
 Joe Torry
 Joe Trohman
 Joe Turkel
-Joe Turner
 Joe Unger
 Joe Urla
 Joe V.Greco
@@ -32451,9 +31933,7 @@ John Atterbury
 John Augello
 John Aylward
 John B. Crye
-John B. L. Goodwin|John Goodwin
 John B. Lowe
-John B. O'Brien
 John B. Thayer
 John B. Wells
 John Bach
@@ -32502,6 +31982,7 @@ John Birch
 John Bird (actor)|John Bird
 John Bishop
 John Blackwood
+John Blackwood (actor)|John Blackwood
 John Bleifer
 John Bloom (actor)|John Bloom
 John Bluthal
@@ -32519,7 +32000,6 @@ John Bott (actor)|John Bott
 John Bottoms
 John Bourgeois
 John Bowe (actor)|John Bowe
-John Bowers (actor)|John Bowers
 John Boyd
 John Boyd (actor)|John Boyd
 John Boyd West
@@ -32666,7 +32146,6 @@ John Dalton
 John Damler
 John Dantona
 John Darling
-John Darrow
 John David Carson
 John David Hart
 John David Souther
@@ -32699,7 +32178,6 @@ John DiSanti
 John Diehl
 John Diehl (actor)|John Diehl
 John Dierkes
-John Dilson
 John Dimitri
 John Dixon
 John Dobradenka
@@ -32809,7 +32287,6 @@ John Gallaudet
 John Galt
 John Garber
 John Gardiner
-John Gardner
 John Garfield
 John Garry
 John Garson
@@ -32850,7 +32327,6 @@ John H. H. Ford
 John Hackett
 John Hale
 John Hallam
-John Halliday (actor)|John Halliday
 John Halsey (musician)|John Halsey
 John Hamill
 John Hammil
@@ -32933,7 +32409,6 @@ John Hutton
 John Ide
 John Ignacio
 John Imperioli
-John Ince (actor)|John Ince
 John Indi
 John Indrisano
 John Ingle
@@ -33043,7 +32518,6 @@ John Lutz
 John Lydon
 John Lynch (actor)|John Lynch
 John Lyons (actor)|John Lyons
-John MacFarlane (actor)|John MacFarlane
 John MacKay
 John Machado
 John Macmillan
@@ -33108,7 +32582,6 @@ John Mengatti
 John Merensky
 John Merrifield
 John Merriman
-John Meyers
 John Michael Bolger
 John Michael Graham
 John Michael Higgins
@@ -33121,7 +32594,6 @@ John Miller
 John Millius
 John Mills
 John Mills|Sir John Mills
-John Miltern
 John Minch
 John Mitchell (actor)|John Mitchell
 John Mitchum
@@ -33171,7 +32643,6 @@ John Orchard
 John Ortiz
 John Ortiz|John Augstin Ortiz
 John Osborne
-John Oscar
 John Osebold
 John Ottavino
 John Owens (actor)|John Owens
@@ -33196,14 +32667,12 @@ John Pankow
 John Paragon
 John Pasley
 John Pasquin
-John Patrick
 John Patrick Jordan
 John Patrick Patti
 John Patrick White
 John Patterson
 John Pattison
 John Paul (actor)|John Paul
-John Paul Buccat
 John Paul Howard
 John Paul Reynolds|John Reynolds
 John Paul Ruttan
@@ -33285,7 +32754,6 @@ John Robinson (American actor)|John Robinson
 John Robinson (Canadian actor)|John Robinson
 John Robinson (English actor)|John Robinson
 John Robotham
-John Roche (actor)|John Roche
 John Roderick (musician)|John Roderick
 John Rogers
 John Roland
@@ -33304,7 +32772,6 @@ John Rutter
 John Ryan
 John Rzeznik|Johnny Rzeznik
 John S. Davies (actor)|John S. Davies
-John S. Peters (actor)|John S. Peters
 John S. Ragin
 John Sack (actor)|John Sack
 John Sahag
@@ -33367,7 +32834,6 @@ John Steadman (actor)|John Steadman
 John Steiner
 John Stephenson (actor)|John Stephenson
 John Stephenson (actor)|John Stevenson
-John Steppling
 John Stevenson (director)|John Stevenson
 John Stevenson Lang
 John Stocker (voice actor)|John Stocker
@@ -33408,7 +32874,6 @@ John Trudell
 John Tuell
 John Tui
 John Turturro
-John Uppman
 John Upton
 John Valby
 John Valdetero
@@ -33441,7 +32906,6 @@ John Waters
 John Waters (actor)|John Waters
 John Waters (filmmaker)|John Waters
 John Wayne
-John Weiss
 John Wells (actor)|John Wells
 John Wells (satirist)|John Wells
 John Welsh (actor)|John Welsh
@@ -33469,7 +32933,6 @@ John Woodcock
 John Woodnutt
 John Woodvine
 John Wozniak
-John Wray (actor)|John Wray
 John Wyman
 John X. Heart
 John Yang (journalist)|John Yang
@@ -33718,6 +33181,7 @@ Jon Van Ness
 Jon Voight
 Jon Walmsley
 Jon-Christina Martin Costable
+Jon-Paul Gates
 Jona Xiao
 Jonah Beres
 Jonah Blechman
@@ -34257,11 +33721,9 @@ Joseph Gutierrez
 Joseph Hacker
 Joseph Hann
 Joseph Hardin
-Joseph Hazelton
 Joseph Hieu
 Joseph Humphrey
 Joseph Izzo
-Joseph J. Dowling
 Joseph J. Romm
 Joseph J. Tomaska
 Joseph Jomo Pierre
@@ -34275,7 +33737,6 @@ Joseph Kell
 Joseph Kell (actor)|Joseph Kell
 Joseph Kennedy
 Joseph Kennedy (actor)|Joseph Kennedy
-Joseph Kilgour
 Joseph Killorin
 Joseph King (actor)|Joseph King
 Joseph Kloska
@@ -34321,6 +33782,7 @@ Joseph Patrick Abel
 Joseph Patrick Kelly
 Joseph Paul Kennedy
 Joseph Perrino
+Joseph Pfeiffer
 Joseph Piccuirro
 Joseph Pilato
 Joseph Poliquin
@@ -34345,7 +33807,6 @@ Joseph Salas
 Joseph Salhab
 Joseph Santos
 Joseph Sargent
-Joseph Sauers
 Joseph Schildkraut
 Joseph Scoren
 Joseph Scorsiani
@@ -34365,8 +33826,6 @@ Joseph Vincent Cordaro
 Joseph Vizzi
 Joseph Vogel
 Joseph W. Girard
-Joseph W. Girard|Joseph Girard
-Joseph W. Smiley
 Joseph Walsh
 Joseph Wayne Miller
 Joseph Whipp
@@ -34381,7 +33840,6 @@ Josephine Butler
 Josephine Byrnes
 Josephine Decker
 Josephine Dunn
-Josephine Hill
 Josephine Hutchinson
 Josephine Langford
 Josephine Nicholas
@@ -34519,7 +33977,6 @@ Joshua
 Joshua "Josh" Peace
 Joshua Alba
 Joshua Anderson
-Joshua Ansley...
 Joshua Beckett
 Joshua Bell
 Joshua Bitton
@@ -34574,6 +34031,7 @@ Joshua Ormond
 Joshua Patterson
 Joshua Payne
 Joshua Peace
+Joshua Pledge
 Joshua Praw
 Joshua Preston
 Joshua Radin
@@ -34596,6 +34054,7 @@ Joshua Watkis
 Joshua Wexler, George Johnsen,
 Joshua Zar
 Joshua Zuehlke
+Joshua-James Thomas
 Josiah Gabriel
 Josiane Balasko
 Josie Bissett
@@ -34607,8 +34066,6 @@ Josie Loren
 Josie Maran
 Josie O'Brien
 Josie Olivo
-Josie Sedgwick
-Josie Smith
 Josie Taylor
 Josie Totah
 Josie Totah|J. J. Totah
@@ -34867,7 +34324,6 @@ Judianny Compress
 Judie Aronson
 Judit Hernádi
 Judit Mascó
-Judith Allen
 Judith Anderson
 Judith Arthy
 Judith Baldwin
@@ -34895,7 +34351,6 @@ Judith Ivey
 Judith J.K. Polson
 Judith Jane Vallette
 Judith Kahan
-Judith King
 Judith L. Wood
 Judith Light
 Judith Loomis
@@ -34920,7 +34375,6 @@ Judith Sheindlin|Judge Judy Sheindlin
 Judith Shekoni
 Judith Stott
 Judith Tresize
-Judith Wood
 Judson Laire
 Judson Mills
 Judson Pearce Morgan
@@ -34954,7 +34408,6 @@ Judy Huxtable
 Judy Jean Berns
 Judy Kain
 Judy Kelly
-Judy King (actress)|Judith King
 Judy Knaiz
 Judy Kuhn
 Judy Landers
@@ -34987,7 +34440,6 @@ Julee Cruise
 Julene Renee
 Julene Renee-Preciado
 Jules Bruff
-Jules Cowles
 Jules Dassin
 Jules Feiffer
 Jules Fisher
@@ -35029,7 +34481,6 @@ Julia Foster
 Julia Fox (actress)|Julia Fox
 Julia Garner
 Julia Goldani Telles
-Julia Griffith
 Julia Hart
 Julia Hsu
 Julia Jones
@@ -35066,7 +34517,6 @@ Julia Schultz
 Julia Stemberger
 Julia Stiles
 Julia Stone
-Julia Swayne Gordon
 Julia Sweeney
 Julia Vera
 Julia Volkova
@@ -35323,6 +34773,7 @@ Julio Bonet
 Julio Cedillo
 Julio Cedillo|Julio C. Cedillo
 Julio Cesar Cedillo
+Julio César Chávez Jr.
 Julio Gabay
 Julio Kaufman
 Julio Medina
@@ -35349,6 +34800,7 @@ Julius Ritter
 Julius Tennon
 Julián Giraldo
 Jullian Cullen
+Jumaane Ford
 Juman Malouf
 Jumayn Hunter
 Jumoke Debayo
@@ -35371,7 +34823,6 @@ June Carter Cash
 June Chadwick
 June Chandler
 June Christopher
-June Clyde
 June Dayton
 June Diane Raphael
 June Ellis
@@ -35665,7 +35116,6 @@ Kai Stroink
 Kai Ture'
 Kai Winding
 Kai Wulff
-Kaia Kane
 Kaila Amariah
 Kailey Crawford
 Kaili Vernoff
@@ -35872,7 +35322,6 @@ Karen Stephen
 Karen Strassman
 Karen Stride
 Karen Swerdlow
-Karen Tilly
 Karen Trott
 Karen Trumbo
 Karen Valentine
@@ -36024,6 +35473,7 @@ Kashish Kumari
 Kasi Lemmons
 Kasia Ostlun
 Kasia Smutniak
+Kasia Vassos
 Kasim Sulton
 Kassie DePaiva
 Kat Bhathena
@@ -36059,7 +35509,6 @@ Kate Binchy
 Kate Blackham
 Kate Blumberg
 Kate Bosworth
-Kate Bruce
 Kate Burton (actress)|Kate Burton
 Kate Butler
 Kate Byers
@@ -36148,7 +35597,6 @@ Kate Oxley
 Kate Parr
 Kate Phillips (British actress)|Kate Phillips
 Kate Pierson
-Kate Price (actress)|Kate Price
 Kate Reid
 Kate Robbins
 Kate Rodger
@@ -36290,10 +35738,7 @@ Kathleen Garrett
 Kathleen Gati
 Kathleen Harrison
 Kathleen Hughes
-Kathleen Key
-Kathleen Key|Katherine Key
 Kathleen Kinmont
-Kathleen Kirkham
 Kathleen Kole
 Kathleen Lancaster
 Kathleen Langlois
@@ -36339,7 +35784,6 @@ Kathrine Narducci
 Kathryn Anderson
 Kathryn Arnett
 Kathryn Beaumont
-Kathryn Crawford
 Kathryn Crosby
 Kathryn Crosby|Kathryn Grant
 Kathryn Dimery
@@ -36363,7 +35807,6 @@ Kathryn Kinley
 Kathryn Kirkpatrick
 Kathryn Layng
 Kathryn Leigh Scott
-Kathryn McGuire
 Kathryn Meisle
 Kathryn Meisle (actress)|Kathryn Meisle
 Kathryn Morris
@@ -36459,7 +35902,6 @@ Katie Jarvis
 Katie Johnston
 Katie Keating
 Katie Keene
-Katie Kox
 Katie Kreisler
 Katie Lansdale
 Katie Leigh
@@ -36528,7 +35970,6 @@ Katrine Boorman
 Katrine Greis-Rosenthal
 Katsiaryna Shulha
 Katsumi Tezuka
-Katsuni
 Katsuya Tahara|Rio Tahara
 Katsy Chappell
 Katt Shea
@@ -36563,7 +36004,6 @@ Kay Buckley
 Kay Cole
 Kay Dotrice
 Kay E. Kuter
-Kay Francis
 Kay Frye
 Kay Hawtrey
 Kay Johnson
@@ -36582,6 +36022,7 @@ Kay Thompson
 Kay Turner
 Kay Walsh
 Kaya Camp
+Kaya Kiyohara
 Kaya Sakrak
 Kaya Scodelario
 Kayana White
@@ -36589,7 +36030,6 @@ Kaycee Stroh
 Kayden Kross
 Kayden Magnuson
 Kaye Ballard
-Kaye Edwards
 Kaye Griffiths
 Kaye Wragg
 Kayla Adams
@@ -36629,6 +36069,7 @@ Kazuo Katô
 Kazuo Umezu
 Kazutaka Yoshino
 Kazuya Tanabe
+Kazuyuki Okitsu
 Kazy Tauginas
 Ke Huy Quan
 Ke Lan
@@ -36643,6 +36084,7 @@ Keara Murphy
 Keaton Nigel Cooke
 Keaton Simons
 Keb' Mo'
+Kedar Brown
 Kedibone Tholo Manyaka
 Kedric Wolfe
 Kedrick Brown
@@ -37047,7 +36489,6 @@ Ken Magee
 Ken Marino
 Ken Marschall
 Ken Marshall
-Ken Maynard
 Ken McDougall
 Ken Miller
 Ken Minyard
@@ -37354,6 +36795,7 @@ Kerry Washington
 Kerry van der Griend
 Kersti Bryan
 Kerstin Avemo
+Kerttisak Udomnak
 Kesha
 Kester Moorhouse
 Kestie Morassi
@@ -37707,7 +37149,6 @@ Kim August
 Kim Basinger
 Kim Blair
 Kim Bodnia
-Kim Bruisedhead Fox
 Kim Bubbs
 Kim Campbell
 Kim Cattrall
@@ -37817,6 +37258,7 @@ Kimberley Estes
 Kimberley Kates
 Kimberley Kates|Kimberley LaBelle
 Kimberley Nixon
+Kimberley Walsh
 Kimberley Warnat
 Kimberley Wurster
 Kimberli Lincoln
@@ -37886,7 +37328,6 @@ King Kedar
 King Moody
 King Orba
 King Vidor
-King Zany
 Kinga Philipps
 Kingsley Ben-Adir
 Kingston Vernes
@@ -37984,7 +37425,6 @@ Kitty Carlisle
 Kitty Carlisle|Kitty Carlisle Hart
 Kitty Courbois
 Kitty Jefferson Doepken
-Kitty Kelly
 Kitty Kratzer
 Kitty Kéri
 Kitty Lunn
@@ -38026,7 +37466,6 @@ Knowl Johnson
 Knox Grantham White
 Knut Husebo
 Knut Husebø
-Knute Erickson
 Ko Hsiang-ting
 Kobe Bryant
 Kobe Tai
@@ -38047,6 +37486,7 @@ Kohler McKenzie
 Kohtee Aramboy
 Koichi Ueda
 Koji Ono
+Kok
 Kokane
 Koketso Mojela
 Koko Taylor
@@ -38089,6 +37529,7 @@ Koyuki|Koyuki Kato
 Kozue Akimoto
 Kraig Metzinger
 Krassimir Gospodinov
+Kreadtisuk Udomnak
 Kreesha Turner
 Krešimir Mikić
 Krešimir Zidarić
@@ -38111,7 +37552,6 @@ Kris Murrell
 Kris Park
 Kris Radanov
 Kris Saric
-Kris Slater
 Kris Swanberg
 Kris Wilson
 Kris Wu
@@ -38123,7 +37563,6 @@ Krisheela Gonzales
 Krishna Kumar (actor)|Krishna Kumar
 Krisinda Cain Schafer
 Kriss Dosanjh
-Krissy Lynn
 Krissy Perez
 Krist Novoselic
 Krista Allen
@@ -38229,6 +37668,7 @@ Kristin Wallace
 Kristin Wynn
 Kristina
 Kristina Anapau
+Kristina Ballard
 Kristina Coggins
 Kristina Dorn
 Kristina Emerson
@@ -38245,7 +37685,6 @@ Kristina Malota
 Kristina Matisic
 Kristina Nel
 Kristina Nicoll
-Kristina Rose
 Kristina Simonds
 Kristina Wagner
 Kristina Wayborn
@@ -38499,7 +37938,6 @@ L. M. Kit Carson
 L. Q. Jones
 L. Scott Caldwell
 L. Warren Young
-L.A. Gregor
 L.A. Reid
 L.B. Straten
 L.C. Drane
@@ -38563,7 +38001,6 @@ Lady Gaga|Lady GaGa
 Lady Quesa'Dilla
 Lady Rowlands
 Laetitia Casta
-Lafe McKee
 Lahmard Tate
 Lahoma Van Zandt
 Laia Costa
@@ -38667,7 +38104,6 @@ Lance W. Lanfear
 Lance Wilson-White
 Lancer Dean Shull
 Landall Goolsby
-Landers Stevens
 Lando Buzzanca
 Landon Hansen
 Landon Kunzelman
@@ -38704,7 +38140,6 @@ Lani O'Grady
 Lani Tupu|Lani John Tupu
 Lanie McAuley
 Lanna Saunders
-Lannette New
 Lanny Flaherty
 Lanny Horn
 Lanny Joon
@@ -38870,7 +38305,6 @@ Larry Sellers
 Larry Silvestri
 Larry Sloman|Larry "Ratso" Sloman
 Larry Stallsworth
-Larry Steers
 Larry Stevens
 Larry Storch
 Larry Strauss
@@ -38906,7 +38340,6 @@ Lasha Ramishvili
 Lashalle Jackson
 Lashana Lynch
 Lashawn McIvor
-Laska Winter
 Lasse Almebäck
 Lasse Kolstad
 Lasse Tiilkainen
@@ -39009,7 +38442,6 @@ Laura Kariuki
 Laura Kightlinger
 Laura Kirk
 Laura Klein
-Laura La Plante
 Laura Lane
 Laura Lapuch
 Laura Lee
@@ -39017,6 +38449,7 @@ Laura Lee Norton
 Laura Leighton
 Laura Lizer Sommers
 Laura Love
+Laura Macallister
 Laura Mann
 Laura Marano
 Laura Margolis
@@ -39180,7 +38613,6 @@ Laurence Fishburne|Laurence Fishburne III
 Laurence Fox
 Laurence Guittard
 Laurence Haddon
-Laurence Hanray
 Laurence Hardy
 Laurence Harvey
 Laurence Herder
@@ -39247,7 +38679,6 @@ Lauryn Pithey-Petrie
 Lautaro Murúa
 Lavell Crawford
 Laverne Cox
-Lawford Davidson
 Lawford,
 Lawrason Driscoll
 Lawrence B. Adisa
@@ -39266,7 +38697,6 @@ Lawrence Gallegos
 Lawrence Gilliard Jr.
 Lawrence Gilliard Jr.|Larry Gilliard Jr.
 Lawrence Gilliard, Jr.
-Lawrence Grant
 Lawrence Gray
 Lawrence Grimm
 Lawrence Guittard
@@ -39351,6 +38781,7 @@ Leah Pinsent
 Leah Pipes
 Leah Purcell
 Leah Remini
+Leah Renee
 Leah Shaw
 Leah Vandenberg
 Leam Blackwood
@@ -39362,7 +38793,6 @@ Leanne Bernard
 Leanne Faulkner
 Leanne Joyce
 Leanne Miller
-Leatrice Joy
 Lebrandon Shead
 Lecy Goranson
 Lecy Goranson|Alicia Goranson
@@ -39435,7 +38865,6 @@ Lee Montague
 Lee Montgomery
 Lee Montgomery|Lee H. Montgomery
 Lee Moore
-Lee Moran
 Lee Nak-hoon
 Lee Nashold
 Lee Newsom
@@ -39539,7 +38968,6 @@ Leila Danette
 Leila George
 Leila Johnson
 Leila Kenzle
-Leila McIntyre
 Leila Smith
 Leilah Isaac
 Leilah de Meza
@@ -39607,7 +39035,6 @@ Lena Pousette
 Lena Stolze
 Lena Zee
 Leni Parker
-Leni Stengel
 Leningrad Cowboys
 Lenise Sorén
 Lenka Novak
@@ -39701,7 +39128,6 @@ Leon Cheatom
 Leon Coffee
 Leon Durham|Leon "Bull" Durham
 Leon Edwards
-Leon Errol
 Leon Finnan
 Leon Ford
 Leon Frederick
@@ -39813,8 +39239,6 @@ Leroy Johnson
 Leroy McClain
 Leroy Peltier
 Leroy Petry
-Les Bates
-Les Bluebell Girls
 Les Brown (bandleader)|Les Brown
 Les Chantery
 Les Dennis
@@ -39857,7 +39281,6 @@ Leslie Bevis
 Leslie Bibb
 Leslie Brander
 Leslie Brett Daniels
-Leslie Carlson
 Leslie Caron
 Leslie Carrara-Rudolph
 Leslie Castay
@@ -39886,7 +39309,6 @@ Leslie Hope
 Leslie Jones (comedian)|Leslie Jones
 Leslie Jordan
 Leslie King
-Leslie King (actor)|Leslie King
 Leslie L. Rohland
 Leslie Lyles
 Leslie Mah
@@ -39925,7 +39347,6 @@ Lester Matthews
 Lester Rawlins
 Lester Speight
 Lester Speight|Lester "Rasta" Speight
-Lester Vail
 Lester Wilson
 Leta Bonynge
 Leticia Castillo
@@ -39957,10 +39378,8 @@ Lew Brown
 Lew Brown (actor)|Lew Brown
 Lew Cody
 Lew DeWitt
-Lew Harvey
 Lew Horn
 Lew Knopp
-Lew Meehan
 Lew Palter
 Lew Schneider
 Lew Temple
@@ -40150,7 +39569,6 @@ Lil' Maxso
 Lila Dupree
 Lila Glantzman-Leib
 Lila Kedrova
-Lila Leslie
 Lila Teigh
 Lila Yee
 Lili Bordán
@@ -40167,7 +39585,6 @@ Lilia Skala
 Lilian Miniati
 Liliana Komorowska
 Liliana Mumy
-Liliane Bel
 Liliane Montevecchi
 Lill Roughley
 Lilla Brignone
@@ -40180,7 +39597,6 @@ Lilli Carati
 Lilli Lembo
 Lilli Palmer
 Lillian Adams
-Lillian Avery
 Lillian Bronson
 Lillian Carlson
 Lillian Fontaine
@@ -40189,10 +39605,8 @@ Lillian Gish
 Lillian Hellman
 Lillian Hurst
 Lillian Lehman
-Lillian Leighton
 Lillian Lux
 Lillian Randolph
-Lillian Rich
 Lillias White
 Lillie Bea Gifford
 Lillie Richardson
@@ -40244,7 +39658,6 @@ Lily Travers
 Lily Von Woodenshoe
 Lily-Rose Depp
 Lilyan Chauvin
-Lilyan Tashman
 Lim Kay Siu
 Lim Kay Tong
 Lim Kay Tong|Lim Kay-tong
@@ -40271,7 +39684,6 @@ Lincoln Grow
 Lincoln Kilpatrick
 Lincoln Lewis
 Lincoln Melcher
-Lincoln Stedman
 Lincoln Tate
 Linda Arroz
 Linda Atkinson
@@ -40468,11 +39880,8 @@ Lio Tipton
 Lionel
 Lionel Abelanski
 Lionel Archuleta
-Lionel Barrymore
-Lionel Belmore
 Lionel Blair
 Lionel Braham
-Lionel Comport
 Lionel Jeffries
 Lionel Mark Smith
 Lionel Matthews
@@ -40796,9 +40205,8 @@ Lloyd Bridges
 Lloyd Corrigan
 Lloyd Floyd
 Lloyd Gough
-Lloyd Hamilton
 Lloyd Haynes
-Lloyd Hughes (actor)|Lloyd Hughes
+Lloyd Howells
 Lloyd Kaufman
 Lloyd Kino
 Lloyd Lamble
@@ -40877,7 +40285,6 @@ Lois Red Elk.....Effie Twosalt
 Lois Robbins
 Lois Smith
 Lois Wilde
-Lois Wilson (actress)|Lois Wilson
 Lois Young
 Lois de Banzie
 Lola Albright
@@ -40899,7 +40306,6 @@ Lola Petticrew
 Lola Reid
 Lola Schnabel
 Lola Tash
-Lola Walker
 Lola Wayne Villa
 Lolita Lorre
 Lolli Sorenson
@@ -40911,7 +40317,6 @@ Loló Navarro
 Lombardo Boyar
 Lon Chaney (Jr.)|Lon Chaney
 Lon Chaney Jr.
-Lona Andre
 Lona Williams
 Londale Theus
 Londale Theus	as Agent Melville
@@ -40925,7 +40330,6 @@ Longmont Potion Castle
 Loni Anderson
 Loni Love
 Loni Peristere
-Lonn Friend
 Lonnie Brooks
 Lonnie Chavis
 Lonnie Farmer
@@ -40989,7 +40393,6 @@ Loretta Devine
 Loretta Fury
 Loretta Leversee
 Loretta Long
-Loretta Sayers
 Loretta Swit
 Loretta Tupper
 Loretta Walsh
@@ -41016,7 +40419,6 @@ Lori Lynn Dickerson
 Lori March
 Lori Martin
 Lori Mixson
-Lori Nelson
 Lori O'Byrne
 Lori Petty
 Lori Rachal
@@ -41030,7 +40432,6 @@ Lorie Griffin
 Lorin Eric Salm
 Lorin Heath
 Lorin Latarro
-Loring Pickering
 Lorinne Vozoff
 Loris Gizzi
 Loris Loddi
@@ -41038,6 +40439,7 @@ Lorissa McComas
 Lorna Cook
 Lorna Dallas
 Lorna Farrar
+Lorna Gray
 Lorna Luft
 Lorna Millican
 Lorna Patterson
@@ -41089,7 +40491,6 @@ Lotte Palfi-Andor
 Lotte Tobisch
 Lotte Verbeek
 Lotus Blossom
-Lotus Thompson
 Lou Albano
 Lou Ann Wright
 Lou Antonio
@@ -41141,7 +40542,6 @@ Lou Richards (actor)|Lou Richards
 Lou Romano
 Lou Taylor Pucci
 Lou Taylor Pucci|Lou Pucci
-Lou Tellegen
 Lou Torres
 Lou Valenzi
 Lou Veloso
@@ -41169,7 +40569,6 @@ Louis Armstrong
 Louis Ashbourne Serkis
 Louis Bessières
 Louis Black
-Louis Bugette
 Louis C. K.
 Louis C. Pessolano
 Louis C.K.
@@ -41236,7 +40635,6 @@ Louis Tucci
 Louis Turenne
 Louis Vanaria
 Louis Walsh
-Louis Wolheim
 Louis Zito
 Louis Zorich
 Louis-Do de Lencquesaing
@@ -41252,14 +40650,12 @@ Louise Beavers
 Louise Bennett
 Louise Bourgoin
 Louise Breslin
-Louise Brooks
 Louise Chamis
 Louise Chevalier (film actress)|Louise Chevalier
 Louise Cochrane
 Louise De Cormier
 Louise Dresser
 Louise Dunn
-Louise Fazenda
 Louise Fletcher
 Louise Foley
 Louise Gold
@@ -41406,19 +40802,15 @@ Lucien Guignard
 Lucien Laviscount
 Lucien Littlefield
 Lucien Pan
-Lucien Raimbourg
 Lucien Spelman
 Lucienne Legrand
 Lucija Šerbedžija
-Lucile Browne
-Lucile Gleason|Lucille Webster Gleason
 Lucille Ball
 Lucille Benson
 Lucille Bliss
 Lucille Bremer
 Lucille Meredith
 Lucille Soong
-Lucille Thorndike
 Lucinda Armstrong Hall
 Lucinda Dickey
 Lucinda Dooling
@@ -41559,7 +40951,6 @@ Luis Induni
 Luis Lantigua
 Luis Lorenzo
 Luis Manuel Aguilo
-Luis Mariano
 Luis Molina
 Luis Molteni
 Luis Moncada
@@ -41614,7 +41005,6 @@ Luke Carroll
 Luke Christopher
 Luke Cloud
 Luke Coffee
-Luke Cosgrove
 Luke David Blumm
 Luke Denis Nolan
 Luke Doolan
@@ -41788,6 +41178,7 @@ Lyne Renée
 Lynette Bernay
 Lynette Emond
 Lynette Walden
+Lynn (voice actress)|Lynn
 Lynn Ahrens
 Lynn Andrews
 Lynn Ann Leveridge
@@ -41901,17 +41292,13 @@ MGK|Machine Gun Kelly
 Maalerer Bergier
 Mabel Adams
 Mabel Albertson
-Mabel Julienne Scott
 Mabel King
-Mabel Normand
 Mabel Ntshinga
 Mabel Taliaferro
 Mabel Todd (actress)|Mabel Todd
-Mabel Van Buren
 Mable John
 Mablean Ephriam
 Mac Andrews
-Mac Barnes
 Mac Bennett
 Mac Brandt
 Mac Chandler
@@ -41944,7 +41331,6 @@ Machine Gun Kelly (rapper)|Machine Gun Kelly
 Macie Juiles
 Maciej Rayzacher|Jerzy Rayzacher
 Mack Dryden
-Mack Swain
 Mackenzie Aladjem
 Mackenzie Astin
 Mackenzie Brooke Smith
@@ -42014,17 +41400,13 @@ Madeline McNamara
 Madeline O'Brien
 Madeline Smith
 Madeline Taylor Holmes
-Madeline Vintin
 Madeline Weinstein
 Madeline Wickins
 Madeline Zima
 Madelyn Cline
 Madelyn Coleman
 Madelyn Deutch
-Madelyn Marie
-Madge Bellamy
 Madge Blake
-Madge Hunt
 Madge Kennedy
 Madge Ryan
 Madge Sinclair
@@ -42067,7 +41449,6 @@ Mads Sjøgård Pettersen
 Maduka Steady
 Mady Kaplan
 Madylin Sweeten
-Mae Busch
 Mae Clarke
 Mae Mae Renfrow
 Mae Marsh
@@ -42300,6 +41681,7 @@ Mamie Gummer
 Mamie Meek
 Mamie Van Doren
 Mamoudou Athie
+Man
 Man Ching-fung
 Man Yeung
 Man Yip
@@ -42372,7 +41754,6 @@ Manuel Aranguiz
 Manuel Arbó
 Manuel E. Santiago
 Manuel Fajardo Jr.
-Manuel Ferrara
 Manuel Fierro
 Manuel Galiana
 Manuel Garcia-Rulfo
@@ -42501,7 +41882,6 @@ Marc de Jonge
 Marc-André Grondin
 Marcel Bridges
 Marcel Dalio
-Marcel Delaître
 Marcel Iures
 Marcel Iureş
 Marcel Iureș
@@ -42514,7 +41894,6 @@ Marcela Cardona
 Marcela Codrea
 Marcela Mar
 Marcela Walerstein
-Marceline Day
 Marceline Hugot
 Marcelino Sánchez
 Marcell Rosenblatt
@@ -42552,7 +41931,6 @@ Marcia Darroch
 Marcia DeRousse
 Marcia Diamond
 Marcia Frederick
-Marcia Harris
 Marcia Haufrecht
 Marcia Hewitt
 Marcia Holley
@@ -42577,7 +41955,6 @@ Marco Andreacchio
 Marco Antonio Ramirez
 Marco Antonio Treviño
 Marco Bacuzzi
-Marco Banderas
 Marco Barricelli
 Marco Bonini
 Marco Bustos
@@ -42616,7 +41993,6 @@ Marcos Woinski
 Marcos Woinsky
 Marcuis Harris
 Marcus Antturi
-Marcus Barron
 Marcus Brigstocke
 Marcus Brown
 Marcus Carl Franklin
@@ -42684,7 +42060,6 @@ Margaret Beth Friesen
 Margaret Blye
 Margaret Bowman
 Margaret Boyd
-Margaret Campbell
 Margaret Carlson
 Margaret Cho
 Margaret Colin
@@ -42694,14 +42069,12 @@ Margaret Devine
 Margaret Eginton
 Margaret Fairchild
 Margaret Fegan
-Margaret Gray
 Margaret Hall
 Margaret Hamilton (actress)|Margaret Hamilton
 Margaret Hoard
 Margaret Howell
 Margaret Johnson
 Margaret Johnston
-Margaret Joslin
 Margaret Kelly
 Margaret Klenck
 Margaret Ladd
@@ -42709,7 +42082,6 @@ Margaret Langrick
 Margaret Lee (British actress)|Margaret Lee
 Margaret Leighton
 Margaret Lindsay
-Margaret Livingston
 Margaret Markov
 Margaret Mary Briggs
 Margaret McWade
@@ -42731,7 +42103,6 @@ Margaret Rutherford
 Margaret Ryan
 Margaret Salinger
 Margaret Scott
-Margaret Seddon
 Margaret Seldeen
 Margaret Smith (comedian)|Margaret Smith
 Margaret Stassa
@@ -42800,7 +42171,6 @@ Margot Rubin
 Margot Steinberg
 Margot Stevenson
 Margot White
-Marguerite De La Motte
 Marguerite MacIntyre
 Marguerite McNeil
 Marguerite Moreau
@@ -42923,6 +42293,7 @@ Mariah O'Brien
 Marialisa Costanzo
 Mariam Parris
 Mariam Peter
+Mariam Tokarsky
 Marian Carr
 Marian Diamond (actress)|Marian Diamond
 Marian Gibson
@@ -42931,7 +42302,6 @@ Marian Hailey-Moss|Marian Hailey
 Marian Mason
 Marian McCargo
 Marian Mercer
-Marian Nixon
 Marian Quinn
 Marian Wald
 Mariana Alvarez
@@ -43014,19 +42384,14 @@ Marie Masters
 Marie Matiko
 Marie Meyer
 Marie Michelle Bazile
-Marie Mosquini
 Marie Mullen
 Marie Ney
 Marie Osmond
 Marie Pillet
-Marie Prevost
 Marie Privat
 Marie Richardson
 Marie Rivière
-Marie Schaefer
-Marie Shelton
 Marie Stafford
-Marie Stillin
 Marie Todd
 Marie Trintignant
 Marie V. Cruz
@@ -43073,6 +42438,7 @@ Marilo Nunez
 Marilyn Boyle
 Marilyn Burns
 Marilyn Chris
+Marilyn Clarke
 Marilyn Cohen
 Marilyn Coleman
 Marilyn Cooper
@@ -43161,7 +42527,6 @@ Mario Batali
 Mario Bellini
 Mario Brega
 Mario Cantone
-Mario Carillo
 Mario Carotenuto
 Mario Casas
 Mario Cassem
@@ -43224,7 +42589,6 @@ Mario de la Rosa
 Mario Šelih
 Marion Bailey
 Marion Brash
-Marion Byron
 Marion Charles
 Marion Cotillard
 Marion Davies
@@ -43235,16 +42599,13 @@ Marion Edward
 Marion Edwards
 Marion Guyot
 Marion Kopf
-Marion Lord
 Marion Lorne
 Marion McCorry
-Marion McDonald
 Marion Moseley
 Marion Ramsey
 Marion Ross
 Marion Ross<br/ >Peter Isacksen
 Marion Russell
-Marion Shilling
 Marion Van Cuyck
 Maris Dimayuga
 Maris Valainis
@@ -43317,7 +42678,6 @@ Marjolaine DeGraeve
 Marjorie Bennett
 Marjorie Bransfield
 Marjorie Clifton
-Marjorie Daw (actress)|Marjorie Daw
 Marjorie Dayne
 Marjorie Durant Dye
 Marjorie Eaton
@@ -43326,7 +42686,6 @@ Marjorie Lord
 Marjorie Main
 Marjorie Nelson
 Marjorie O. Taylor
-Marjorie Reynolds
 Marjorie Rhodes
 Marjory Graue
 Mark
@@ -43421,7 +42780,6 @@ Mark Daniel Cade
 Mark Daniels
 Mark Davenport
 Mark David Kennerly
-Mark Davis (actor)|Mark Davis
 Mark De Alessandro
 Mark DeCarlo
 Mark DeMichele
@@ -43472,7 +42830,6 @@ Mark Hadlow
 Mark Haining
 Mark Hall
 Mark Hamill
-Mark Hamilton
 Mark Hammer
 Mark Hannibal
 Mark Hanson
@@ -43635,6 +42992,7 @@ Mark Stanley
 Mark Stefanich
 Mark Steger
 Mark Steinberg
+Mark Steines
 Mark Stevens (actor)|Mark Stevens
 Mark Stewart
 Mark Strand
@@ -43840,7 +43198,6 @@ Martha Kelly
 Martha MacIsaac
 Martha Mackintosh
 Martha Maloney
-Martha Mattox
 Martha McBriar
 Martha Meneses
 Martha Munizzi
@@ -43852,14 +43209,12 @@ Martha Quinn|Martha C. Quinn
 Martha Raye
 Martha Schlamme
 Martha Scott
-Martha Sleeper
 Martha Stewart
 Martha Swatek
 Martha Veléz
 Martha Wallner
 Martha West
 Marthe Keller
-Marthe Mercadier
 Marthe Mercure
 Marthe Villalonga
 Marti
@@ -44097,13 +43452,11 @@ Mary Black
 Mary Boland
 Mary Bond Davis
 Mary Boylan
-Mary Brian
 Mary Buffett
 Mary Buss
 Mary Cadorette
 Mary Campbell
 Mary Carillo
-Mary Carr
 Mary Carver
 Mary Chan
 Mary Charlotte Wilcox
@@ -44122,7 +43475,6 @@ Mary Dague
 Mary Davenport
 Mary Dimino
 Mary Dixie Carter
-Mary Doran
 Mary Doyle
 Mary Duddy
 Mary E. Fry
@@ -44140,7 +43492,6 @@ Mary Elizabeth Winstead
 Mary Ella Ross
 Mary Ellen Ray
 Mary Ellen Trainor
-Mary Emery (actress)|Mary Emery
 Mary Ethel Gregory
 Mary Fallick
 Mary Fickett
@@ -44167,7 +43518,6 @@ Mary Hawkins
 Mary Hayley Bell
 Mary Healey
 Mary Healy (entertainer)|Mary Healy
-Mary Henderson
 Mary Higgins
 Mary Hinton (actress)|Mary Hinton
 Mary Holland
@@ -44210,11 +43560,9 @@ Mary Lord
 Mary Lou Piccard
 Mary Lou Retton
 Mary Lou Rosato
-Mary Louise Miller
 Mary Louise Wilson
 Mary Lynn Hetsko
 Mary Lynn Rajskub
-Mary MacLaren
 Mary MacLeod (actress)|Mary MacLeod
 Mary Mackey
 Mary Maddox
@@ -44223,14 +43571,12 @@ Mary Mara
 Mary Margaret O'Hara
 Mary Marquet
 Mary Mary
-Mary McAllister
 Mary McCartney
 Mary McCarty (actress)|Mary McCarty
 Mary McCormack
 Mary McCrossan
 Mary McCusker
 Mary McDonnell
-Mary McLain
 Mary McWilliams
 Mary Meade
 Mary Mercier
@@ -44372,7 +43718,6 @@ Mason Lee
 Mason Mahay
 Mason McNulty
 Mason McWilliams
-Mason Moore
 Mason Pettit
 Mason Vale Cotton
 Mason Webb
@@ -44415,6 +43760,7 @@ Mathew Baynton
 Mathew Dunlop
 Mathew Fitzgerald
 Mathew Greer
+Mathew Horne
 Mathew Reed
 Mathew St. Patrick
 Mathew Valencia
@@ -44429,7 +43775,6 @@ Mathieu Demy
 Mathieu Kassovitz
 Mathieu Kermoyan
 Mathilda May
-Mathilde Brundage
 Mathilde Merlot
 Mathilde Ollivier
 Mathilde Seigner
@@ -44567,7 +43912,6 @@ Matt Milne
 Matt Momchilov
 Matt Monro
 Matt Moore
-Matt Moore (actor)|Matt Moore
 Matt Mulhern
 Matt Mullins
 Matt Murphy (Canadian musician)|Matt Murphy
@@ -44658,7 +44002,6 @@ Matthew Barry
 Matthew Beard (British actor)|Matthew Beard
 Matthew Beard (English actor)|Matthew Beard
 Matthew Bentley
-Matthew Betz
 Matthew Blumm
 Matthew Bolton
 Matthew Bonacci
@@ -44754,7 +44097,6 @@ Matthew Marsden
 Matthew Marsh
 Matthew Marsh (actor)|Matthew Marsh
 Matthew Martini
-Matthew McBride
 Matthew McConaughey
 Matthew McCurley
 Matthew McGrory
@@ -44810,7 +44152,6 @@ Matthew St. Patrick
 Matthew Steer
 Matthew Sterling Nye
 Matthew Stinson
-Matthew Stirling
 Matthew Stone (actor)|Matthew Stone
 Matthew Storton
 Matthew Styles
@@ -44851,7 +44192,6 @@ Matty Cardarople
 Matty Ferraro
 Matty Finochio
 Matty Jordan
-Matty Kemp
 Matty Ryan
 Matyelok Gibbs
 Matyelok Gibbs,
@@ -44861,7 +44201,6 @@ Maud Winchester
 Maude Apatow
 Maude Eburne
 Maude Simmons
-Maude Turner Gordon
 Maudie Prickett
 Maulidi Mfaume
 Maulik Pancholy
@@ -44908,7 +44247,6 @@ Maurice Chasse
 Maurice Chevalier
 Maurice Compte
 Maurice Copeland
-Maurice Costello
 Maurice Denham
 Maurice Escargot
 Maurice Evans (actor)|Maurice Evans
@@ -44982,7 +44320,6 @@ Max Bacon (actor)|Max Bacon
 Max Baer (boxer)|Max Baer
 Max Baer Jr.
 Max Baker
-Max Barwyn
 Max Beesley
 Max Berliner
 Max Born
@@ -45015,7 +44352,6 @@ Max Gordon Moore
 Max Greenfield
 Max Grodénchik
 Max Gulak
-Max Hamburger
 Max Hardcore
 Max Haufler
 Max Hoffman
@@ -45097,7 +44433,6 @@ Maxine Audley
 Maxine Bahns
 Maxine Casson
 Maxine Prescott
-Maxine Sandra
 Maxine Stowe
 Maxine Stuart
 Maxine Sullivan
@@ -45117,7 +44452,6 @@ Maxx Payne
 Maxx Stratton
 May Au
 May Britt
-May Cloy
 May Keller
 May Lloyd
 May Robson
@@ -45138,11 +44472,9 @@ Maya Ritter
 Maya Rudolph
 Maya Stange
 Maya Stojan
-Maybelle Beringer
 Mayf Nutter
 Mayim Bialik
 Mayko Nguyen
-Mayme Kelso
 Maynard Eziashi
 Maynard James Keenan
 Maynard Lapid
@@ -45278,10 +44610,10 @@ Megan Ketch
 Megan Kuhlmann
 Megan L. Wrinn
 Megan Leitch
+Megan Little
 Megan Liu
 Megan Lusk
 Megan M. Duffy
-Megan McChesney
 Megan McCormick
 Megan McCreanor Extra
 Megan McFarland
@@ -45617,7 +44949,6 @@ Meredith Monroe
 Meredith O'Connor
 Meredith Ostrom
 Meredith Patterson
-Meredith Rimmer
 Meredith Salenger
 Meredith Scott Lynn
 Meredith Thomas
@@ -45646,7 +44977,6 @@ Merrell Twins|Vanessa Merrell
 Merrell Twins|Veronica Merrell
 Merrie Lynn Ross
 Merrill Connally
-Merrill McCormick
 Merrill Rodin
 Merrilyn Gann
 Merrin Dungey
@@ -45675,6 +45005,7 @@ Meta Golding
 Metallica
 Method Man
 Method Man|Cliff "Method Man" Smith
+Metin
 Metka Franko
 Meto Jovanovski (actor)|Meto Jovanovski
 Mets Suber
@@ -45683,6 +45014,7 @@ Metta World Peace
 Mette Towley
 Mews Small
 Mews Small|Marya Small
+Mexican Worker
 Meyne Wyatt
 Mhairi Steenbock
 Mhamed Arezki
@@ -45702,7 +45034,6 @@ Mia Isaac
 Mia Kaplan
 Mia Korf
 Mia Kucan
-Mia Li
 Mia Maestro
 Mia McKenna-Bruce
 Mia Mckenna-Bruce
@@ -46043,7 +45374,6 @@ Michael Eric Reid
 Michael Esparza
 Michael Esper
 Michael Esposito
-Michael Facciolo
 Michael Faella
 Michael Fairman
 Michael Faustino
@@ -46052,6 +45382,7 @@ Michael Feingold
 Michael Feinstein
 Michael Fennell
 Michael Fenton Stevens
+Michael Ferguson
 Michael Fernandes
 Michael Fetters
 Michael Finley
@@ -46369,6 +45700,7 @@ Michael McKiddy
 Michael McLachlan
 Michael McManus (American actor)|Michael McManus
 Michael McMillian
+Michael McMurtry
 Michael McNally
 Michael McNamara
 Michael McNeile
@@ -46714,13 +46046,11 @@ Michael Van Wagenen
 Michael Van Wijk
 Michael Vander-Meiren
 Michael Vartan
-Michael Vavitch
 Michael Veitch
 Michael Vieau
 Michael Villani
 Michael Villar
 Michael Vinokur
-Michael Visaroff
 Michael Vlastas
 Michael W. McClure
 Michael W. Mitchell
@@ -46887,7 +46217,6 @@ Michele Tobin
 Michele Winstanley
 Michelet Cassis
 Michelet Ulysse
-Micheline Gary
 Micheline Lanctôt
 Micheline Presle
 Michelle
@@ -47097,7 +46426,6 @@ Miguel Caballero
 Miguel Couturier
 Miguel Fernandes
 Miguel Ferrer
-Miguel Gamy
 Miguel Gomez (actor)|Miguel Gomez
 Miguel Jarquin-Moreland
 Miguel Ligero (Argentine actor)|Miguel Ligero
@@ -47242,7 +46570,6 @@ Mike Ian Lambert
 Mike Inez
 Mike Ingham
 Mike Johns
-Mike Johnson
 Mike Johnson (actor)|Mike Johnson
 Mike Johnson (bassist)|Mike Johnson
 Mike Jolly
@@ -47331,7 +46658,6 @@ Mike Rad
 Mike Realba
 Mike Regan
 Mike Reid (actor)|Mike Reid
-Mike Reiss
 Mike Reyes
 Mike Reynolds (actor)|Mike Reynolds
 Mike Reynolds (actor)|Ray Michaels
@@ -47426,7 +46752,6 @@ Milburn Stone
 Mildred Brion
 Mildred Dunnock
 Mildred Gover
-Mildred Harris
 Mildred Joanne Smith
 Mildred Lombardi
 Mildred Natwick
@@ -47471,7 +46796,6 @@ Milford Watson
 Milhem Cortaz
 Mili Avital
 Milica Govich
-Milla Davenport
 Milla Jovovich
 Millard Mitchell
 Miller
@@ -47505,7 +46829,6 @@ Milo Sperber
 Milo Stokes
 Milo Ventimiglia
 Milo Yiannopoulos
-Milos
 Milos Forman
 Milos Kirek
 Milos Milicevic
@@ -47528,7 +46851,6 @@ Milton James|Milt Jamin
 Milton Parsons
 Milton Reid
 Milton Selzer
-Milton Sills
 Miltos Yerolemou
 Milutin Mićović
 Mimi Cecchini
@@ -47552,6 +46874,7 @@ Mimi Rogers
 Mimi Rose
 Mimi Sarkisian
 Mimi Weddell
+Mimi la Vere
 Mimmo Poli
 Mimmo Wåhlander
 Mimsy Farmer
@@ -47559,7 +46882,6 @@ Min Luong
 Min Tanaka
 Mina Badie
 Mina Bern
-Mina E. Mina
 Mina Kolb
 Mina Olivera
 Mina Sundwall
@@ -47594,9 +46916,7 @@ Ministry (band)|Ministry
 Minja Filipovic
 Mink Stole
 Minka Kelly
-Minna Browne
 Minna Gombell
-Minnie Eckhardt
 Minnie Gentry
 Minnie Pearl
 Mino Bellei
@@ -47749,7 +47069,6 @@ Mitchell Kosterman
 Mitchell Kummen
 Mitchell LaPlante
 Mitchell Laurance
-Mitchell Lewis
 Mitchell Lichtenstein
 Mitchell Marchand
 Mitchell McMahon
@@ -47767,7 +47086,6 @@ Mitsuko Sawamura
 Mittie Lawrence
 Mittie Smith
 Mitzi Gaynor
-Mitzi Green
 Mitzi Hoag
 Mitzi Kapture
 Mitzi Martin
@@ -47860,7 +47178,6 @@ Molly Jane McCarthy
 Molly Jepson
 Molly Johnson
 Molly Livingston
-Molly Malone (actress)|Molly Malone
 Molly Matthiesen
 Molly McCann
 Molly McCart
@@ -47980,27 +47297,22 @@ Monique Mojica
 Monique Mélinand
 Monique Osier	as Top Hat
 Monique Parent
-Monique Rolland
 Monique Salcido
 Monique St. Pierre
 Monique Viator
 Monna Sabouri
-Monroe Owsley
 Monroe Reimers
 Montae Russell
 Montagu Love
 Montana Dillenberg
 Montana Jordan
-Monte Blue
-Monte Collins
 Monte Gagne
 Monte Greene
+Monte Hale
 Monte Hellman
 Monte Landis
 Monte Markham
-Monte Montague
 Monte Perlin
-Monte Vandergrift
 Montel Vontavious Porter
 Montel Williams
 Montell Jordan
@@ -48073,7 +47385,6 @@ Morgan Spurlock
 Morgan Stevens
 Morgan Turner
 Morgan Upton
-Morgan Wallace
 Morgan Watkins
 Morgan Waulters
 Morgan Woodward
@@ -48156,16 +47467,13 @@ Mr. Krinkle
 Mr. Lawrence
 Mr. Marcus
 Mr. Os
-Mr. Pete
 Mr. Serv-On
 Mr. Sloan
 Mr. Smee,
 Mr. T
 Mr. Wink A
 Mr. Wong, the
-Mrs. Gallagher
-Mrs. Halliburton
-Mrs. Patrick Campbell
+Mrs Rowbottom
 Mrs. Sloan
 Mrunal Thakur
 Ms Pipio
@@ -48189,16 +47497,14 @@ Mungo McKay
 Muni Zano
 Munir R. Kreidie
 Munro Chambers
+Munroe Wade
 Murali Gopy
-Murdock MacQuarrie
-Murdock Mcquarrie
 Muriel Bach
 Muriel George
 Muriel Gould
 Muriel Hutchison
 Muriel Jacobs
 Muriel Maida
-Muriel McCormac
 Muriel Moore
 Muriel Pavlow
 Murielle Telio
@@ -48274,7 +47580,6 @@ Myndy Crist
 Myq Kaplan
 Myra Chason
 Myra Frances
-Myra Hampton
 Myra J.
 Myra Lucretia Taylor
 Myra McFanyen
@@ -48324,6 +47629,7 @@ N. Jeremi Duru
 N. T. Rama Rao Jr.
 N.O.R.E.
 N/A
+Na Khiaw
 Na Tae-joo
 Naama Kates
 Naazim Richardson
@@ -48398,6 +47704,7 @@ Nana Bryant
 Nana Gbewonyo
 Nana Ghana
 Nana Mensah
+Nana Seino
 Nana Visitor
 Nancie Kawata
 Nancie Phillips
@@ -48416,7 +47723,6 @@ Nancy Brayman
 Nancy Burne
 Nancy Cameron
 Nancy Carell
-Nancy Carroll
 Nancy Cartwright
 Nancy Cartwright (actress)|Nancy Cartwright
 Nancy Casemore
@@ -48496,7 +47802,6 @@ Nancy Vawter
 Nancy Villone
 Nancy Wagner
 Nancy Walker
-Nancy Welford
 Nancy Wilson (rock musician)|Nancy Wilson
 Nancy Wilson (singer)|Nancy Wilson
 Nancy Wolfe
@@ -48654,7 +47959,6 @@ Natalie Mendoza
 Natalie Miller
 Natalie Morales (actress)|Natalie Morales
 Natalie Morales (journalist)|Natalie Morales
-Natalie Norton
 Natalie Ogle
 Natalie Paul
 Natalie Pierre
@@ -48765,6 +48069,7 @@ Nathalie Roy (actress)|Nathalie Roy
 Nathalie Schmidt
 Nathan
 Nathan Baesel
+Nathan Barnatt
 Nathan Bexton
 Nathan Blair
 Nathan Collins
@@ -48788,6 +48093,7 @@ Nathan Jones (wrestler)|Nathan Jones
 Nathan Jung
 Nathan Kotzur
 Nathan Kress
+Nathan LaVelle
 Nathan Le Grand
 Nathan Lee
 Nathan Lee Chasing His Horse
@@ -48888,12 +48194,10 @@ Ned Dennehy
 Ned Dowd
 Ned Eisenberg
 Ned Glass
-Ned Hay
 Ned Irving
 Ned Romero
 Ned Schmidtke
 Ned Sherrin
-Ned Sparks
 Ned Van Zandt
 Ned Van Zandt, Dennis Rucker, Jonathan Banks, James Richardson
 Ned Vizzini
@@ -48911,7 +48215,6 @@ Nedrick Young
 Nee Brothers#Adam Nee|Adam Nee
 Neel Sethi
 Neela Dey
-Neely Edwards
 Neena Gupta
 Neeraj Kabi
 Neeson
@@ -48992,6 +48295,7 @@ Nellie Bellflower
 Nellie Ferguson
 Nellie McKay
 Nellie Phillips
+Nellie Pledge
 Nellie Zastawna
 Nello Mascia
 Nello Meniconi
@@ -49018,7 +48322,6 @@ Nelson Leigh
 Nelson Leis
 Nelson Lyon
 Nelson Mashita
-Nelson McDowell
 Nelson Vargas
 Nelson Vasquez
 Nelson Welch
@@ -49042,6 +48345,7 @@ Nestor Absera
 Nestor Carbonell
 Nestor Serrano
 Neta Riskin
+Nethra Tilakumara
 Nettie Lane
 Nev Scharrel
 Nev Schulman
@@ -49068,14 +48372,12 @@ Newsboys
 Newt Arnold
 Newt Arnold|Newton D. Arnold
 Newt Gingrich
-Newton House
 Neyle Morrow
 Ng Chin Han|Chin Han
 Ngbai Aminita
 Nguyen Duong Don
 Ngô Thanh Vân|Veronica Ngo
 Ngô Thanh Vân|Vân Veronica Ngô
-Nhan
 Nhlanhilo Milo
 Ni Ni
 NiCole Robinson
@@ -49277,7 +48579,6 @@ Nick Corirossi
 Nick Cornish
 Nick Cravat
 Nick Daly
-Nick Dandau
 Nick Darmstaedter
 Nick Davidson
 Nick Denning
@@ -49325,7 +48626,6 @@ Nick Loeb
 Nick Loren
 Nick Lucas
 Nick Mancuso
-Nick Manning
 Nick Mason
 Nick McKinless
 Nick Mennell
@@ -49438,7 +48738,6 @@ Nicola Cavendish
 Nicola Correia-Damude
 Nicola Di Pinto
 Nicola Duffett
-Nicola Lipman
 Nicola Pagett
 Nicola Pannelli
 Nicola Peltz
@@ -49525,7 +48824,6 @@ Nicole Garcia
 Nicole Heesters
 Nicole Jacobs
 Nicole Jaffe
-Nicole Jonesco
 Nicole Kidman
 Nicole Kolman
 Nicole LaLiberte
@@ -49536,7 +48834,6 @@ Nicole Magny
 Nicole Malgarini
 Nicole Mancera
 Nicole Marie Lenz
-Nicole Maurey
 Nicole Moore
 Nicole Muirbrook|Nicole Muirbrook Wagner
 Nicole Muñoz
@@ -49619,7 +48916,6 @@ Nigel O'Neill
 Nigel Olsson
 Nigel Planer
 Nigel Plaskitt
-Nigel Shawn Williams
 Nigel Slater
 Nigel Stock (actor)|Nigel Stock
 Nigel Terry
@@ -49641,7 +48937,6 @@ Nik Goldman
 Nik Hagler
 Nik Kozub
 Nika Futterman
-Nika Noire
 Nike Imoru
 Niketa Calame
 Niki Flacks
@@ -49654,6 +48949,7 @@ Nikita Efremov
 Nikita Hopkins
 Nikita Knatz
 Nikita Mehta
+Nikita Mistry
 Nikita Tewani
 Nikitas Tsakiroglou
 Nikiya Mathis
@@ -49706,7 +49002,6 @@ Nila Aalia
 Nilaja Sun
 Nile Rodgers
 Niles McMaster
-Niles Welch
 Nils Allen Stewart
 Nils Asther
 Nils Eklund
@@ -49725,7 +49020,6 @@ Nina Eichinger
 Nina Foch
 Nina Franoszek
 Nina Garbiras
-Nina Glaze
 Nina Gordon
 Nina Hansen
 Nina Hartley
@@ -49743,7 +49037,6 @@ Nina Offenböck
 Nina Paosut
 Nina Peterson
 Nina Polan
-Nina Quartero
 Nina Rausch
 Nina Repeta
 Nina Ruslanova
@@ -49751,7 +49044,6 @@ Nina Schultz, Prudie Quigley
 Nina Shipman
 Nina Siemaszko
 Nina Sosanya
-Nina Speight
 Nina Straight
 Nina Tassler
 Nina Totenberg
@@ -49784,10 +49076,7 @@ Nisha K. Nayar
 Nisha Nayar
 Nishi Munshi
 Nissim Azikri
-Nita Cavalier
-Nita Martan
 Nita Mishra
-Nita Naldi
 Nita Talbot
 Nitin Ganatra
 Nito Larioza
@@ -49810,7 +49099,6 @@ Noah Baumbach
 Noah Bean
 Noah Beery Jr.
 Noah Beery, Jr.
-Noah Beery, Sr.|Noah Beery
 Noah Catala
 Noah Centineo
 Noah Cottrell
@@ -49856,11 +49144,11 @@ Noam Jenkins
 Noam Pitlik
 Noam Zylberman
 Noberto Kerner
-Noble Johnson
 Noble Lee Holderread Jr.
 Noble Willingham
 Nobu Matsuhisa
 Nobu McCarthy
+Nobuaki Kaneko
 Noe Sanchez
 Noel Arthur
 Noel Blanc
@@ -49935,21 +49223,18 @@ Noppawong Khamtonwong
 Nora Arnezeder
 Nora Ballard
 Nora Brickman
-Nora Cecil
 Nora Cook
 Nora Cárpena
 Nora Denney
 Nora Dunn
 Nora Heflin
 Nora Hummel
-Nora Lane
 Nora Paradiso
 Nora Ricci
 Nora Swinburne
 Nora York
 Nora Zehetner
 Norah Jones
-Norbert A. Myles
 Norbert Leo Butz
 Norbert Schiller
 Norbert Schwientek
@@ -49985,7 +49270,6 @@ Norma Mayron
 Norma Miller
 Norma Nevens
 Norma Shearer
-Norma Talmadge
 Norma Varden
 Norman Alden
 Norman Alexander Gibbs
@@ -50007,13 +49291,11 @@ Norman Fairley
 Norman Fell
 Norman Fletcher
 Norman Forsey
-Norman Foster (director)|Norman Foster
 Norman Hawley
 Norman Howell
 Norman Howell Sr.
 Norman Jewison
 Norman Johnson, Jr.
-Norman Kerry
 Norman Lear
 Norman Leavitt
 Norman Lloyd
@@ -50021,7 +49303,6 @@ Norman Mailer
 Norman Matlock
 Norman Maxwell
 Norman Mikeal Berketa
-Norman Napier
 Norman Nixon Jr.
 Norman Pace
 Norman Parker
@@ -50171,7 +49452,6 @@ Olatunde Osunsanmi
 Olatz López Garmendia
 Oldman
 Ole Dupont
-Ole M. Ness
 Ole Martin Aune Nilsen
 Ole Victor Corral
 Oleg Kerensky
@@ -50219,10 +49499,8 @@ Olive Blakeney
 Olive Collingwood
 Olive Deering
 Olive Dunbar
-Olive Hasbrouck
 Olive Sloane
 Olive Sturgess
-Olive Tell
 Oliver
 Oliver "Power" Grant
 Oliver "Power" Grant|Oli "Power" Grant
@@ -50477,7 +49755,6 @@ Oscar
 Oscar A. Colon
 Oscar Andriani
 Oscar Bailey
-Oscar Beregi, Sr.
 Oscar Brown Jr.
 Oscar DeRosa
 Oscar Goodman
@@ -50518,7 +49795,6 @@ Osy Ikhile
 Otakuye Conroy
 Oteil Burbridge
 Otis Best
-Otis Harlan
 Otis Sistrunk
 Otis Young
 Otoja Abit
@@ -50528,12 +49804,9 @@ Ottavio Alessi
 Otto
 Otto A. Buck
 Otto Farrant
-Otto Hoffman
 Otto Hornung
 Otto Jürgen Hofmann|Otto Hofmann
 Otto Kruger
-Otto Lederer
-Otto Matieson
 Otto Muehl
 Otto Preminger
 Otto Reichow
@@ -50559,14 +49832,12 @@ Owen Campbell (actor)|Owen Campbell
 Owen Conway
 Owen Coyle
 Owen Fielding
-Owen Gorin
 Owen Harian
 Owen Harn
 Owen Hawk
 Owen Kline
 Owen Masterson
 Owen McGiveney
-Owen Moore
 Owen O'Brien
 Owen O'Gorman
 Owen O'Neill
@@ -50611,6 +49882,7 @@ PJ Hubbard
 PJ Marshall
 PJ Morton
 PJ Valerio
+PJ Walsh
 PaSean Wilson
 Pablo Calva
 Pablo Casals
@@ -50916,7 +50188,6 @@ Pat Fraley
 Pat Fraley|Patrick Fraley
 Pat Gallagher
 Pat Gorman
-Pat Harmon
 Pat Harrington Jr.
 Pat Harrington Jr.|Pat Harrington
 Pat Harrington, Jr.
@@ -50948,7 +50219,6 @@ Pat Musick
 Pat Nixon
 Pat O'Brien (actor)|Pat O'Brien
 Pat O'Brien (radio and television personality)|Pat O'Brien
-Pat O'Malley (actor)|Pat O'Malley
 Pat Patterson
 Pat Paulsen
 Pat Perkins
@@ -50980,7 +50250,6 @@ Patience Cleveland
 Patience Collier
 Patina Miller
 Pato Hoffmann
-Patric Curwen
 Patric Knowles
 Patrice Bélanger
 Patrice Chéreau
@@ -51000,7 +50269,6 @@ Patricia Ann Hudson
 Patricia Arquette
 Patricia Burke
 Patricia Carmichael
-Patricia Caron
 Patricia Castañeda
 Patricia Castelo Branco
 Patricia Charbonneau
@@ -51157,7 +50425,6 @@ Patrick Gorman
 Patrick Gorman (American actor)|Patrick Gorman
 Patrick Gough
 Patrick Güldenberg
-Patrick H. O'Malley, Jr.
 Patrick Heusinger
 Patrick Higgins
 Patrick Hines
@@ -51253,7 +50520,6 @@ Patrick Seitz
 Patrick Sheehan
 Patrick Simpson
 Patrick St. Esprit
-Patrick Stack
 Patrick Stalinski
 Patrick Starr
 Patrick Stewart
@@ -51273,7 +50539,6 @@ Patrick Thompson
 Patrick Timsit
 Patrick Van Horn
 Patrick Vincent (actor)|Patrick Vincent
-Patrick Waddington
 Patrick Warburton
 Patrick Watson (musician)|Patrick Watson
 Patrick Wayne
@@ -51305,7 +50570,6 @@ Patsy Lynn
 Patsy Meck
 Patsy Moran
 Patsy Pease
-Patsy Ruth Miller
 Patsy Smart
 Patt Morrison
 Patterson Hood
@@ -51340,7 +50604,6 @@ Patty Byrne
 Patty Duke
 Patty Katz
 Patty Lloyd
-Patty Lou Lynd
 Patty Mack
 Patty Maloney
 Patty Sauers
@@ -51426,7 +50689,6 @@ Paul Castro Jr
 Paul Cavanagh
 Paul Celan
 Paul Chahidi
-Paul Chaplin
 Paul Chapman (actor)|Paul Chapman
 Paul Che
 Paul Chih-Ping Cheng
@@ -51519,10 +50781,8 @@ Paul Greco
 Paul Greenberg
 Paul Greenberg (voice actor)|Paul Greenberg
 Paul Greeno
-Paul Gregory
 Paul Gregory (actor)|Paul Gregory
 Paul Grenier
-Paul Grimes
 Paul Gross
 Paul Grossman
 Paul Guilfoyle
@@ -51625,7 +50885,6 @@ Paul Lussier
 Paul Lynde
 Paul M. Meston
 Paul Mantee
-Paul Marco
 Paul Mariani
 Paul Marin
 Paul Marius
@@ -51634,7 +50893,6 @@ Paul Maslansky
 Paul Massie
 Paul Maxwell
 Paul Mazursky
-Paul McAllister
 Paul McCallum
 Paul McCartney
 Paul McCole
@@ -51648,7 +50906,6 @@ Paul McIsaac
 Paul McLean
 Paul Meacham
 Paul Menzel
-Paul Mercey
 Paul Mercurio
 Paul Merriman
 Paul Mescal
@@ -51681,7 +50938,6 @@ Paul O'Neill (baseball)|Paul O'Neill
 Paul O'Sullivan (actor)|Paul O'Sullivan
 Paul Ortega
 Paul Page
-Paul Panzer
 Paul Pape
 Paul Peglar
 Paul Pepper
@@ -51787,15 +51043,12 @@ Paul Tuerpe
 Paul Ukena
 Paul Vecchio
 Paul Verhoeven (German director)|Paul Verhoeven
-Paul Villé
-Paul Vincenti
 Paul Viragh
 Paul Volle
 Paul Vroom
 Paul W. Downs
 Paul Walker
 Paul Walter Hauser
-Paul Weigel
 Paul Weitz (filmmaker)|Paul Weitz
 Paul Welsh
 Paul Wesley
@@ -51804,7 +51057,6 @@ Paul Westphal
 Paul Wexler (actor)|Paul Wexler
 Paul Whetstone
 Paul Whitehouse
-Paul Whitney
 Paul Whitthorne
 Paul Whitty
 Paul Wight
@@ -51872,7 +51124,6 @@ Paula Siu
 Paula Trueman
 Paula Victor
 Paulene Myers
-Paulette Duval
 Paulette Goddard
 Paulette Lamori
 Paulette Sinclair
@@ -51901,7 +51152,6 @@ Pauline McLynn
 Pauline Melville
 Pauline Moran
 Pauline Quirke
-Pauline Starke
 Pauline Swift
 Pauline Whyman
 Paulino Nunes
@@ -51926,6 +51176,7 @@ Pavlos Kontoyannidis
 Pavlos Kourtidis
 Paw Diaz
 Pawan Malhotra
+Pawanrat Naksuriya
 Pawel Szajda
 Pawel Wdowczak
 Paxton Whitehead
@@ -51994,23 +51245,18 @@ Peggy Cummins
 Peggy Davis
 Peggy Feury
 Peggy Gormley
-Peggy Heinse
-Peggy Hopkins Joyce
 Peggy Jo Jacobs
 Peggy Lipton
 Peggy Lynn
 Peggy McCay
 Peggy Miley
-Peggy Montgomery
 Peggy Moran
 Peggy Oki
 Peggy Pope
-Peggy Prevost
 Peggy Rea
 Peggy Riddle
 Peggy Sanders
 Peggy Shannon
-Peggy Shaw (actress)|Peggy Shaw
 Peggy Sirr
 Peggy Stewart (actress)|Peggy Stewart
 Peggy Webber
@@ -52172,7 +51418,6 @@ Pete Lancaster
 Pete Lee-Wilson
 Pete Lee-Wilson|Peter Lee-Wilson
 Pete Miller
-Pete Morrison
 Pete Morrow
 Pete Ortega
 Pete Ploszek
@@ -52226,7 +51471,6 @@ Peter Berg
 Peter Berinato
 Peter Berkrot
 Peter Berling
-Peter Bibby
 Peter Billingsley
 Peter Birrel
 Peter Blackwood
@@ -52251,7 +51495,6 @@ Peter Brunette
 Peter Bryson
 Peter Bull
 Peter Burger
-Peter Burke
 Peter Burton
 Peter Butler
 Peter Butterworth
@@ -52303,7 +51546,6 @@ Peter Demlakian
 Peter Dennett
 Peter Dennis
 Peter DiGesu
-Peter Didiano
 Peter Dillon
 Peter Dinklage (actor)|Pete Dinklage
 Peter Dobson
@@ -52799,7 +52041,6 @@ Philip Dodds
 Philip Dunbar
 Philip Dupuy
 Philip Ettinger
-Philip Ford (film director)|Philip Ford
 Philip Fornah
 Philip Fox (actor)|Philip Fox
 Philip Franks
@@ -52812,7 +52053,6 @@ Philip Gonnella
 Philip Goodwin
 Philip Granger
 Philip Harvey
-Philip Hayes
 Philip Holder
 Philip Jackson (actor)|Philip Jackson
 Philip Kaufman
@@ -52845,6 +52085,7 @@ Philip Ober
 Philip Pena
 Philip Perry
 Philip Philmar
+Philip Pope
 Philip Pretten
 Philip Proctor
 Philip Proctor|Phil Proctor
@@ -52862,7 +52103,6 @@ Philip Spensley
 Philip Stainton
 Philip Sterling
 Philip Stone
-Philip Strange
 Philip Suriano
 Philip Suriano|Phil Suriano
 Philip Tan
@@ -52888,7 +52128,6 @@ Philippe Bergeron
 Philippe Brenninkmeyer
 Philippe Brigaud
 Philippe Caland
-Philippe De Lacy
 Philippe Delgrange
 Philippe Duclos
 Philippe Duquesne
@@ -52981,17 +52220,16 @@ Phoebe Tonkin
 Phoebe Waller-Bridge
 Phoenix Baaitse
 Phoenix Ly
-Phoenix Marie
 Phoenix Raei
 Phoenix Wilson
 Phong Diep
 Phong Giang
 Phranc
+Phuak
 Phylicia Rashad
 Phylicia Rashad|Phylicia Rashād
 Phyllida Law
 Phyllis Applegate
-Phyllis Barrington
 Phyllis Black
 Phyllis Boyens
 Phyllis Calvert
@@ -52999,7 +52237,6 @@ Phyllis Carlysle
 Phyllis Chase
 Phyllis Chesler
 Phyllis Cicero
-Phyllis Crane
 Phyllis Davis
 Phyllis Diller
 Phyllis Ehrlich
@@ -53061,7 +52298,6 @@ Pierre Chagnon
 Pierre Clement
 Pierre Clémenti
 Pierre Coffin
-Pierre Collosse
 Pierre Cosso
 Pierre Curzi
 Pierre Douglas
@@ -53105,7 +52341,6 @@ Piggy D
 Pik Sen Lim
 Pik-Sen Lim
 Pikachu|Detective Pikachu
-Pike Nelson
 Pilar Cazares
 Pilar Del Rey
 Pilar López de Ayala
@@ -53289,13 +52524,11 @@ Princess San Ferdinando
 Prinya Intachai
 Priscilla Alden
 Priscilla Barnes
-Priscilla Bonner
 Priscilla Garita
 Priscilla Jones
 Priscilla Kovary Charlie's Dancing Partner
 Priscilla Lane
 Priscilla Lopez
-Priscilla Moran
 Priscilla Pointer
 Priscilla Presley
 Priscilla Shanks
@@ -53327,7 +52560,6 @@ Punk
 Pupella Maggio
 Pupo De Luca
 Purbi Joshi
-Purnell Pratt
 Purva Bedi
 Pyotr Fyodorov
 Pywacket
@@ -53417,14 +52649,12 @@ R. Mahalakshmi Devaraj
 R. Marcus Taylor
 R. Nelson Brown
 R. Norwood Smith
-R. Senior
 R. Sparkle Stillman
 R.A. Mihailoff
 R.C. Bates
 R.D. Call
 R.D. Reid
 R.G. Armstrong
-R.G. Wilson
 R.H. Thomson
 R.J. Burns
 R.J. Ganzert
@@ -53432,7 +52662,6 @@ R.J. Knoll
 R.J. Robertson
 R.J. Yap
 R.Keith Harris
-R.O. Pennell
 RB Butcher
 RED SON
 RJ Cyler
@@ -53577,7 +52806,6 @@ Rachelle Lefevre
 Rachelle Lefèvre
 Racquel Bianca John
 Rad Lazar
-Rada Rae
 Rada Rassimov
 Rade Marković
 Rade Serbedzija
@@ -53660,7 +52888,6 @@ Ragevan Vasan
 Rah Digga
 Rahm Braslaw
 Rahman (actor)|Rahman
-Rahnuma Panthaky
 Rahul Bedi
 Rahul Khanna
 Rahul Kohli
@@ -53682,7 +52909,6 @@ Rainbow Harvest
 Rainbow Sun Francks
 Raine Maida
 Rainer Bock
-Rainer Grant
 Rainer Kahl
 Rainer Penkert
 Rainer Sellien
@@ -53728,7 +52954,6 @@ Ralph Bellamy
 Ralph Brannen
 Ralph Brown
 Ralph Bruneau
-Ralph Bucko
 Ralph Carney
 Ralph Cole Jr.
 Ralph Corsel
@@ -53741,7 +52966,6 @@ Ralph Echemendia
 Ralph Edwards
 Ralph Fiennes
 Ralph Foody
-Ralph Forbes
 Ralph Garman
 Ralph Gonzales
 Ralph Halprin
@@ -53790,7 +53014,6 @@ Ralph Ting
 Ralph Tresvant
 Ralph Truman
 Ralph Volkie
-Ralph W. Bell
 Ralph Waite
 Ralph Wilcox (Actor)|Ralph Wilcox
 Ralph Wilcox (actor)|Ralph Wilcox
@@ -54006,6 +53229,7 @@ Raul S. Julia
 Raul Torres
 Raushan Hammond
 Ravage,
+Ravana
 Ravell Dameron
 Raven (wrestler)|Raven
 Raven (wrestler)|Scott Levy
@@ -54039,7 +53263,6 @@ Ray Bouchard
 Ray Bouderau
 Ray Bradbury
 Ray Bradford
-Ray Braxton
 Ray Bright
 Ray Brimicombe
 Ray Brock
@@ -54139,7 +53362,6 @@ Ray Stewart
 Ray Strachan
 Ray Stricklyn
 Ray Teal
-Ray Thompson
 Ray Toler
 Ray Tuttle
 Ray Underwood
@@ -54149,16 +53371,15 @@ Ray Vitte
 Ray Walston
 Ray Watson
 Ray Whittey
+Ray William Johnson
 Ray Wineteer
 Ray Winstone
 Ray Wise
 Ray Wood
-Ray Wyatt
 Ray Xifo
 Ray Young
 Ray Young (actor)|Ray Young
 Raydine Spino
-Raye Hampton
 Raye Hollitt
 Rayford Barnes
 Rayisa Kondracki
@@ -54181,10 +53402,8 @@ Raymond De Marco
 Raymond E. Bailey
 Raymond Forchion
 Raymond Francis
-Raymond Griffith
 Raymond Guth
 Raymond Gérôme
-Raymond Hackett
 Raymond Hatton
 Raymond Heller
 Raymond Hitchcock (actor)|Raymond Hitchcock
@@ -54283,6 +53502,7 @@ Rebecca Griffiths
 Rebecca Harrell Tickell|Rebecca Harrell
 Rebecca Harris
 Rebecca Hazlewood
+Rebecca Hedges
 Rebecca Henderson
 Rebecca Henderson (actress)|Rebecca Henderson
 Rebecca Hobbs
@@ -54439,7 +53659,6 @@ Regina Taylor
 Regina Waldon
 Reginald Ballard
 Reginald Beckwith
-Reginald Denny (actor)|Reginald Denny
 Reginald Farmer
 Reginald Gardiner
 Reginald Green
@@ -54599,7 +53818,6 @@ René Assa
 René Auberjonois
 René Auberjonois (actor)|René Auberjonois
 René Barrera
-René Blancard
 René Elizondo Jr.
 René Enríquez
 René Hofschneider
@@ -54630,6 +53848,7 @@ Reta Shaw
 Retta
 Reuben Guss
 Reuben Langdon
+Reuben Lee
 Reuel Schiller
 Reuven Bar-Yotam
 Rev. Theophilus Karaphillis
@@ -54644,8 +53863,6 @@ Rex Dangervest,
 Rex Evans
 Rex Harrison
 Rex Holman
-Rex Lease
-Rex Lease, Dorothy Gulliver
 Rex Lee (actor)|Rex Lee
 Rex Linn
 Rex Ludwick
@@ -54715,7 +53932,6 @@ Rhonda Minton
 Rhonda Rydell
 Rhonda Shear
 Rhonda Stubbins White
-Rhylee Richards
 Rhymefest|Che "Rhymefest" Smith
 Rhyon Nicole Brown
 Rhys Bhatia
@@ -54762,7 +53978,6 @@ Ricardo Antonio Chavira|Ricardo Chavira
 Ricardo Canales
 Ricardo Carvalho
 Ricardo Chavira
-Ricardo Cortez
 Ricardo Darín
 Ricardo Fuentes
 Ricardo Hurtado
@@ -54824,7 +54039,6 @@ Rich Wilkes
 Rich Williams
 Richa Chadda
 Richael Tanner
-Richard "Skeets" Gallagher
 Richard A. Dysart
 Richard Abate
 Richard Adams (actor)|Richard Adams
@@ -54833,7 +54047,6 @@ Richard Aguilar
 Richard Alameda
 Richard Alan Brown
 Richard Alden
-Richard Alexander (actor)|Richard Alexander
 Richard Allan
 Richard Allen
 Richard Alliger
@@ -55177,8 +54390,6 @@ Richard Münch (actor)|Richard Münch
 Richard N. Gladstein
 Richard Nance
 Richard Narita
-Richard Nathan
-Richard Neill
 Richard Ney
 Richard Ng
 Richard Nichols
@@ -55250,7 +54461,6 @@ Richard Sali
 Richard Sammel
 Richard Sanders (actor)|Richard Sanders
 Richard Sarafian
-Richard Sargent
 Richard Saxton
 Richard Schaal
 Richard Schave
@@ -55289,7 +54499,6 @@ Richard Topol
 Richard Torn
 Richard Travis
 Richard Tretter
-Richard Tucker (actor)|Richard Tucker
 Richard Tyson
 Richard Van Weyden
 Richard Venture
@@ -55567,7 +54776,6 @@ Rino Thunder
 Rio Alexander
 Rio Dewanto
 Rio Hackford
-Rio Lee
 Rion Hunter
 Riona Smith
 Rip Collins (pitcher)|Rip Collins
@@ -55591,7 +54799,6 @@ Rita Hayworth
 Rita Hudis
 Rita Johnson
 Rita Kvist
-Rita La Roy
 Rita MacNeil
 Rita Malik
 Rita Montone
@@ -55780,7 +54987,6 @@ Robert Aberdeen
 Robert Acey
 Robert Addie
 Robert Adler
-Robert Agnew
 Robert Aiken
 Robert Ajlouny
 Robert Alan Barnett
@@ -55796,7 +55002,6 @@ Robert Almodovar
 Robert Altman
 Robert Amaya
 Robert Ambrose
-Robert Ames (actor)|Robert Ames
 Robert Anthony Bell
 Robert Apel
 Robert Apisa
@@ -55884,7 +55089,6 @@ Robert Christian
 Robert Ciancimino
 Robert Cicchini
 Robert Clark (actor)|Robert Clark
-Robert Clarke
 Robert Clary
 Robert Clohessy
 Robert Clotworthy
@@ -55913,7 +55117,6 @@ Robert D. Koby
 Robert D. Novak
 Robert D. Raiford
 Robert D. Raiford|Robert D.Raiford
-Robert D. Walker|Robert Walker
 Robert Dane
 Robert Darnell
 Robert Dauney
@@ -55961,8 +55164,6 @@ Robert Earley
 Robert Easton (actor)|Robert Easton
 Robert Ellenstein
 Robert Elliott
-Robert Elliott (actor)|Robert Elliott
-Robert Ellis (actor, born 1892)|Robert Ellis
 Robert Emhardt
 Robert Emms
 Robert Englund
@@ -55997,7 +55198,6 @@ Robert Foulk
 Robert Foxworth
 Robert Francis (actor)|Robert Francis
 Robert Fraser
-Robert Frazer
 Robert Fredrickson
 Robert Freeman
 Robert Freitag
@@ -56168,7 +55368,6 @@ Robert Lin
 Robert Lindsay (actor)|Robert Lindsay
 Robert Lipton
 Robert Little Star
-Robert Livingston (actor)|Robert Livingston
 Robert Llewellyn
 Robert Logan Jr.|Robert Logan
 Robert Logan Lewis
@@ -56201,15 +55400,12 @@ Robert Marbury
 Robert Marsden
 Robert Masiello
 Robert Matek
-Robert Mawdesley
 Robert McBain
 Robert McCarrol
 Robert McKenna
 Robert McKewley
-Robert McKim (actor)|Robert McKim
 Robert McPhalen
 Robert McRay
-Robert McWade
 Robert Merrill
 Robert Miano
 Robert Miano, Pompie Pomposello, Hector Troy
@@ -56227,7 +55423,6 @@ Robert Moloney
 Robert Monette
 Robert Moniot
 Robert Montano
-Robert Montgomery (actor)|Robert Montgomery
 Robert Moore (director)|Robert Moore
 Robert Morelli
 Robert Moresco|Bobby Moresco
@@ -56281,7 +55476,6 @@ Robert Pierce
 Robert Pike Daniel
 Robert Pine
 Robert Pine (actor)|Robert Pine
-Robert Pizani
 Robert Plunket
 Robert Portal
 Robert Porterfield
@@ -56315,7 +55509,6 @@ Robert Richard Jorge
 Robert Ridgely
 Robert Rietti
 Robert Roark
-Robert Rocca
 Robert Rockwell
 Robert Rodriguez
 Robert Romanus
@@ -56327,7 +55520,6 @@ Robert Sacchi
 Robert Sale (actor)|Robert Sale
 Robert Sampson
 Robert Saunders
-Robert Schable
 Robert Schenkkan
 Robert Schwartzman
 Robert Sean Leonard
@@ -56423,7 +55615,6 @@ Robert Walker-Branchaud
 Robert Walsh
 Robert Warwick
 Robert Weatherby
-Robert Weaver
 Robert Webb (actor)|Robert Webb
 Robert Webber
 Robert Weil
@@ -56638,7 +55829,6 @@ Rocco Day
 Rocco Rosanio
 Rocco Sisto
 Rochelle Aytes
-Rochelle Greenwood
 Rochelle Loewen
 Rochelle Oliver
 Rochelle Rose
@@ -56648,7 +55838,6 @@ Rock Kohli
 Rocket Rodriguez
 Rockets Redglare
 Rocki DuCharme
-Rockliffe Fellowes
 Rockmond Dunbar
 Rockne Tarkington
 Rocky Carroll
@@ -56866,7 +56055,6 @@ Roger Trapp
 Roger Tréville
 Roger Vadim
 Roger W. Kirby
-Roger Williams (actor)|Roger Williams
 Roger Willie
 Roger Wilson (actor)|Roger Wilson
 Roger Yuan
@@ -56889,7 +56077,6 @@ Roland Brand
 Roland Buck III
 Roland Culver
 Roland Curram
-Roland Drew
 Roland Gift
 Roland Harrah III
 Roland Javornik
@@ -56952,6 +56139,7 @@ Rome Neal
 Rome Shadanloo
 Romeo Brown
 Romeo De Lan
+Romeo Lacoste
 Romeo Miller
 Romesh Ranganathan
 Romi Aboulafia
@@ -57121,7 +56309,6 @@ Rona Morison
 Ronald Adam (actor)|Ronald Adam
 Ronald Allen
 Ronald Chenery
-Ronald Colman
 Ronald Falk
 Ronald Fernee
 Ronald Fraser (actor)|Ronald Fraser
@@ -57246,7 +56433,6 @@ Rory Wilson
 Rosa Arredondo
 Rosa Blasi
 Rosa Di Brigida
-Rosa Gore
 Rosa María Hernández
 Rosa Pianeta
 Rosa Salazar
@@ -57299,8 +56485,6 @@ Rosario Tedesco
 Rosary Nix
 Rosaura Revueltas
 Roschdy Zem
-Roscoe Arbuckle|Fatty Arbuckle
-Roscoe Arbuckle|Roscoe 'Fatty' Arbuckle
 Roscoe Karns
 Roscoe Lee Browne
 Roscoe Myrick
@@ -57311,10 +56495,8 @@ Rose Alba
 Rose Ann Scamardella
 Rose Arrick
 Rose Baum Senerchia
-Rose Blossom
 Rose Chirillo
 Rose Decker
-Rose Dione
 Rose English
 Rose Ghavami
 Rose Gregorio
@@ -57328,7 +56510,6 @@ Rose Mary Campos
 Rose McGowan
 Rose McIver
 Rose McVeigh
-Rose Mendel
 Rose Parenti
 Rose Portillo
 Rose Preston
@@ -57354,7 +56535,6 @@ Rosemarie Hillcrest
 Rosemarie Stack
 Rosemary Alexander
 Rosemary Clooney
-Rosemary Cooper
 Rosemary De Angelis
 Rosemary Dunsmore
 Rosemary Edelman
@@ -57368,7 +56548,6 @@ Rosemary Martin
 Rosemary Murphy
 Rosemary Prinz
 Rosemary Radcliffe
-Rosemary Theby
 Rosemary Vandenbroucke
 Rosemberg Salgado
 Rosenda Monteros
@@ -57396,7 +56575,6 @@ Roslyn Alexander
 Roslyn De Winter
 Roslyn Gugino
 Ross Adam
-Ross Alexander
 Ross Anderson
 Ross Bacon
 Ross Bagdasarian Jr.
@@ -57427,6 +56605,7 @@ Ross Kohn
 Ross Lynch
 Ross Malinger
 Ross Marquand
+Ross Marron
 Ross Martin
 Ross McCall
 Ross Nathan
@@ -57500,9 +56679,7 @@ Roy Clark
 Roy Cohn
 Roy Conrad
 Roy Cooper
-Roy D'Arcy
 Roy Dotrice
-Roy Dupuis
 Roy Edmunds
 Roy Emerton
 Roy Engel
@@ -57551,6 +56728,7 @@ Roy Shuman
 Roy Snart
 Roy Stephens
 Roy Stewart
+Roy T. Anderson
 Roy Tanner
 Roy Tatum
 Roy Thiel
@@ -57614,10 +56792,8 @@ Ruby Keeler
 Ruby Lightfoot
 Ruby Matenko
 Ruby Modine
-Ruby Parsley
 Ruby Rose
 Ruby Rufus Isaacs
-Ruby Swekla... Mrs. Pasok
 Ruby Thomas
 Ruby Turner
 Ruby Wax
@@ -57639,7 +56815,6 @@ Rudolf Nureyev
 Rudolf Schündler
 Rudolf Weber
 Rudolph Anders
-Rudolph Bylek
 Rudolph Grey
 Rudolph Walker
 Rudy Bond
@@ -57732,7 +56907,6 @@ Russ Marker
 Russ McCubbin
 Russ Meyer
 Russ Paquette
-Russ Powell
 Russ Russo
 Russ Tamblyn
 Russ Titus
@@ -57817,11 +56991,8 @@ Ruth Baker
 Ruth Bradley
 Ruth Brown
 Ruth Buzzi
-Ruth Cherrington
-Ruth Churchill
 Ruth Clifford
 Ruth Cox
-Ruth Davis
 Ruth E. Carter
 Ruth Earl
 Ruth England
@@ -57840,7 +57011,6 @@ Ruth Lass
 Ruth Maleczech
 Ruth Manning
 Ruth Marshall
-Ruth Marzer
 Ruth McCabe
 Ruth McDevitt
 Ruth Miller (actress)|Ruth Miller
@@ -57851,7 +57021,6 @@ Ruth Phelps
 Ruth Platt
 Ruth Reichl
 Ruth Rennie
-Ruth Royce
 Ruth Sheen
 Ruth Silveira
 Ruth Springford
@@ -57884,6 +57053,7 @@ Ryan Bergsman
 Ryan Bingham
 Ryan Birkicht
 Ryan Bittle
+Ryan Blakely
 Ryan Bobkin
 Ryan Bollman
 Ryan Bruce
@@ -57893,7 +57063,6 @@ Ryan Byrne
 Ryan Cabrera
 Ryan Carnes
 Ryan Cartwright
-Ryan Cash
 Ryan Clark (actor)|Ryan Clark
 Ryan Cooley
 Ryan Cooper
@@ -57964,7 +57133,6 @@ Ryan McDonald (American actor)|Ryan McDonald
 Ryan McDonald (actor)|Ryan McDonald
 Ryan McDow
 Ryan McGee
-Ryan McLane
 Ryan McPartlin
 Ryan McTavish
 Ryan Merriman
@@ -58056,7 +57224,6 @@ S. Epatha Merkerson
 S. Scott Bullock
 S. Z. Sakall
 S.A. Griffin
-S.B. Smith
 S.D. Nemeth
 S.E. Hinton
 S.J. Fellowes
@@ -58104,6 +57271,7 @@ Sachie Alessio
 Sachiko Hidari
 Sachio Sakai
 Sada Thompson
+Sadayuu
 Sade Katarina
 Sadie
 Sadie Alexandru
@@ -58221,7 +57389,6 @@ Sally McDonald
 Sally Menke
 Sally Messham
 Sally Murphy
-Sally O'Neil
 Sally Phillips
 Sally Prager
 Sally Quinn
@@ -58274,7 +57441,6 @@ Sam Coppola
 Sam Cotton
 Sam Dalton
 Sam Daly
-Sam De Grasse
 Sam Diamond
 Sam Dillon
 Sam Dissanayake
@@ -58303,7 +57469,6 @@ Sam Gray
 Sam Greco
 Sam Grey
 Sam Groom
-Sam Hardy (actor)|Sam Hardy
 Sam Hargrave
 Sam Harkness
 Sam Harris
@@ -58515,9 +57680,6 @@ Sammi Rotibi
 Sammie Winmill
 Sammo Hung
 Sammy Blue
-Sammy Blum
-Sammy Brooks
-Sammy Cohen
 Sammy Davis Jr.
 Sammy Elliott
 Sammy Fine
@@ -58641,7 +57803,6 @@ Sandra Ferens
 Sandra Giles
 Sandra Gould
 Sandra Gutierrez
-Sandra Head
 Sandra Hess
 Sandra Hüller
 Sandra J. Butcher
@@ -58732,6 +57893,7 @@ Sanford Jensen
 Sanford Meisner
 Sanford Odets
 Sang Hyun Um
+Sanim
 Saniya Holmes
 Saniyya Sidney
 Sanja Spengler
@@ -58750,6 +57912,7 @@ Santiago Segura
 Santiago The Pawstar
 Santino Barile
 Santino Fontana
+Santisuk Promsiri
 Santo D'Asaro
 Santo Ragno
 Santos Maggi
@@ -59114,6 +58277,7 @@ Saïd Taghmaoui
 Scaby Dread
 Scarface (rapper)|Brad "Scarface" Jordan
 Scarlet Grace
+Scarlet O'Hara	...Sue Hammer
 Scarlet Rivera
 Scarlet Spencer
 Scarlett Benchley
@@ -59123,6 +58287,7 @@ Scarlett Estevez
 Scarlett Johansson
 Scarlett McAlister
 Scarlett Pomers
+Scarlett Stitt
 Scatman Crothers
 Scatman Crothers|Benjamin "Scatman" Crothers
 Schnootie Neff
@@ -59410,6 +58575,7 @@ Sean Barry-Weske
 Sean Bean
 Sean Bell
 Sean Berdy
+Sean Bergeron
 Sean Blackman
 Sean Blakemore
 Sean Branney
@@ -59617,7 +58783,6 @@ Sedona Legge
 Seduce
 See #Cast|Cast section
 Seema Biswas
-Seena Owen
 Sei Ashina
 Seidy Lopez
 Seidy López
@@ -60027,6 +59192,7 @@ Sharon McNight
 Sharon Mitchell
 Sharon Morgan
 Sharon Morris
+Sharon Murphy
 Sharon Murray
 Sharon Omi
 Sharon Osbourne
@@ -60157,7 +59323,6 @@ Shawn Woods
 Shawn Yue
 Shawn von Schreiber
 Shawn-Caulin Young
-Shawna Lenee
 Shawna Loyer
 Shawna Waldron
 Shawne Rowe
@@ -60229,7 +59394,6 @@ Sheila Keith
 Sheila Kelley (American actress)|Sheila Kelley
 Sheila Kelley (American actress)|Sheila Kelly
 Sheila Kennedy
-Sheila Mannors
 Sheila Matthews Allen
 Sheila Matthews Allen|Sheila Allen
 Sheila Matthews Allen|Sheila Mathews
@@ -60245,7 +59409,6 @@ Sheila Scott-Wilkenson
 Sheila Shotton
 Sheila Smith
 Sheila Steafel
-Sheila Terry (actor)|Sheila Terry
 Sheila Tousey
 Sheila Travis
 Sheila Tyson
@@ -60277,7 +59440,6 @@ Sheldon Bergstrom
 Sheldon Best
 Sheldon Harnick
 Sheldon Leonard
-Sheldon Lewis
 Sheldon Peters Wolfchild
 Sheldon Rybowski
 Shell Galloway
@@ -60425,6 +59587,7 @@ Shin Koyamada
 Shin Takuma
 Shinelle Azoroh
 Shinji Mikami
+Shintarō Moriyama
 Shiori Ichikawa
 Shiori Kutsuna
 Shira Piven
@@ -60443,7 +59606,6 @@ Shirley Douglas
 Shirley Eaton
 Shirley Falls
 Shirley Gorospe
-Shirley Grey
 Shirley Henderson
 Shirley Jo Finney
 Shirley Jones
@@ -60451,7 +59613,6 @@ Shirley Knight
 Shirley Lorimer
 Shirley MacLaine
 Shirley Manson
-Shirley Mason (actress)|Shirley Mason
 Shirley Merovitz
 Shirley Mitchell
 Shirley Povich
@@ -60522,7 +59683,6 @@ Shy Pilgreen
 Shyann McClure
 Shyheim Franklin
 Shyla Marlin
-Shyla Stylez
 Shylo Sharity
 Shyree Mezick
 Shyrley Rodriguez
@@ -60530,7 +59690,6 @@ Shélan O'Keefe
 Shōhei Hino
 Shōzō Iizuka
 Shūichirō Moriyama
-Si Jenks
 Si-Lan Chen
 Sia (musician)|Sia
 Siam Yu
@@ -60553,7 +59712,6 @@ Sid Conrad
 Sid Eudy|Sid Vicious
 Sid Haig
 Sid James
-Sid Jordan
 Sid Kroach
 Sid McCoy
 Sid Melton
@@ -60573,11 +59731,7 @@ Sidney Blackmer
 Sidney Bracey
 Sidney Clute
 Sidney Cole
-Sidney D'Albrook
 Sidney Dawson
-Sidney De Gray
-Sidney Fiske
-Sidney Franklin (actor)|Sidney Franklin
 Sidney Fullmer
 Sidney Grigg
 Sidney Johnston
@@ -60635,7 +59789,6 @@ Silvana Mangano
 Silvana Pampanini
 Silvana Venturelli
 Silvano Tranquilli
-Silver (horse)|Silver
 Silver Kim
 Silverio Palacios
 Silvestre Rasuk
@@ -60902,10 +60055,8 @@ Slick Rick
 Slim Harris
 Slim Khezri
 Slim Pickens
-Slim Summerville
 Slim Thug
 Slim Twig
-Slim Whitaker
 Slimane Dazi
 Slipknot (band)|Slipknot
 Sloane Shelton
@@ -61039,7 +60190,6 @@ Sonja Smits
 Sonja Sohn
 Sonja Stuart
 Sonja Wilken
-Sonja Ziemann
 Sonny Ashbourne Serkis
 Sonny Barger
 Sonny Bono
@@ -61267,7 +60417,6 @@ Stacey Miller
 Stacey Nelkin
 Stacey Pickren
 Stacey Sacks
-Stacey Saran
 Stacey Scowley
 Stacey Travis
 Staceyann Chin
@@ -61308,9 +60457,9 @@ Stacy Peralta
 Stacy Rock
 Stacy Smith (actress)|Stacy Smith
 Staffan Hallerstam
-Stafford Hilliard
 Stafford Mills
 Stafford Repp
+Stan
 Stan Barrett
 Stan Bohrman
 Stan Brown
@@ -61349,7 +60498,6 @@ Stanley Baker
 Stanley Baugh
 Stanley Beck
 Stanley Bennett Clay
-Stanley Blystone
 Stanley Brock
 Stanley Clements
 Stanley Davis, Jr.
@@ -61791,6 +60939,7 @@ Stephen Stucker
 Stephen Suitts
 Stephen Tako
 Stephen Taylor
+Stephen Thomas
 Stephen Thorne
 Stephen Tolkin
 Stephen Tompkinson
@@ -61884,8 +61033,6 @@ Steve Carlisle
 Steve Carlson
 Steve Carruthers
 Steve Cirbus
-Steve Clark
-Steve Clements
 Steve Cobbs
 Steve Cochran
 Steve Cochran (radio host)|Steve Cochran
@@ -62165,6 +61312,7 @@ Steven Kulesza
 Steven Lambert
 Steven Luke
 Steven M. Porter
+Steven M. Smith
 Steven Mackintosh
 Steven Makaj
 Steven Marcus	as Gil Dunphy
@@ -62211,7 +61359,6 @@ Steven Sims
 Steven Soderbergh
 Steven Spielberg
 Steven Spiers
-Steven St. Croix
 Steven Stewart
 Steven Strait
 Steven Sutherland
@@ -62291,7 +61438,6 @@ Stony Blyden
 Storm P.
 Storm Walker
 Stormy Daniels
-Stoya
 Strafe A Dinobot
 Stranger Inside|Yolonda Ross
 Stratford Johns
@@ -62324,7 +61470,6 @@ Stuart Culpepper
 Stuart Dannell-Foran
 Stuart Erwin
 Stuart Fratkin
-Stuart Galbraith IV
 Stuart Gillard
 Stuart Goakes
 Stuart Gordon
@@ -62741,6 +61886,7 @@ Suzanne Clément
 Suzanne Costallos
 Suzanne Coy
 Suzanne Cryer
+Suzanne Cyr
 Suzanne Danielle
 Suzanne Davidson
 Suzanne De Passe
@@ -62826,7 +61972,6 @@ Swizz Beatz
 Swoosie Kurtz
 Sy Kramer
 Sy Richardson
-Sybil Carmen|Sibyl Carmen
 Sybil Danning
 Sybil Rosen
 Sybil Temtchine
@@ -62834,7 +61979,6 @@ Sybil Temtchine|Sybil Temchen
 Sybilla Budd
 Syd Brown
 Syd Masters
-Syd Saylor
 Sydene Wallace
 Sydna Scott
 Sydne Rome
@@ -62874,7 +62018,6 @@ Syl Lamont
 Sylva Kelegian
 Sylva Koscina
 Sylva Langova
-Sylvain (actor)|Sylvain
 Sylvain Landry
 Sylvain Marcel
 Sylvaine Strike
@@ -62997,7 +62140,9 @@ Tabatha Shaun
 Tabitha
 Tabitha Brownstone
 Tabitha Christina Rieger
+Tabitha King
 Tabitha Lupien
+Tabitha Smythe
 Tabitha St. Germain
 Tablo
 Taboo (rapper)|Jaime "Taboo" Gomez
@@ -63036,6 +62181,7 @@ Tai Thai
 Taika Waititi
 Taimak
 Taina Elg
+Taishi Nakagawa
 Taissa Farmiga
 Tait Fletcher
 Tait Smith
@@ -63180,6 +62326,7 @@ Tammy Trull
 Tamra Natisin
 Tamsin Egerton
 Tamsin Greig
+Tamsin Heatley
 Tamsin Kelsey
 Tamsin Kelsey	as Mariah Breed
 Tamsir Niane
@@ -63270,7 +62417,6 @@ Tara Buckman
 Tara Chocol
 Tara Copeland
 Tara Correa-McMullen|Tara Correa
-Tara Dawn Frederick
 Tara Divina
 Tara Ellison
 Tara Fitzgerald
@@ -63338,7 +62484,6 @@ Taryn Manning
 Taryn Power
 Taryn Terrell
 Taryn Uria
-Tarzan
 Tasha Dixon
 Tasha Layton
 Tasha Smith
@@ -63351,6 +62496,7 @@ Tasma Walton
 Tasmanian Devil (Looney Tunes)|Tasmanian Devil
 Tasneem Roc
 Taso Papadakis
+Tasokan
 Tatanka Means
 Tatasciore
 Tate Berney
@@ -63415,7 +62561,6 @@ Taylor Black
 Taylor Blackwell
 Taylor Blim
 Taylor Buck
-Taylor Carroll
 Taylor Cerza
 Taylor Cole
 Taylor Dayne
@@ -63475,7 +62620,6 @@ Tchéky Karyo
 Te Kohe Tuhaka
 Teach Grant
 Teagan Clive
-Teagan Presley
 Teagle F. Bougere
 Teairra Marí
 Teairra Monroe
@@ -63529,7 +62673,6 @@ Ted Meyer
 Ted Michaels
 Ted Monte
 Ted Neeley
-Ted Newsom
 Ted Nugent
 Ted Parks
 Ted Raimi
@@ -63848,7 +62991,6 @@ Tessie O'Shea
 Tessie Santiago
 Tessie Villarama
 Tetchie Agbayani
-Tetsu Komai
 Tetsu Watanabe
 Tetsuji Tamayama
 Tetsurō Tamba
@@ -63910,6 +63052,7 @@ The Crusher (wrestler)|Reginald Lisowski
 The Dapper Dans
 The Darkness (band)|Emily Dolan Davies
 The Dazzle Dancers
+The Del-Aires
 The Dogs,
 The Electric Mayhem|Dr. Teeth
 The Electric Mayhem|Janice
@@ -63982,7 +63125,6 @@ Thea White
 Theepetti Ganesan
 Thekla Reuten
 Thelma Barlow
-Thelma Daniels
 Thelma Houston
 Thelma Pelish
 Thelma Ritter
@@ -64005,6 +63147,7 @@ Theo James
 Theo Kogan
 Theo Pagones
 Theo Rossi
+Theo Stevenson
 Theo Stockman
 Theodor Danetti
 Theodora Greece
@@ -64015,7 +63158,6 @@ Theodore Lehmann
 Theodore Marcuse
 Theodore Wilson
 Theodore Wilson|Teddy Wilson
-Theodore von Eltz
 Theodoros Zegeye-Gebrehiwot
 Theodus Crane
 Thereese
@@ -64027,7 +63169,6 @@ Theresa Randle
 Theresa Saldana
 Theresa San-Nicholas
 Theresa Thompson
-Theresa Tova
 Theresa Wayman
 Theresa Zong
 Therese Bradley
@@ -64122,7 +63263,6 @@ Thomas Elliott
 Thomas F. Wilson
 Thomas F. Wilson|Tom Wilson
 Thomas Francis Murphy (actor)|Thomas Francis Murphy
-Thomas G. Lingham
 Thomas G. Waites
 Thomas Gibson
 Thomas Gleadow
@@ -64134,7 +63274,6 @@ Thomas Guiry
 Thomas Gullestad
 Thomas H. Needham
 Thomas Haden Church
-Thomas Hadley
 Thomas Hal Phillips
 Thomas Hanley
 Thomas Hauff
@@ -64158,7 +63297,6 @@ Thomas Jane
 Thomas Jane O'Leary
 Thomas Jane|Tom Jane
 Thomas Jay Ryan
-Thomas Jefferson (actor)|Thomas Jefferson
 Thomas Jefferson Byrd
 Thomas Jefferson Byrd|Thom Byrd
 Thomas Jefferson Byrd|Tom Byrd
@@ -64429,7 +63567,6 @@ Tim Henry
 Tim Herlihy
 Tim Hodge
 Tim Hodgin
-Tim Holt
 Tim Hopper
 Tim Hoskins
 Tim House
@@ -64452,8 +63589,6 @@ Tim Lounibos
 Tim Man
 Tim Marback
 Tim McCauley
-Tim McCoy
-Tim McCoy and Joyce Compton
 Tim McDaniel
 Tim McDonell
 Tim McGraw
@@ -64467,7 +63602,6 @@ Tim Minchin
 Tim Minear
 Tim Monsion
 Tim Murdock
-Tim Murphy
 Tim Neeley
 Tim O'Hare
 Tim Parati
@@ -64508,7 +63642,6 @@ Tim Sitarz
 Tim Spencer (singer)|Tim Spencer
 Tim Stack
 Tim Storms
-Tim Sullivan
 Tim Sullivan (director)|Tim Sullivan
 Tim Thomerson
 Tim Thomerson|Timothy Thomerson
@@ -64629,7 +63762,6 @@ Tina Benko
 Tina Caspary
 Tina Cerato
 Tina Chen
-Tina Cheri
 Tina Cristiani
 Tina Desai
 Tina Fey
@@ -64726,7 +63858,6 @@ Tobias Truvillion
 Tobias Wolff
 Tobin Bell
 Tobit Raphael
-Toby Claude
 Toby Eddington
 Toby Edington
 Toby Fisher
@@ -64742,6 +63873,7 @@ Toby Levins
 Toby Michaels
 Toby Murray
 Toby Philpott
+Toby Proctor
 Toby Radloff
 Toby Regbo
 Toby Scott Ganger
@@ -64751,7 +63883,6 @@ Toby Stephens
 Toby Tarnow
 Toby Turner
 Tod Andrews
-Tod Cregier
 Tod Davies
 Tod Fennell
 Todd A. Robinson
@@ -64856,7 +63987,6 @@ Tom Basham
 Tom Bastounes
 Tom Bateman (actor)|Tom Bateman
 Tom Bates
-Tom Bay
 Tom Bell (actor)|Tom Bell
 Tom Benko
 Tom Bennett (actor)|Tom Bennett
@@ -64918,7 +64048,6 @@ Tom Davidson
 Tom Davis (comedian)|Tom Davis
 Tom DeLonge
 Tom DeNucci
-Tom Douglas
 Tom Downey
 Tom Drake
 Tom Draper
@@ -64953,7 +64082,6 @@ Tom Fridley
 Tom Fuccello
 Tom Fulp
 Tom Gallant
-Tom Gallery
 Tom Gallop
 Tom Gammill
 Tom Georgeson
@@ -65073,7 +64201,6 @@ Tom McFadden
 Tom McGowan
 Tom McGrath (animator)|Tom McGrath
 Tom McGreevey
-Tom McGuire (actor)|Tom McGuire
 Tom McHugh
 Tom McKitterick
 Tom McLoughlin
@@ -65082,7 +64209,6 @@ Tom Middleton
 Tom Milanovich
 Tom Mison
 Tom Mix
-Tom Moore (actor)|Tom Moore
 Tom Morga
 Tom Mottram
 Tom Murrel
@@ -65099,10 +64225,7 @@ Tom Noonan
 Tom Norton
 Tom Novembre
 Tom Nowicki
-Tom O'Brien (American actor born 1890)|Tom O'Brien
 Tom O'Brien (actor)|Tom O'Brien
-Tom O'Brien (silent film actor)|Tom O'Brien
-Tom O'Grady
 Tom O'Rourke
 Tom Odell
 Tom Ohmer
@@ -65132,7 +64255,6 @@ Tom Redhill
 Tom Reese
 Tom Reilly
 Tom Rhys Harries
-Tom Ricketts
 Tom Riis Farrell
 Tom Riley (actor)|Tom Riley
 Tom Robbins
@@ -65141,7 +64263,6 @@ Tom Rooney
 Tom Rosenthal (actor)|Tom Rosenthal
 Tom Rosqui
 Tom Santo
-Tom Santschi
 Tom Savini
 Tom Schanley
 Tom Schiller
@@ -65204,7 +64325,6 @@ Tom Wilkinson (actor)|Tom Wilkinson
 Tom Willett
 Tom Williams
 Tom Williamson (actor)|Tom Williamson
-Tom Wilson (actor)|Tom Wilson
 Tom Wisdom
 Tom Wlaschiha
 Tom Wolfe
@@ -65268,7 +64388,6 @@ Tommy Flanagan (actor)|Tommy Flanagan
 Tommy French
 Tommy G. Kendrick
 Tommy Godfrey
-Tommy Gunn (actor)|Tommy Gunn
 Tommy Gunn (pornographic actor)|Thomas J. Strada
 Tommy Hicks
 Tommy Hilfiger
@@ -65504,7 +64623,6 @@ Tony Maccario
 Tony Maggio
 Tony Mamet
 Tony March
-Tony Mark
 Tony Marks
 Tony Marsico
 Tony Martin (Australian actor)|Tony Martin
@@ -65587,7 +64705,6 @@ Tony Todd
 Tony Torn
 Tony Touch
 Tony Turco
-Tony Uttley
 Tony V.
 Tony Valdes
 Tony Vazquez
@@ -65644,7 +64761,6 @@ Torsten Wahlund
 Toru Nagai
 Torun Esmaeili
 Tory Kittles
-Tory Lane
 Tosha Doiron
 Toshihiko Seki
 Toshiji Takeshima
@@ -65670,7 +64786,6 @@ Townsend Coleman
 Townshend
 Townshend's
 Toy Newkirk
-Toyo Fujita
 Toyoaki Suzuki
 Toyota
 Traber Burns
@@ -66115,6 +65230,7 @@ Tyanna Rolley
 Tycho Thal
 Tye Sheridan
 Tyga
+Tyger Drew-Honey
 Tyger Rawlings
 Tygh Runyan
 Tyler
@@ -66223,6 +65339,8 @@ US Maple|Al Johnson
 Ubaldo Lay
 Ubaldo Pantani
 Udo Kier
+Udom Taephanit
+Udom Tarpanich
 Uggie
 Ughetto Bertucci
 Uglješa Kojadinović
@@ -66329,7 +65447,6 @@ Vaclav Legner
 Vadhir Derbez
 Vadim Dobrin
 Vadim Glowna
-Vadim Uraneff
 Vadli Belizaire
 Vaggelis Kloufetos
 Vaginal Davis
@@ -66417,7 +65534,6 @@ Valerie Mahaffey
 Valerie Meachum
 Valerie Murphy
 Valerie Pachner
-Valerie Pearson
 Valerie Perrine
 Valerie Planche
 Valerie Richards
@@ -66593,12 +65709,9 @@ Vera Johnson
 Vera Letizia Muratova
 Vera Lewis
 Vera Lockwood
-Vera Marin
 Vera Marshe
 Vera Mayer
 Vera Miles
-Vera Reynolds
-Vera Steadman
 Vera Taylor
 Vera Vitali
 Vera Wang
@@ -66609,7 +65722,6 @@ Verica Nedeska
 Verka Serduchka
 Vern Monnett
 Verna Felton
-Verna Hillie
 Verne Gagne
 Verne Lundquist
 Verne Troyer
@@ -66625,6 +65737,7 @@ Vernon Dobtcheff
 Vernon Gray
 Vernon Grote
 Vernon Kay
+Vernon Smallpiece...Norman Mitchell
 Vernon Vaughn
 Vernon Washington
 Vernon Weddle
@@ -66648,7 +65761,6 @@ Veronica Lauren
 Veronica Lazar
 Veronica Nommenson
 Veronica Osorio
-Veronica Rayne
 Veronica Russell
 Veronica Tulloch
 Veronica Watt
@@ -66663,7 +65775,6 @@ Verónica Langer
 Verónica Llinás
 Verónica Segura
 Vesna Orel
-Vesta Marlowe
 Vi Stevens
 Vic Armstrong
 Vic Browder
@@ -66688,6 +65799,7 @@ Vic Uematsu
 Vic Waghorn
 Vic Wilson
 Vica Kerekes
+Vicar
 Vicco von Bülow
 Vicellous Reon Shannon
 Vicellous Reon Shannon|Vicellous Shannon
@@ -66763,7 +65875,6 @@ Victor Johnson (actor)|Victor Johnson
 Victor Jory
 Victor Junquera
 Victor Ken
-Victor Kilian
 Victor Kravetz
 Victor Love
 Victor Lundin
@@ -66781,7 +65892,6 @@ Victor Ortiz
 Victor Pedtrchenko
 Victor Pinheiro
 Victor Poletti
-Victor Potel
 Victor Power (actor)|Victor Power
 Victor Raider-Wexler
 Victor Rasuk
@@ -66884,7 +65994,6 @@ Victoria Willing
 Victoria Wood
 Victoria Wright
 Victoria Young
-Victory Bateman
 Victory Tischler-Blue
 Vida Guerra
 Vida Jerman
@@ -66910,7 +66019,6 @@ Viladda Vanadurongwan
 Viletta Skillman
 Vilius Tumalavicius
 Village People
-Villatta Singley
 Ville Haapasalo
 Vilmos Heim
 Vilmos Zsigmond
@@ -66982,6 +66090,7 @@ Vincent Hall
 Vincent Hammond
 Vincent Irizarry
 Vincent J. Isaac
+Vincent Junior Bergeron
 Vincent Kartheiser
 Vincent Kok
 Vincent Lacoste
@@ -67011,7 +66120,6 @@ Vincent Regan
 Vincent Riotta
 Vincent Robert Santa Lucia
 Vincent Rodriguez III
-Vincent Rose
 Vincent Rother
 Vincent Rubino
 Vincent Saint-Ouen
@@ -67043,6 +66151,7 @@ Vincenzo Nicoli
 Vincenzo Pellegrino
 Vincenzo Sartini
 Vindu Dara Singh
+Vinegar Vera
 Vinessa Shaw
 Vinette Cecelia
 Vinette Robinson
@@ -67069,7 +66178,6 @@ Vinny Vella|Vinny Vella, Sr.
 Vinson German
 Vinton Hayworth
 Vinzenz Kiefer
-Viola Dana
 Viola Harris
 Viola Spolin
 Viola Swayne
@@ -67077,7 +66185,6 @@ Viola Valentino
 Violante Placido
 Violent J
 Violet Hicks
-Violet La Plante
 Violet McGraw
 Violet Ramis
 Violett Beane
@@ -67094,9 +66201,6 @@ Virgilio Gazzolo
 Virginia Baker
 Virginia Balestrieri
 Virginia Balistrieri
-Virginia Baynes
-Virginia Bradford
-Virginia Brown Faire
 Virginia Bruce
 Virginia Capers
 Virginia Carrington
@@ -67111,7 +66215,6 @@ Virginia Hawkins
 Virginia Hey
 Virginia Kiser
 Virginia Lee
-Virginia Lee Corbin
 Virginia Leith
 Virginia Madsen
 Virginia Maskell
@@ -67122,11 +66225,8 @@ Virginia O'Brien
 Virginia Periera
 Virginia Podesser
 Virginia Rambal
-Virginia Roye
 Virginia Sale
 Virginia Smith
-Virginia True Boardman
-Virginia Valli
 Virginia Vee|Virginia Vee
 Virginia Vestoff
 Virginia Vincent
@@ -67196,7 +66296,6 @@ Vivian Matalon
 Vivian Nathan
 Vivian Ng
 Vivian Nixon
-Vivian Oakland
 Vivian Pickles
 Vivian Reis
 Vivian Vachon
@@ -67208,10 +66307,10 @@ Vivica A. Fox
 Vivica Fox
 Vivien Blair
 Vivien Cardone
+Vivien Creegor
 Vivien Endicott-Douglas
 Vivien Fay
 Vivien Lyra Blair
-Vivien Oakland
 Vivien Straus
 Vivienne Jolie-Pitt
 Vivienne Ritchie
@@ -67295,12 +66394,8 @@ W. Mark Lanier
 W. Morgan Sheppard
 W. Morgan Sheppard|Morgan Sheppard
 W. Morgan Sheppard|William Morgan Sheppard
-W. Stuart McCrea
 W.E. Holloway
-W.K. Mesick
-W.L. Adams
 W.L. Luckey
-W.T. McCulley
 WC (rapper)|WC
 Wa-King Conner
 Wack Pack|Crackhead Bob
@@ -67336,13 +66431,11 @@ Walker Edmiston
 Walker Howard
 Walker Richards
 Walker Scobell
-Wallace Beery
 Wallace Brooks
 Wallace Chadwell
 Wallace Ford
 Wallace K. Wilkinson
 Wallace Langham
-Wallace MacDonald
 Wallace Merck
 Wallace Rooney
 Wallace Wilkinson
@@ -67379,6 +66472,7 @@ Walt Flanagan
 Walt MacPherson
 Walt Myers
 Walt Smith
+Walter	...Edward Malin
 Walter (Muppet)|Walter
 Walter Abel
 Walter Addison
@@ -67435,13 +66529,10 @@ Walter Learning
 Walter Lehfeld
 Walter Lippa
 Walter Lynn
-Walter Maly
 Walter Marsh
 Walter Martin (musician)|Walter Martin
 Walter Marín
 Walter Massey (actor)|Walter Massey
-Walter McGrail
-Walter Miller (actor)|Walter Miller
 Walter Murch
 Walter O. Miles
 Walter Olkewicz
@@ -67452,16 +66543,13 @@ Walter Poole
 Walter Quispe
 Walter Reed (actor)|Walter Reed
 Walter Robles
-Walter Rodgers
 Walter S. Bernard
 Walter Salles
 Walter Schmidinger
 Walter Scott
-Walter Shumway
 Walter Simpson III
 Walter Slezak
 Walter Sparrow
-Walter Stile
 Walter Varndal
 Walter Woolf King
 Walter Wyatt (stuntman)|Walter Wyatt
@@ -67495,7 +66583,6 @@ Wang Xiaoshuai
 Wang Ziwen
 Ward Bond
 Ward Costello
-Ward Crane
 Ward Horton
 Warde Donovan
 Waris Ahluwalia
@@ -67503,7 +66590,6 @@ Warner
 Warner Anderson
 Warner Baxter
 Warner Loughlin
-Warner Richmond
 Warner Shook
 Warner Venetz
 Warren A. Stevens
@@ -67559,6 +66645,7 @@ Washington State Governor
 Washington Xisolo
 Wass Stevens
 Wataru Fukuda
+Waterworth-Santo
 Wathana Suksongroh
 Wayans family#Nadia Wayans|Nadia Wayans
 Wayland Flowers
@@ -67614,6 +66701,7 @@ Wayne Smith
 Wayne Stewart
 Wayne Storm
 Wayne Sutherlin
+Wayne Ward
 Wayne Woodson
 Wazim Takir
 Weaver Levy
@@ -67627,7 +66715,6 @@ Welile Nzunza
 Welker
 Welker White
 Wen Yann Shih
-Wendall Smith... Matt Wiley
 Wende Wagner
 Wendee Lee
 Wendee Lee|Wendee Swan
@@ -67705,6 +66792,7 @@ Wensley Pithey
 Wentworth Miller
 Wentzle Ruml IV
 Wenxia Yu
+Weranut Tippayamontol
 Werner Biermeier
 Werner Bruhns
 Werner Daehn
@@ -67713,7 +66801,6 @@ Werner Hinz
 Werner Klemperer
 Werner Pochath
 Weronika Rosati
-Werther Weidler
 Wes
 Wes Anderson
 Wes Bentley
@@ -67743,13 +66830,11 @@ Wesley Morgan (actor)|Wesley Morgan
 Wesley Patten
 Wesley Pfenning
 Wesley Schultz
-Wesley Seminowich
 Wesley Singerman
 Wesley Snipes
 Wesley Stiller
 Wesley Thompson
 West DeLarosa
-Westcott Clarke
 Westin Self
 Weston Adams
 Weston Gavin
@@ -67758,7 +66843,6 @@ Weston McMillan
 Weyman Thompson
 What About Brian|Anaisa Maestas
 What About Brian|Malena Maestas
-Wheeler Oakman
 Whip Hubley
 Whiskey Shivers
 Whit Bissell
@@ -67806,12 +66890,10 @@ Wilfredo Hernández
 Wilfrid Brambell
 Wilfrid Hyde-White
 Wilfrid Lawson (actor)|Wilfrid Lawson
-Wilfrid North
 Wilfried Paul
 Wilhelm Koch-Hooge
 Wilhelm Lewis
 Wilhelm von Brincken
-Wilhelm von Brincken|William von Brinken
 Wilhelm von Homburg
 Wiliam T. Bowers
 Will Adamsdale
@@ -67872,7 +66954,6 @@ Will Patton
 Will Peltz
 Will Peltz|William Peltz
 Will Poulter
-Will Powers
 Will Pullen
 Will Reeve
 Will Reichelt
@@ -67895,7 +66976,6 @@ Will Stout
 Will Swenson (actor)|Will Swenson
 Will Walker
 Will Wallace
-Will Walling
 Will West
 Will Woytowich
 Will Wright (actor)|Will Wright
@@ -67910,7 +66990,6 @@ Willa Taylor
 Willam Belli
 Willard E. Pugh
 Willard E. Pugh|Willard Pugh
-Willard Louis
 Willard Parker
 Willard Sage
 Willard Waterman
@@ -67922,10 +67001,8 @@ William "Bill" Phillips
 William "Bill" Rice|William Rice
 William "Bill" Walker
 William "Billy" Benedict
-William "Stage" Boyd
 William 'Billy' Benedict
 William 'Buddy' Byrd
-William A. Carroll
 William A. Forester
 William A. Keller
 William A. Porter
@@ -67937,12 +67014,10 @@ William Armstrong
 William Ash (actor)|William Ash
 William Atherton
 William Attenborough
-William Austin (actor)|William Austin
 William B. Davidson
 William B. Davis
 William B. Simmons II
 William Bagdad
-William Bailey (actor)|William Bailey
 William Bakewell
 William Barillaro
 William Baskin
@@ -67955,11 +67030,9 @@ William Bendix
 William Benedict
 William Berger (actor)|William Berger
 William Bishop (actor)|William Bishop
-William Blaisdell
 William Bloomfield
 William Bogert
 William Bonano
-William Boyd (actor)|William 'Stage' Boyd
 William Boyd (actor)|William Boyd
 William Boyett
 William Bramley
@@ -67985,7 +67058,6 @@ William Clark
 William Colgate
 William Collier Jr.
 William Colquitt
-William Conklin
 William Connor
 William Conrad
 William Converse-Roberts
@@ -68026,8 +67098,6 @@ William Ellis (actor)|William Ellis
 William Engesser
 William Eythe
 William F. Buckley
-William F. Moran (actor)|William F. Moran
-William Farnum
 William Fichtner
 William Finley (actor)|Bill Finley
 William Finley (actor)|William Finley
@@ -68054,7 +67124,6 @@ William Grennan
 William Griffis
 William H. Boesen
 William H. Burkett
-William H. Strauss
 William Hahn
 William Hall (actor)|William Hall
 William Hall Jr.
@@ -68102,7 +67171,6 @@ William Kerwin
 William Killian
 William Kircher
 William Klein
-William Korbut... Charlie
 William Kuhlke
 William Kunstler
 William L. Johnson
@@ -68127,7 +67195,6 @@ William Lundigan
 William Macdonald (actor)|William Macdonald
 William Magerman
 William Mahoney
-William Malan
 William Malten
 William Mapother
 William Marquez
@@ -68156,19 +67223,16 @@ William Morgan Sheppard
 William Morse
 William Moseley (actor)|William Moseley
 William Murray Weiss
-William N. Bailey
 William Nadylam
 William Nettleman
 William Newman (actor)|William Newman
 William O'Connell (actor)|William O'Connell
 William O'Leary (actor)|William O'Leary
 William Ontiveros
-William Orlamond
 William Osler
 William Ostrander
 William Ovell
 William P. Benz
-William P. Burt
 William Pabst
 William Parker
 William Parry
@@ -68197,13 +67261,11 @@ William Reynolds (actor)|William Reynolds
 William Richert
 William Rick Young
 William Riker
-William Robert Daly
 William Roerick
 William Rothlein
 William Rotsler
 William Russ
 William Russell (English actor)|William Russell
-William Ryno
 William S. Burroughs
 William S. Burroughs|William Burroughs
 William S. Taylor
@@ -68228,8 +67290,6 @@ William Splawn
 William Squire
 William Stanford Davis
 William Stanton
-William Steele (actor)|William Steel
-William Steele (actor)|William Steele
 William Steis
 William Sterchi
 William Stone Mahoney
@@ -68255,7 +67315,6 @@ William Traylor
 William Turner
 William Ullrich
 William Utay
-William V. Mong
 William Vail
 William Van Der Pye
 William Vanderpuye
@@ -68263,7 +67322,6 @@ William Walker (US actor)|Bill Walker
 William Ward
 William Watson (actor)|William Watson
 William Watts
-William Welsh (actor)|William Welsh
 William White
 William Wise
 William Wisher, Jr.
@@ -68284,7 +67342,6 @@ Willie Aames
 Willie Brown (politician)|Willie Lewis Brown Jr.
 Willie C. Carpenter
 Willie Colón
-Willie Fung
 Willie Garson
 Willie Geist
 Willie Hall (drummer)|Willie "Too Big" Hall
@@ -68310,7 +67367,6 @@ Willie Woods
 Willis Bouchey
 Willis Burks II
 Willis Burks II|Willis Burks
-Willis Marks
 Willoughby Gray
 Willow Bay
 Willow Hale
@@ -68324,10 +67380,8 @@ Willy Holt|Will Holt
 Willy Lavendel
 Willy Maertens
 Willy Parsons
-Wilma Morris
 Wilmer Calderon
 Wilmer Fernandez
-Wilson Benge
 Wilson Better
 Wilson Chen
 Wilson Cruz
@@ -68342,12 +67396,10 @@ Windy Morgan Bunts
 Wings Hauser
 Winifred Dennis
 Winifred Freedman
-Winifred Landis
 Winifriede McDowall
 Wink Martindale
 Winnie Holzman
 Winnie Hung
-Winnie Lightner
 Winnie the Pooh (Disney character)|Winnie the Pooh
 Winona Ryder
 Winslow Fegley
@@ -68370,7 +67422,6 @@ Winter
 Winter (dolphin)|Winter
 Winter Ave Zoli
 Winter Fox Frank
-Winter Hall
 Winton Nicholson
 Wirt Cain
 With
@@ -68401,7 +67452,6 @@ Wolfgang Pissors
 Wolfgang Preiss
 Wolfgang Puck
 Wolfgang Völz
-Wolfgang Weidler
 Wolfman Jack
 Wolfram Kons
 Wolframio Sinué
@@ -68462,7 +67512,6 @@ Wyking Jones
 Wylie Allen
 Wynn
 Wynn Everett
-Wynne Gibson
 Wynter Kullman
 Wynter Perrineau
 Wynton Marsalis
@@ -68628,7 +67677,6 @@ Yojiro Noda
 Yoko Ono
 Yola (singer)|Yola Quartey
 Yolanda Adams
-Yolanda Cardinal
 Yolanda Gaskins
 Yolanda Herrero
 Yolanda Howard
@@ -68703,6 +67751,7 @@ Yule Masiteng
 Yulia Savicheva
 Yulian Vergov
 Yuliya Snigir
+Yume Miyamoto
 Yumi Nara
 Yurem Rojas
 Yuri Chervotin
@@ -68715,7 +67764,6 @@ Yuri Treschuck
 Yuri Vergeichikov
 Yuriko Fuchizaki
 Yuriy Tsurilo
-Yurizan Beltran
 Yusef Bulos
 Yusra Warsama
 Yusuf Gatewood
@@ -68736,7 +67784,6 @@ Yves Barsacq
 Yves Beneyton
 Yves Bright
 Yves Cameron
-Yves Deniaud (actor)|Yves Deniaud
 Yves Heck
 Yves Jacques
 Yves Lola St. Vil
@@ -68769,7 +67816,6 @@ Yvonne De Carlo
 Yvonne Delarosa
 Yvonne Furneaux
 Yvonne Gilan
-Yvonne Howell
 Yvonne Huff
 Yvonne Maria Schäfer
 Yvonne McCord
@@ -68779,7 +67825,6 @@ Yvonne O'Grady
 Yvonne Orji
 Yvonne Riley
 Yvonne Romain
-Yvonne Routon
 Yvonne Sanson
 Yvonne Scio
 Yvonne Sciò
@@ -68960,7 +68005,6 @@ Zanie Campan
 Zara Brocklesby
 Zara Cully
 Zara Turner
-Zasu Pitts
 Zawe Ashton
 Zazie Beetz
 Zbigniew Zamachowski
@@ -68995,7 +68039,6 @@ Zephyr Benson
 Zeritu Kebede
 Zero Mostel
 Zeta Graff
-Zetta Robson
 Zeus
 Zeus Campbell
 Zhan Jia
@@ -69167,7 +68210,6 @@ Zvezda Angelovska
 Zvonko Lepetić
 Zypora Spaisman
 Zélie Boulant-Lemesle
-Zélie Yzelle
 Zöe Salmon
 and Alfred Molina
 and Charles S. Dutton
@@ -69179,6 +68221,7 @@ and John Hurt
 and Jolene Blalock
 and Megan Blake
 and Russell Wong
+and Taye Diggs
 ast
 born 1959)|Brad Johnson
 characters who act like the main character but are actually the annoying side character

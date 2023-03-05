@@ -65,4 +65,21 @@ public class MovieDatabaseBuilder {
         }
         return actMov;
     }
+
+    public static ArrayList<Integer> getIndexDB(String fileName) {
+        ArrayList<Integer> index = new ArrayList<>();
+        try {
+            File movieData = new File(fileName);
+            Scanner reader = new Scanner(movieData);
+            while (reader.hasNextLine()) {
+                String line = reader.nextLine();
+                index.add(Integer.parseInt(line));
+            }
+        }
+        catch (FileNotFoundException noFile) {
+            System.out.println("File not found!");
+            return null;
+        }
+        return index;
+    }
 }
