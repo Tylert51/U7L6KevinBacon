@@ -11,16 +11,21 @@ public class FileW2 {
     public static void main(String[] args) {
         int counter = 1;
 
-        ArrayList<String> d3 = new ArrayList<>();
-        Collections.sort(d3);
+        ArrayList<String> actorsLeft = MovieDatabaseBuilder.getActorDB("src/actorsLeft.txt");
+        ArrayList<String> path = new ArrayList<>();
 
+        ArrayList<String> d6 = MovieDatabaseBuilder.getActorDB("src/d6.txt");
+        actorsLeft.removeAll(d6);
+
+
+        Collections.sort(actorsLeft);
 
         try {
-            File f = new File("src/d3.txt");
+            File f = new File("src/actorsLeft.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
 
-            for (String a : d3) {
+            for (String a : actorsLeft) {
                 fw.write(a + "\n");
             }
             fw.close();

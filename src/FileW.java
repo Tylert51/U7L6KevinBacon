@@ -13,45 +13,37 @@ public class FileW {
 
         ArrayList<String> d1 = MovieDatabaseBuilder.getActorDB("src/bacon_cast_mates.txt");
         ArrayList<String> d2 = MovieDatabaseBuilder.getActorDB("src/trueD2Act.txt");
-        ArrayList<String> all = new ArrayList<>();
-        ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov.txt");
-        ArrayList<SimpleMovie> allMovies = MovieDatabaseBuilder.getMovieDB("src/movies_sorted_delimiter.txt");
+        ArrayList<String> d3 = MovieDatabaseBuilder.getActorDB("src/d3.txt");
+        ArrayList<String> d4A = MovieDatabaseBuilder.getActorDB("src/d4.txt");
+        ArrayList<String> d5A = MovieDatabaseBuilder.getActorDB("src/d5.txt");
 
-        ArrayList<String> d3 = new ArrayList<>();
+        ArrayList<Actor> allActors = MovieDatabaseBuilder.getActorMovieDB("src/actor_to_mov.txt");
+        ArrayList<String> all = new ArrayList<>();
+        ArrayList<String> left = new ArrayList<>();
 
         all.add("Kevin Bacon");
-
-        all.addAll((ArrayList<String>)d2.clone());
         all.addAll(d1);
+        all.addAll(d2);
+        all.addAll(d3);
+        all.addAll(d4A);
+        all.addAll(d5A);
 
-        for(String a : d2) {
-            int indOfAc = Bacon.fullSearchA(allActors, a);
-            Actor actor = allActors.get(indOfAc);
-            ArrayList<String> moviesS = actor.getMoviesStarred();
+        for(Actor a : allActors) {
+            String act = a.getName();
 
-            for(String m : moviesS) {
-                int indOfMov = Bacon.fullSearchMT(allMovies, m);
-                SimpleMovie mov = allMovies.get(indOfMov);
-                ArrayList<String> actors = mov.getActors();
-
-                for(String act : actors) {
-                    if(!all.contains(act) && !d3.contains(act)) {
-                        d3.add(act);
-                    }
-                }
+            if(!all.contains(act)) {
+                left.add(act);
             }
-
-            System.out.println(counter + " / " + d2.size());
+            System.out.println(counter + " / " + allActors.size());
             counter++;
         }
 
-
         try {
-            File f = new File("src/filler.txt");
+            File f = new File("src/actorsLeft.txt");
             f.createNewFile();
             FileWriter fw = new FileWriter(f);
 
-            for (String a : d3) {
+            for (String a : left) {
                 fw.write(a + "\n");
             }
             fw.close();
