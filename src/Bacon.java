@@ -72,10 +72,12 @@ public class Bacon {
                 calculate6(searchAc, path);
             }
 
-
-            System.out.println();
-            printPath(path, degree);
-
+            if (path.size() == degree * 2 || degree == 0) {
+                System.out.println();
+                printPath(path, degree);
+            } else {
+                System.out.println("\nSorry, the actor you have entered is greater than degree 6");
+            }
 
             System.out.println();
             System.out.print("Enter and actor's name or (q) to quit: ");

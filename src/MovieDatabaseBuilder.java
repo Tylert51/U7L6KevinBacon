@@ -51,11 +51,27 @@ public class MovieDatabaseBuilder {
             File movieData = new File(fileName);
             Scanner reader = new Scanner(movieData);
             while (reader.hasNextLine()) {
+                ArrayList<String> moviesStarred;
                 String line = reader.nextLine();
-                String[] data = line.split("---");
-                String[] movies = data[1].split(":::");
-                ArrayList<String> moviesStarred = new ArrayList<String>(List.of(movies));
-                Actor a = new Actor(data[0], moviesStarred);
+                Actor a;
+                if(line.contains("Michał Żebrowski")) {
+                    String actor = "Michał Żebrowski <!--";
+                    moviesStarred = new ArrayList<String>(List.of("Tajemnica Westerplatte"));
+                    a = new Actor(actor, moviesStarred);
+
+                } else if (line.contains("Chris Masterson")) {
+                    String actor = "Chris Masterson<!--";
+                    moviesStarred = new ArrayList<String>(List.of("Impulse (2010 film)"));
+                    a = new Actor(actor, moviesStarred);
+
+                } else {
+
+                    String[] data = line.split("---");
+                    String[] movies = data[1].split(":::");
+                    moviesStarred = new ArrayList<String>(List.of(movies));
+                    a = new Actor(data[0], moviesStarred);
+
+                }
                 actMov.add(a);
             }
         }
